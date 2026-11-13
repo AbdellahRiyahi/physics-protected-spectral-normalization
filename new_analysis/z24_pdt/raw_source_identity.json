@@ -1,0 +1,2144 @@
+{
+  "/data/a.riyahi/data/z24/01/avt/01setup01.mat": {
+    "device": 47,
+    "inode": 73048088634,
+    "size_bytes": 8332714,
+    "mtime_ns": 1208935260000000000,
+    "ctime_ns": 1789915684685408997
+  },
+  "/data/a.riyahi/data/z24/01/avt/01setup02.mat": {
+    "device": 47,
+    "inode": 73048088635,
+    "size_bytes": 6815606,
+    "mtime_ns": 1208935392000000000,
+    "ctime_ns": 1789915684871412158
+  },
+  "/data/a.riyahi/data/z24/01/avt/01setup03.mat": {
+    "device": 47,
+    "inode": 73048088636,
+    "size_bytes": 7293358,
+    "mtime_ns": 1208935514000000000,
+    "ctime_ns": 1789915685178417375
+  },
+  "/data/a.riyahi/data/z24/01/avt/01setup04.mat": {
+    "device": 47,
+    "inode": 73048088637,
+    "size_bytes": 9935690,
+    "mtime_ns": 1208935636000000000,
+    "ctime_ns": 1789915685628425023
+  },
+  "/data/a.riyahi/data/z24/01/avt/01setup05.mat": {
+    "device": 47,
+    "inode": 73048088638,
+    "size_bytes": 10164825,
+    "mtime_ns": 1208935748000000000,
+    "ctime_ns": 1789915686560440862
+  },
+  "/data/a.riyahi/data/z24/01/avt/01setup06.mat": {
+    "device": 47,
+    "inode": 73048088639,
+    "size_bytes": 7420102,
+    "mtime_ns": 1208935870000000000,
+    "ctime_ns": 1789915687596458468
+  },
+  "/data/a.riyahi/data/z24/01/avt/01setup07.mat": {
+    "device": 47,
+    "inode": 73048209421,
+    "size_bytes": 7913888,
+    "mtime_ns": 1208935980000000000,
+    "ctime_ns": 1789915688973481870
+  },
+  "/data/a.riyahi/data/z24/01/avt/01setup08.mat": {
+    "device": 47,
+    "inode": 73048284176,
+    "size_bytes": 8022818,
+    "mtime_ns": 1208936110000000000,
+    "ctime_ns": 1789915689347488226
+  },
+  "/data/a.riyahi/data/z24/01/avt/01setup09.mat": {
+    "device": 47,
+    "inode": 73048284179,
+    "size_bytes": 7765402,
+    "mtime_ns": 1208936238000000000,
+    "ctime_ns": 1789915689919497947
+  },
+  "/data/a.riyahi/data/z24/01/fvt/01setup01.mat": {
+    "device": 47,
+    "inode": 75186044958,
+    "size_bytes": 14787750,
+    "mtime_ns": 1209134328000000000,
+    "ctime_ns": 1789915691790529744
+  },
+  "/data/a.riyahi/data/z24/01/fvt/01setup02.mat": {
+    "device": 47,
+    "inode": 75186044962,
+    "size_bytes": 15303159,
+    "mtime_ns": 1209134704000000000,
+    "ctime_ns": 1789915692514542048
+  },
+  "/data/a.riyahi/data/z24/01/fvt/01setup03.mat": {
+    "device": 47,
+    "inode": 75190469660,
+    "size_bytes": 15601593,
+    "mtime_ns": 1209134892000000000,
+    "ctime_ns": 1789915693273554947
+  },
+  "/data/a.riyahi/data/z24/01/fvt/01setup04.mat": {
+    "device": 47,
+    "inode": 75191002638,
+    "size_bytes": 15553411,
+    "mtime_ns": 1209135070000000000,
+    "ctime_ns": 1789915695392590958
+  },
+  "/data/a.riyahi/data/z24/01/fvt/01setup05.mat": {
+    "device": 47,
+    "inode": 75191002639,
+    "size_bytes": 12756028,
+    "mtime_ns": 1209135220000000000,
+    "ctime_ns": 1789915696598611454
+  },
+  "/data/a.riyahi/data/z24/01/fvt/01setup06.mat": {
+    "device": 47,
+    "inode": 75191002644,
+    "size_bytes": 14391617,
+    "mtime_ns": 1209135408000000000,
+    "ctime_ns": 1789915697998635247
+  },
+  "/data/a.riyahi/data/z24/01/fvt/01setup07.mat": {
+    "device": 47,
+    "inode": 75191002645,
+    "size_bytes": 16023454,
+    "mtime_ns": 1209135590000000000,
+    "ctime_ns": 1789915699009652429
+  },
+  "/data/a.riyahi/data/z24/01/fvt/01setup08.mat": {
+    "device": 47,
+    "inode": 75191002646,
+    "size_bytes": 15261044,
+    "mtime_ns": 1209135766000000000,
+    "ctime_ns": 1789915699979668914
+  },
+  "/data/a.riyahi/data/z24/01/fvt/01setup09.mat": {
+    "device": 47,
+    "inode": 75191002665,
+    "size_bytes": 14271095,
+    "mtime_ns": 1209135936000000000,
+    "ctime_ns": 1789915700502677804
+  },
+  "/data/a.riyahi/data/z24/02/avt/02setup01.mat": {
+    "device": 47,
+    "inode": 77333044755,
+    "size_bytes": 6489275,
+    "mtime_ns": 1208936348000000000,
+    "ctime_ns": 1789915701427693523
+  },
+  "/data/a.riyahi/data/z24/02/avt/02setup02.mat": {
+    "device": 47,
+    "inode": 77338049712,
+    "size_bytes": 8461073,
+    "mtime_ns": 1208936482000000000,
+    "ctime_ns": 1789915701745698927
+  },
+  "/data/a.riyahi/data/z24/02/avt/02setup03.mat": {
+    "device": 47,
+    "inode": 77338049713,
+    "size_bytes": 7870215,
+    "mtime_ns": 1208936610000000000,
+    "ctime_ns": 1789915702515712013
+  },
+  "/data/a.riyahi/data/z24/02/avt/02setup04.mat": {
+    "device": 47,
+    "inode": 77338049714,
+    "size_bytes": 10666633,
+    "mtime_ns": 1208936738000000000,
+    "ctime_ns": 1789915704272741873
+  },
+  "/data/a.riyahi/data/z24/02/avt/02setup05.mat": {
+    "device": 47,
+    "inode": 77338049715,
+    "size_bytes": 7685125,
+    "mtime_ns": 1208936846000000000,
+    "ctime_ns": 1789915704973753786
+  },
+  "/data/a.riyahi/data/z24/02/avt/02setup06.mat": {
+    "device": 47,
+    "inode": 77338049716,
+    "size_bytes": 10288665,
+    "mtime_ns": 1208936994000000000,
+    "ctime_ns": 1789915706123773330
+  },
+  "/data/a.riyahi/data/z24/02/avt/02setup07.mat": {
+    "device": 47,
+    "inode": 77338049717,
+    "size_bytes": 9444194,
+    "mtime_ns": 1208937122000000000,
+    "ctime_ns": 1789915708105807014
+  },
+  "/data/a.riyahi/data/z24/02/avt/02setup08.mat": {
+    "device": 47,
+    "inode": 77338049718,
+    "size_bytes": 10407543,
+    "mtime_ns": 1208937272000000000,
+    "ctime_ns": 1789915709352828207
+  },
+  "/data/a.riyahi/data/z24/02/avt/02setup09.mat": {
+    "device": 47,
+    "inode": 77338049719,
+    "size_bytes": 7711036,
+    "mtime_ns": 1208937412000000000,
+    "ctime_ns": 1789915709587832201
+  },
+  "/data/a.riyahi/data/z24/02/fvt/02setup01.mat": {
+    "device": 47,
+    "inode": 79514470524,
+    "size_bytes": 15510564,
+    "mtime_ns": 1209231274000000000,
+    "ctime_ns": 1789915710756852067
+  },
+  "/data/a.riyahi/data/z24/02/fvt/02setup02.mat": {
+    "device": 47,
+    "inode": 79523317259,
+    "size_bytes": 15491493,
+    "mtime_ns": 1209145744000000000,
+    "ctime_ns": 1789915711298861278
+  },
+  "/data/a.riyahi/data/z24/02/fvt/02setup03.mat": {
+    "device": 47,
+    "inode": 79540537368,
+    "size_bytes": 15886707,
+    "mtime_ns": 1209145934000000000,
+    "ctime_ns": 1789915712153875808
+  },
+  "/data/a.riyahi/data/z24/02/fvt/02setup04.mat": {
+    "device": 47,
+    "inode": 79540537369,
+    "size_bytes": 15178535,
+    "mtime_ns": 1209146124000000000,
+    "ctime_ns": 1789915712809886957
+  },
+  "/data/a.riyahi/data/z24/02/fvt/02setup05.mat": {
+    "device": 47,
+    "inode": 79540537370,
+    "size_bytes": 12853110,
+    "mtime_ns": 1209232628000000000,
+    "ctime_ns": 1789915713277894911
+  },
+  "/data/a.riyahi/data/z24/02/fvt/02setup06.mat": {
+    "device": 47,
+    "inode": 79540537372,
+    "size_bytes": 14984573,
+    "mtime_ns": 1209146474000000000,
+    "ctime_ns": 1789915714051908064
+  },
+  "/data/a.riyahi/data/z24/02/fvt/02setup07.mat": {
+    "device": 47,
+    "inode": 79540537373,
+    "size_bytes": 14824783,
+    "mtime_ns": 1209146662000000000,
+    "ctime_ns": 1789915714751919961
+  },
+  "/data/a.riyahi/data/z24/02/fvt/02setup08.mat": {
+    "device": 47,
+    "inode": 79540537374,
+    "size_bytes": 15462760,
+    "mtime_ns": 1209146842000000000,
+    "ctime_ns": 1789915715831938315
+  },
+  "/data/a.riyahi/data/z24/02/fvt/02setup09.mat": {
+    "device": 47,
+    "inode": 79540537375,
+    "size_bytes": 15982887,
+    "mtime_ns": 1209147030000000000,
+    "ctime_ns": 1789915716577950993
+  },
+  "/data/a.riyahi/data/z24/03/avt/03setup01.mat": {
+    "device": 47,
+    "inode": 81640404529,
+    "size_bytes": 9533836,
+    "mtime_ns": 1208938698000000000,
+    "ctime_ns": 1789915718786988534
+  },
+  "/data/a.riyahi/data/z24/03/avt/03setup02.mat": {
+    "device": 47,
+    "inode": 81640404531,
+    "size_bytes": 9198144,
+    "mtime_ns": 1208938860000000000,
+    "ctime_ns": 1789915721198029508
+  },
+  "/data/a.riyahi/data/z24/03/avt/03setup03.mat": {
+    "device": 47,
+    "inode": 81640404533,
+    "size_bytes": 10033148,
+    "mtime_ns": 1208939022000000000,
+    "ctime_ns": 1789915723033060694
+  },
+  "/data/a.riyahi/data/z24/03/avt/03setup04.mat": {
+    "device": 47,
+    "inode": 81640404534,
+    "size_bytes": 7008692,
+    "mtime_ns": 1208939154000000000,
+    "ctime_ns": 1789915724123079218
+  },
+  "/data/a.riyahi/data/z24/03/avt/03setup05.mat": {
+    "device": 47,
+    "inode": 81640404535,
+    "size_bytes": 9126128,
+    "mtime_ns": 1208939282000000000,
+    "ctime_ns": 1789915725984110847
+  },
+  "/data/a.riyahi/data/z24/03/avt/03setup06.mat": {
+    "device": 47,
+    "inode": 81640540695,
+    "size_bytes": 9967409,
+    "mtime_ns": 1208939440000000000,
+    "ctime_ns": 1789915727243132243
+  },
+  "/data/a.riyahi/data/z24/03/avt/03setup07.mat": {
+    "device": 47,
+    "inode": 81640540696,
+    "size_bytes": 8748322,
+    "mtime_ns": 1208939596000000000,
+    "ctime_ns": 1789915727957144378
+  },
+  "/data/a.riyahi/data/z24/03/avt/03setup08.mat": {
+    "device": 47,
+    "inode": 81640540697,
+    "size_bytes": 8270979,
+    "mtime_ns": 1208939748000000000,
+    "ctime_ns": 1789915728585155050
+  },
+  "/data/a.riyahi/data/z24/03/avt/03setup09.mat": {
+    "device": 47,
+    "inode": 81640540698,
+    "size_bytes": 8408396,
+    "mtime_ns": 1208939912000000000,
+    "ctime_ns": 1789915729616172572
+  },
+  "/data/a.riyahi/data/z24/03/fvt/03setup01.mat": {
+    "device": 47,
+    "inode": 83777916012,
+    "size_bytes": 15847630,
+    "mtime_ns": 1209231486000000000,
+    "ctime_ns": 1789915731141198489
+  },
+  "/data/a.riyahi/data/z24/03/fvt/03setup02.mat": {
+    "device": 47,
+    "inode": 83777916014,
+    "size_bytes": 15799804,
+    "mtime_ns": 1209147210000000000,
+    "ctime_ns": 1789915732061214124
+  },
+  "/data/a.riyahi/data/z24/03/fvt/03setup03.mat": {
+    "device": 47,
+    "inode": 83777916015,
+    "size_bytes": 15945797,
+    "mtime_ns": 1209147392000000000,
+    "ctime_ns": 1789915732853227584
+  },
+  "/data/a.riyahi/data/z24/03/fvt/03setup04.mat": {
+    "device": 47,
+    "inode": 83777916016,
+    "size_bytes": 15771815,
+    "mtime_ns": 1209147564000000000,
+    "ctime_ns": 1789915733281234857
+  },
+  "/data/a.riyahi/data/z24/03/fvt/03setup05.mat": {
+    "device": 47,
+    "inode": 83777916017,
+    "size_bytes": 12876907,
+    "mtime_ns": 1209147716000000000,
+    "ctime_ns": 1789915733853244578
+  },
+  "/data/a.riyahi/data/z24/03/fvt/03setup06.mat": {
+    "device": 47,
+    "inode": 83777916018,
+    "size_bytes": 15655695,
+    "mtime_ns": 1209147894000000000,
+    "ctime_ns": 1789915734584257002
+  },
+  "/data/a.riyahi/data/z24/03/fvt/03setup07.mat": {
+    "device": 47,
+    "inode": 83777916019,
+    "size_bytes": 15776753,
+    "mtime_ns": 1209148084000000000,
+    "ctime_ns": 1789915736447288663
+  },
+  "/data/a.riyahi/data/z24/03/fvt/03setup08.mat": {
+    "device": 47,
+    "inode": 83777916020,
+    "size_bytes": 15898395,
+    "mtime_ns": 1209148268000000000,
+    "ctime_ns": 1789915736998298027
+  },
+  "/data/a.riyahi/data/z24/03/fvt/03setup09.mat": {
+    "device": 47,
+    "inode": 83777916022,
+    "size_bytes": 15708147,
+    "mtime_ns": 1209148440000000000,
+    "ctime_ns": 1789915738376321446
+  },
+  "/data/a.riyahi/data/z24/04/avt/04setup01.mat": {
+    "device": 47,
+    "inode": 85936429060,
+    "size_bytes": 7348430,
+    "mtime_ns": 1208940072000000000,
+    "ctime_ns": 1789915744923432710
+  },
+  "/data/a.riyahi/data/z24/04/avt/04setup02.mat": {
+    "device": 47,
+    "inode": 85936429061,
+    "size_bytes": 9012563,
+    "mtime_ns": 1208940234000000000,
+    "ctime_ns": 1789915745532443059
+  },
+  "/data/a.riyahi/data/z24/04/avt/04setup03.mat": {
+    "device": 47,
+    "inode": 85936429062,
+    "size_bytes": 8227109,
+    "mtime_ns": 1208940402000000000,
+    "ctime_ns": 1789915746657462179
+  },
+  "/data/a.riyahi/data/z24/04/avt/04setup04.mat": {
+    "device": 47,
+    "inode": 85936429063,
+    "size_bytes": 10657398,
+    "mtime_ns": 1208940548000000000,
+    "ctime_ns": 1789915750434526368
+  },
+  "/data/a.riyahi/data/z24/04/avt/04setup05.mat": {
+    "device": 47,
+    "inode": 85936429064,
+    "size_bytes": 9913945,
+    "mtime_ns": 1208940690000000000,
+    "ctime_ns": 1789915753907585390
+  },
+  "/data/a.riyahi/data/z24/04/avt/04setup06.mat": {
+    "device": 47,
+    "inode": 85936429065,
+    "size_bytes": 10771118,
+    "mtime_ns": 1208940862000000000,
+    "ctime_ns": 1789915755582613856
+  },
+  "/data/a.riyahi/data/z24/04/avt/04setup07.mat": {
+    "device": 47,
+    "inode": 85936429066,
+    "size_bytes": 8581543,
+    "mtime_ns": 1208941042000000000,
+    "ctime_ns": 1789915756764633944
+  },
+  "/data/a.riyahi/data/z24/04/avt/04setup08.mat": {
+    "device": 47,
+    "inode": 85936429067,
+    "size_bytes": 8880412,
+    "mtime_ns": 1208941208000000000,
+    "ctime_ns": 1789915757610648320
+  },
+  "/data/a.riyahi/data/z24/04/avt/04setup09.mat": {
+    "device": 47,
+    "inode": 85936429068,
+    "size_bytes": 6493356,
+    "mtime_ns": 1208941364000000000,
+    "ctime_ns": 1789915758733667405
+  },
+  "/data/a.riyahi/data/z24/04/fvt/04setup01.mat": {
+    "device": 47,
+    "inode": 88097831936,
+    "size_bytes": 15913129,
+    "mtime_ns": 1209231668000000000,
+    "ctime_ns": 1789915761337711660
+  },
+  "/data/a.riyahi/data/z24/04/fvt/04setup02.mat": {
+    "device": 47,
+    "inode": 88097831940,
+    "size_bytes": 15772516,
+    "mtime_ns": 1209148624000000000,
+    "ctime_ns": 1789915761860720548
+  },
+  "/data/a.riyahi/data/z24/04/fvt/04setup03.mat": {
+    "device": 47,
+    "inode": 88097831941,
+    "size_bytes": 15734983,
+    "mtime_ns": 1209148812000000000,
+    "ctime_ns": 1789915762375729300
+  },
+  "/data/a.riyahi/data/z24/04/fvt/04setup04.mat": {
+    "device": 47,
+    "inode": 88097831943,
+    "size_bytes": 15855375,
+    "mtime_ns": 1209148996000000000,
+    "ctime_ns": 1789915763296744952
+  },
+  "/data/a.riyahi/data/z24/04/fvt/04setup05.mat": {
+    "device": 47,
+    "inode": 88097831992,
+    "size_bytes": 13163205,
+    "mtime_ns": 1209149156000000000,
+    "ctime_ns": 1789915763966756340
+  },
+  "/data/a.riyahi/data/z24/04/fvt/04setup06.mat": {
+    "device": 47,
+    "inode": 88097831993,
+    "size_bytes": 15827325,
+    "mtime_ns": 1209149338000000000,
+    "ctime_ns": 1789915764435764310
+  },
+  "/data/a.riyahi/data/z24/04/fvt/04setup07.mat": {
+    "device": 47,
+    "inode": 88097831994,
+    "size_bytes": 15690952,
+    "mtime_ns": 1209149530000000000,
+    "ctime_ns": 1789915764959773216
+  },
+  "/data/a.riyahi/data/z24/04/fvt/04setup08.mat": {
+    "device": 47,
+    "inode": 88097831995,
+    "size_bytes": 15813714,
+    "mtime_ns": 1209149720000000000,
+    "ctime_ns": 1789915765577783719
+  },
+  "/data/a.riyahi/data/z24/04/fvt/04setup09.mat": {
+    "device": 47,
+    "inode": 88097831996,
+    "size_bytes": 15466450,
+    "mtime_ns": 1209149902000000000,
+    "ctime_ns": 1789915766068792063
+  },
+  "/data/a.riyahi/data/z24/05/avt/05setup01.mat": {
+    "device": 47,
+    "inode": 90251800595,
+    "size_bytes": 9635747,
+    "mtime_ns": 1208941534000000000,
+    "ctime_ns": 1789915766627801563
+  },
+  "/data/a.riyahi/data/z24/05/avt/05setup02.mat": {
+    "device": 47,
+    "inode": 90251800597,
+    "size_bytes": 10448122,
+    "mtime_ns": 1208941700000000000,
+    "ctime_ns": 1789915767793821379
+  },
+  "/data/a.riyahi/data/z24/05/avt/05setup03.mat": {
+    "device": 47,
+    "inode": 90251800598,
+    "size_bytes": 10821999,
+    "mtime_ns": 1208941860000000000,
+    "ctime_ns": 1789915768392831559
+  },
+  "/data/a.riyahi/data/z24/05/avt/05setup04.mat": {
+    "device": 47,
+    "inode": 90251840567,
+    "size_bytes": 10076438,
+    "mtime_ns": 1208942018000000000,
+    "ctime_ns": 1789915768781838169
+  },
+  "/data/a.riyahi/data/z24/05/avt/05setup05.mat": {
+    "device": 47,
+    "inode": 90251841025,
+    "size_bytes": 9089801,
+    "mtime_ns": 1208942156000000000,
+    "ctime_ns": 1789915769090843421
+  },
+  "/data/a.riyahi/data/z24/05/avt/05setup06.mat": {
+    "device": 47,
+    "inode": 90251841026,
+    "size_bytes": 10130070,
+    "mtime_ns": 1208942328000000000,
+    "ctime_ns": 1789915769457849658
+  },
+  "/data/a.riyahi/data/z24/05/avt/05setup07.mat": {
+    "device": 47,
+    "inode": 90251842560,
+    "size_bytes": 8003933,
+    "mtime_ns": 1208942494000000000,
+    "ctime_ns": 1789915769765854892
+  },
+  "/data/a.riyahi/data/z24/05/avt/05setup08.mat": {
+    "device": 47,
+    "inode": 90251842561,
+    "size_bytes": 7644653,
+    "mtime_ns": 1208942672000000000,
+    "ctime_ns": 1789915770714871020
+  },
+  "/data/a.riyahi/data/z24/05/avt/05setup09.mat": {
+    "device": 47,
+    "inode": 90251842562,
+    "size_bytes": 10563301,
+    "mtime_ns": 1208942830000000000,
+    "ctime_ns": 1789915771228879755
+  },
+  "/data/a.riyahi/data/z24/05/fvt/05setup01.mat": {
+    "device": 47,
+    "inode": 92356837425,
+    "size_bytes": 15765196,
+    "mtime_ns": 1209231838000000000,
+    "ctime_ns": 1789915772096894507
+  },
+  "/data/a.riyahi/data/z24/05/fvt/05setup02.mat": {
+    "device": 47,
+    "inode": 92356837426,
+    "size_bytes": 15759727,
+    "mtime_ns": 1209150088000000000,
+    "ctime_ns": 1789915772705904857
+  },
+  "/data/a.riyahi/data/z24/05/fvt/05setup03.mat": {
+    "device": 47,
+    "inode": 92356837428,
+    "size_bytes": 15889950,
+    "mtime_ns": 1209150280000000000,
+    "ctime_ns": 1789915773425917093
+  },
+  "/data/a.riyahi/data/z24/05/fvt/05setup04.mat": {
+    "device": 47,
+    "inode": 92356837429,
+    "size_bytes": 15873261,
+    "mtime_ns": 1209150464000000000,
+    "ctime_ns": 1789915774093928445
+  },
+  "/data/a.riyahi/data/z24/05/fvt/05setup05.mat": {
+    "device": 47,
+    "inode": 92356837433,
+    "size_bytes": 13239976,
+    "mtime_ns": 1209150622000000000,
+    "ctime_ns": 1789915774536935974
+  },
+  "/data/a.riyahi/data/z24/05/fvt/05setup06.mat": {
+    "device": 47,
+    "inode": 92356837434,
+    "size_bytes": 16135434,
+    "mtime_ns": 1209150806000000000,
+    "ctime_ns": 1789915775119945882
+  },
+  "/data/a.riyahi/data/z24/05/fvt/05setup07.mat": {
+    "device": 47,
+    "inode": 92357016579,
+    "size_bytes": 15904860,
+    "mtime_ns": 1209150994000000000,
+    "ctime_ns": 1789915775691955603
+  },
+  "/data/a.riyahi/data/z24/05/fvt/05setup08.mat": {
+    "device": 47,
+    "inode": 92357016580,
+    "size_bytes": 15747101,
+    "mtime_ns": 1209151172000000000,
+    "ctime_ns": 1789915777101979565
+  },
+  "/data/a.riyahi/data/z24/05/fvt/05setup09.mat": {
+    "device": 47,
+    "inode": 92357016582,
+    "size_bytes": 15637972,
+    "mtime_ns": 1209151356000000000,
+    "ctime_ns": 1789915779503020370
+  },
+  "/data/a.riyahi/data/z24/06/avt/06setup01.mat": {
+    "device": 47,
+    "inode": 94514424780,
+    "size_bytes": 9037893,
+    "mtime_ns": 1208942988000000000,
+    "ctime_ns": 1789915782567072442
+  },
+  "/data/a.riyahi/data/z24/06/avt/06setup02.mat": {
+    "device": 47,
+    "inode": 94514424781,
+    "size_bytes": 9742360,
+    "mtime_ns": 1208943150000000000,
+    "ctime_ns": 1789915785183116900
+  },
+  "/data/a.riyahi/data/z24/06/avt/06setup03.mat": {
+    "device": 47,
+    "inode": 94514424783,
+    "size_bytes": 9980443,
+    "mtime_ns": 1309534153000000000,
+    "ctime_ns": 1789915789514190504
+  },
+  "/data/a.riyahi/data/z24/06/avt/06setup04.mat": {
+    "device": 47,
+    "inode": 94514424784,
+    "size_bytes": 10112736,
+    "mtime_ns": 1309534552000000000,
+    "ctime_ns": 1789915795032284283
+  },
+  "/data/a.riyahi/data/z24/06/avt/06setup05.mat": {
+    "device": 47,
+    "inode": 94514424788,
+    "size_bytes": 8879516,
+    "mtime_ns": 1208943614000000000,
+    "ctime_ns": 1789915796469308704
+  },
+  "/data/a.riyahi/data/z24/06/avt/06setup06.mat": {
+    "device": 47,
+    "inode": 94514424789,
+    "size_bytes": 10329231,
+    "mtime_ns": 1208943786000000000,
+    "ctime_ns": 1789915797949333856
+  },
+  "/data/a.riyahi/data/z24/06/avt/06setup07.mat": {
+    "device": 47,
+    "inode": 94514424790,
+    "size_bytes": 9562845,
+    "mtime_ns": 1208943952000000000,
+    "ctime_ns": 1789915800506377312
+  },
+  "/data/a.riyahi/data/z24/06/avt/06setup08.mat": {
+    "device": 47,
+    "inode": 94514424792,
+    "size_bytes": 7586351,
+    "mtime_ns": 1208944116000000000,
+    "ctime_ns": 1789915804422443863
+  },
+  "/data/a.riyahi/data/z24/06/avt/06setup09.mat": {
+    "device": 47,
+    "inode": 94514424793,
+    "size_bytes": 7507309,
+    "mtime_ns": 1208944284000000000,
+    "ctime_ns": 1789915805697465532
+  },
+  "/data/a.riyahi/data/z24/06/fvt/06setup01.mat": {
+    "device": 47,
+    "inode": 96656061463,
+    "size_bytes": 15901017,
+    "mtime_ns": 1209232030000000000,
+    "ctime_ns": 1789915919728403422
+  },
+  "/data/a.riyahi/data/z24/06/fvt/06setup02.mat": {
+    "device": 47,
+    "inode": 96656061466,
+    "size_bytes": 15660082,
+    "mtime_ns": 1209151546000000000,
+    "ctime_ns": 1789915921293430018
+  },
+  "/data/a.riyahi/data/z24/06/fvt/06setup03.mat": {
+    "device": 47,
+    "inode": 96656061467,
+    "size_bytes": 15678474,
+    "mtime_ns": 1209151738000000000,
+    "ctime_ns": 1789915923310464297
+  },
+  "/data/a.riyahi/data/z24/06/fvt/06setup04.mat": {
+    "device": 47,
+    "inode": 96656061489,
+    "size_bytes": 15608219,
+    "mtime_ns": 1209151936000000000,
+    "ctime_ns": 1789915923957475292
+  },
+  "/data/a.riyahi/data/z24/06/fvt/06setup05.mat": {
+    "device": 47,
+    "inode": 96656065585,
+    "size_bytes": 12941006,
+    "mtime_ns": 1209152098000000000,
+    "ctime_ns": 1789915924414483059
+  },
+  "/data/a.riyahi/data/z24/06/fvt/06setup06.mat": {
+    "device": 47,
+    "inode": 96656065586,
+    "size_bytes": 15859987,
+    "mtime_ns": 1209152292000000000,
+    "ctime_ns": 1789915925361499152
+  },
+  "/data/a.riyahi/data/z24/06/fvt/06setup07.mat": {
+    "device": 47,
+    "inode": 96656065591,
+    "size_bytes": 15408367,
+    "mtime_ns": 1209152476000000000,
+    "ctime_ns": 1789915925888508108
+  },
+  "/data/a.riyahi/data/z24/06/fvt/06setup08.mat": {
+    "device": 47,
+    "inode": 96656065592,
+    "size_bytes": 15823632,
+    "mtime_ns": 1209152674000000000,
+    "ctime_ns": 1789915927233530966
+  },
+  "/data/a.riyahi/data/z24/06/fvt/06setup09.mat": {
+    "device": 47,
+    "inode": 96656065595,
+    "size_bytes": 15470837,
+    "mtime_ns": 1209152852000000000,
+    "ctime_ns": 1789915927926542743
+  },
+  "/data/a.riyahi/data/z24/07/avt/07setup01.mat": {
+    "device": 47,
+    "inode": 118118489321,
+    "size_bytes": 9177355,
+    "mtime_ns": 1208944440000000000,
+    "ctime_ns": 1789915929447568593
+  },
+  "/data/a.riyahi/data/z24/07/avt/07setup02.mat": {
+    "device": 47,
+    "inode": 118118489322,
+    "size_bytes": 10817247,
+    "mtime_ns": 1208944630000000000,
+    "ctime_ns": 1789915931917610569
+  },
+  "/data/a.riyahi/data/z24/07/avt/07setup03.mat": {
+    "device": 47,
+    "inode": 118118489323,
+    "size_bytes": 10289774,
+    "mtime_ns": 1208944798000000000,
+    "ctime_ns": 1789915933549638305
+  },
+  "/data/a.riyahi/data/z24/07/avt/07setup04.mat": {
+    "device": 47,
+    "inode": 118118489327,
+    "size_bytes": 10733567,
+    "mtime_ns": 1208944962000000000,
+    "ctime_ns": 1789915935033663524
+  },
+  "/data/a.riyahi/data/z24/07/avt/07setup05.mat": {
+    "device": 47,
+    "inode": 118118489328,
+    "size_bytes": 7867510,
+    "mtime_ns": 1208945096000000000,
+    "ctime_ns": 1789915937565706555
+  },
+  "/data/a.riyahi/data/z24/07/avt/07setup06.mat": {
+    "device": 47,
+    "inode": 118118489329,
+    "size_bytes": 8852047,
+    "mtime_ns": 1208945266000000000,
+    "ctime_ns": 1789915938418721051
+  },
+  "/data/a.riyahi/data/z24/07/avt/07setup07.mat": {
+    "device": 47,
+    "inode": 118131693061,
+    "size_bytes": 8649519,
+    "mtime_ns": 1208945442000000000,
+    "ctime_ns": 1789915940357754003
+  },
+  "/data/a.riyahi/data/z24/07/avt/07setup08.mat": {
+    "device": 47,
+    "inode": 118131693062,
+    "size_bytes": 7848332,
+    "mtime_ns": 1208945606000000000,
+    "ctime_ns": 1789915942611792310
+  },
+  "/data/a.riyahi/data/z24/07/avt/07setup09.mat": {
+    "device": 47,
+    "inode": 118131693063,
+    "size_bytes": 7604488,
+    "mtime_ns": 1208945790000000000,
+    "ctime_ns": 1789915943756811769
+  },
+  "/data/a.riyahi/data/z24/07/fvt/07setup01.mat": {
+    "device": 47,
+    "inode": 120273953302,
+    "size_bytes": 15664506,
+    "mtime_ns": 1209232222000000000,
+    "ctime_ns": 1789915945168835765
+  },
+  "/data/a.riyahi/data/z24/07/fvt/07setup02.mat": {
+    "device": 47,
+    "inode": 120273953303,
+    "size_bytes": 15618485,
+    "mtime_ns": 1209153042000000000,
+    "ctime_ns": 1789915946182852998
+  },
+  "/data/a.riyahi/data/z24/07/fvt/07setup03.mat": {
+    "device": 47,
+    "inode": 120273953304,
+    "size_bytes": 15799749,
+    "mtime_ns": 1209153236000000000,
+    "ctime_ns": 1789915946702861835
+  },
+  "/data/a.riyahi/data/z24/07/fvt/07setup04.mat": {
+    "device": 47,
+    "inode": 120273953332,
+    "size_bytes": 15758174,
+    "mtime_ns": 1209153426000000000,
+    "ctime_ns": 1789915947269871471
+  },
+  "/data/a.riyahi/data/z24/07/fvt/07setup05.mat": {
+    "device": 47,
+    "inode": 120273953333,
+    "size_bytes": 13100947,
+    "mtime_ns": 1209153584000000000,
+    "ctime_ns": 1789915947695878711
+  },
+  "/data/a.riyahi/data/z24/07/fvt/07setup06.mat": {
+    "device": 47,
+    "inode": 120273953334,
+    "size_bytes": 15947356,
+    "mtime_ns": 1209153766000000000,
+    "ctime_ns": 1789915948406890794
+  },
+  "/data/a.riyahi/data/z24/07/fvt/07setup07.mat": {
+    "device": 47,
+    "inode": 120273953335,
+    "size_bytes": 15714465,
+    "mtime_ns": 1209153958000000000,
+    "ctime_ns": 1789915949436908299
+  },
+  "/data/a.riyahi/data/z24/07/fvt/07setup08.mat": {
+    "device": 47,
+    "inode": 120273953336,
+    "size_bytes": 15652470,
+    "mtime_ns": 1209154152000000000,
+    "ctime_ns": 1789915951249939111
+  },
+  "/data/a.riyahi/data/z24/07/fvt/07setup09.mat": {
+    "device": 47,
+    "inode": 120273953337,
+    "size_bytes": 15491037,
+    "mtime_ns": 1209154334000000000,
+    "ctime_ns": 1789915952119953896
+  },
+  "/data/a.riyahi/data/z24/08/avt/08setup01.mat": {
+    "device": 47,
+    "inode": 122430177791,
+    "size_bytes": 9116872,
+    "mtime_ns": 1208954968000000000,
+    "ctime_ns": 1789915974844340084
+  },
+  "/data/a.riyahi/data/z24/08/avt/08setup02.mat": {
+    "device": 47,
+    "inode": 122430191677,
+    "size_bytes": 9963697,
+    "mtime_ns": 1208955124000000000,
+    "ctime_ns": 1789915977075377998
+  },
+  "/data/a.riyahi/data/z24/08/avt/08setup03.mat": {
+    "device": 47,
+    "inode": 122430206476,
+    "size_bytes": 10117080,
+    "mtime_ns": 1208955276000000000,
+    "ctime_ns": 1789915980339433469
+  },
+  "/data/a.riyahi/data/z24/08/avt/08setup04.mat": {
+    "device": 47,
+    "inode": 122430206478,
+    "size_bytes": 11105612,
+    "mtime_ns": 1208955432000000000,
+    "ctime_ns": 1789915981769457772
+  },
+  "/data/a.riyahi/data/z24/08/avt/08setup05.mat": {
+    "device": 47,
+    "inode": 122430206479,
+    "size_bytes": 9670313,
+    "mtime_ns": 1208955562000000000,
+    "ctime_ns": 1789915984991512529
+  },
+  "/data/a.riyahi/data/z24/08/avt/08setup06.mat": {
+    "device": 47,
+    "inode": 122430206480,
+    "size_bytes": 9850579,
+    "mtime_ns": 1208955732000000000,
+    "ctime_ns": 1789915986993546552
+  },
+  "/data/a.riyahi/data/z24/08/avt/08setup07.mat": {
+    "device": 47,
+    "inode": 122430206494,
+    "size_bytes": 8463307,
+    "mtime_ns": 1208955896000000000,
+    "ctime_ns": 1789915987492555032
+  },
+  "/data/a.riyahi/data/z24/08/avt/08setup08.mat": {
+    "device": 47,
+    "inode": 122430206495,
+    "size_bytes": 8346516,
+    "mtime_ns": 1208956052000000000,
+    "ctime_ns": 1789915987796560199
+  },
+  "/data/a.riyahi/data/z24/08/avt/08setup09.mat": {
+    "device": 47,
+    "inode": 122430206496,
+    "size_bytes": 8754937,
+    "mtime_ns": 1208956204000000000,
+    "ctime_ns": 1789915988426570905
+  },
+  "/data/a.riyahi/data/z24/08/fvt/08setup01.mat": {
+    "device": 47,
+    "inode": 124675830835,
+    "size_bytes": 15527717,
+    "mtime_ns": 1209229860000000000,
+    "ctime_ns": 1789915991440622127
+  },
+  "/data/a.riyahi/data/z24/08/fvt/08setup02.mat": {
+    "device": 47,
+    "inode": 124675830837,
+    "size_bytes": 15600820,
+    "mtime_ns": 1209159138000000000,
+    "ctime_ns": 1789915995427689883
+  },
+  "/data/a.riyahi/data/z24/08/fvt/08setup03.mat": {
+    "device": 47,
+    "inode": 124675830839,
+    "size_bytes": 15832793,
+    "mtime_ns": 1209159320000000000,
+    "ctime_ns": 1789915996799713199
+  },
+  "/data/a.riyahi/data/z24/08/fvt/08setup04.mat": {
+    "device": 47,
+    "inode": 124675830840,
+    "size_bytes": 15739829,
+    "mtime_ns": 1209159502000000000,
+    "ctime_ns": 1789915997782729904
+  },
+  "/data/a.riyahi/data/z24/08/fvt/08setup05.mat": {
+    "device": 47,
+    "inode": 124675830842,
+    "size_bytes": 12947336,
+    "mtime_ns": 1209159658000000000,
+    "ctime_ns": 1789915998400740407
+  },
+  "/data/a.riyahi/data/z24/08/fvt/08setup06.mat": {
+    "device": 47,
+    "inode": 124675830843,
+    "size_bytes": 15618454,
+    "mtime_ns": 1209159834000000000,
+    "ctime_ns": 1789915999672762024
+  },
+  "/data/a.riyahi/data/z24/08/fvt/08setup07.mat": {
+    "device": 47,
+    "inode": 124675830845,
+    "size_bytes": 15859191,
+    "mtime_ns": 1209160008000000000,
+    "ctime_ns": 1789916001582794484
+  },
+  "/data/a.riyahi/data/z24/08/fvt/08setup08.mat": {
+    "device": 47,
+    "inode": 124675830847,
+    "size_bytes": 15588265,
+    "mtime_ns": 1209160184000000000,
+    "ctime_ns": 1789916002882816577
+  },
+  "/data/a.riyahi/data/z24/08/fvt/08setup09.mat": {
+    "device": 47,
+    "inode": 124675867684,
+    "size_bytes": 14864075,
+    "mtime_ns": 1209160352000000000,
+    "ctime_ns": 1789916004072836801
+  },
+  "/data/a.riyahi/data/z24/09/avt/09setup01.mat": {
+    "device": 47,
+    "inode": 126742475815,
+    "size_bytes": 9016642,
+    "mtime_ns": 1208970410000000000,
+    "ctime_ns": 1789916007631897283
+  },
+  "/data/a.riyahi/data/z24/09/avt/09setup02.mat": {
+    "device": 47,
+    "inode": 126742475816,
+    "size_bytes": 10281487,
+    "mtime_ns": 1208970584000000000,
+    "ctime_ns": 1789916008145906019
+  },
+  "/data/a.riyahi/data/z24/09/avt/09setup03.mat": {
+    "device": 47,
+    "inode": 126742475817,
+    "size_bytes": 10386163,
+    "mtime_ns": 1208970758000000000,
+    "ctime_ns": 1789916008997920498
+  },
+  "/data/a.riyahi/data/z24/09/avt/09setup04.mat": {
+    "device": 47,
+    "inode": 126742475818,
+    "size_bytes": 9777110,
+    "mtime_ns": 1208970914000000000,
+    "ctime_ns": 1789916009999937527
+  },
+  "/data/a.riyahi/data/z24/09/avt/09setup05.mat": {
+    "device": 47,
+    "inode": 126742483472,
+    "size_bytes": 7938102,
+    "mtime_ns": 1208971048000000000,
+    "ctime_ns": 1789916010750950291
+  },
+  "/data/a.riyahi/data/z24/09/avt/09setup06.mat": {
+    "device": 47,
+    "inode": 126742483487,
+    "size_bytes": 10409755,
+    "mtime_ns": 1208971206000000000,
+    "ctime_ns": 1789916012086972995
+  },
+  "/data/a.riyahi/data/z24/09/avt/09setup07.mat": {
+    "device": 47,
+    "inode": 126742483489,
+    "size_bytes": 10442980,
+    "mtime_ns": 1208971374000000000,
+    "ctime_ns": 1789916024315180809
+  },
+  "/data/a.riyahi/data/z24/09/avt/09setup08.mat": {
+    "device": 47,
+    "inode": 126742484026,
+    "size_bytes": 10520467,
+    "mtime_ns": 1208971536000000000,
+    "ctime_ns": 1789916028992260294
+  },
+  "/data/a.riyahi/data/z24/09/avt/09setup09.mat": {
+    "device": 47,
+    "inode": 126742484027,
+    "size_bytes": 10349689,
+    "mtime_ns": 1208971708000000000,
+    "ctime_ns": 1789916033012328612
+  },
+  "/data/a.riyahi/data/z24/09/fvt/09setup01.mat": {
+    "device": 47,
+    "inode": 128857822769,
+    "size_bytes": 15666128,
+    "mtime_ns": 1210268356000000000,
+    "ctime_ns": 1789916041582474257
+  },
+  "/data/a.riyahi/data/z24/09/fvt/09setup02.mat": {
+    "device": 47,
+    "inode": 128857822771,
+    "size_bytes": 15467893,
+    "mtime_ns": 1210268548000000000,
+    "ctime_ns": 1789916043083499766
+  },
+  "/data/a.riyahi/data/z24/09/fvt/09setup03.mat": {
+    "device": 47,
+    "inode": 128857824316,
+    "size_bytes": 15455940,
+    "mtime_ns": 1210268736000000000,
+    "ctime_ns": 1789916047590576360
+  },
+  "/data/a.riyahi/data/z24/09/fvt/09setup04.mat": {
+    "device": 47,
+    "inode": 128857824317,
+    "size_bytes": 15370749,
+    "mtime_ns": 1210268924000000000,
+    "ctime_ns": 1789916050391623962
+  },
+  "/data/a.riyahi/data/z24/09/fvt/09setup05.mat": {
+    "device": 47,
+    "inode": 128857824318,
+    "size_bytes": 12721269,
+    "mtime_ns": 1210269078000000000,
+    "ctime_ns": 1789916053680679856
+  },
+  "/data/a.riyahi/data/z24/09/fvt/09setup06.mat": {
+    "device": 47,
+    "inode": 128857824319,
+    "size_bytes": 15355261,
+    "mtime_ns": 1210269268000000000,
+    "ctime_ns": 1789916056015719538
+  },
+  "/data/a.riyahi/data/z24/09/fvt/09setup07.mat": {
+    "device": 47,
+    "inode": 128857826304,
+    "size_bytes": 15011719,
+    "mtime_ns": 1210269458000000000,
+    "ctime_ns": 1789916058251757539
+  },
+  "/data/a.riyahi/data/z24/09/fvt/09setup08.mat": {
+    "device": 47,
+    "inode": 128857826305,
+    "size_bytes": 15127120,
+    "mtime_ns": 1210269650000000000,
+    "ctime_ns": 1789916060470795249
+  },
+  "/data/a.riyahi/data/z24/09/fvt/09setup09.mat": {
+    "device": 47,
+    "inode": 128857826306,
+    "size_bytes": 13935545,
+    "mtime_ns": 1210269832000000000,
+    "ctime_ns": 1789916062177824260
+  },
+  "/data/a.riyahi/data/z24/10/avt/10setup01.mat": {
+    "device": 47,
+    "inode": 131002771494,
+    "size_bytes": 9398886,
+    "mtime_ns": 1208880682000000000,
+    "ctime_ns": 1789916067092907791
+  },
+  "/data/a.riyahi/data/z24/10/avt/10setup02.mat": {
+    "device": 47,
+    "inode": 131002771495,
+    "size_bytes": 9989202,
+    "mtime_ns": 1208880830000000000,
+    "ctime_ns": 1789916072088992696
+  },
+  "/data/a.riyahi/data/z24/10/avt/10setup03.mat": {
+    "device": 47,
+    "inode": 131002771496,
+    "size_bytes": 10080043,
+    "mtime_ns": 1208880960000000000,
+    "ctime_ns": 1789916072784004508
+  },
+  "/data/a.riyahi/data/z24/10/avt/10setup04.mat": {
+    "device": 47,
+    "inode": 131002771497,
+    "size_bytes": 9901418,
+    "mtime_ns": 1208881088000000000,
+    "ctime_ns": 1789916074841039466
+  },
+  "/data/a.riyahi/data/z24/10/avt/10setup05.mat": {
+    "device": 47,
+    "inode": 131003528214,
+    "size_bytes": 8547107,
+    "mtime_ns": 1208881186000000000,
+    "ctime_ns": 1789916076677070668
+  },
+  "/data/a.riyahi/data/z24/10/avt/10setup06.mat": {
+    "device": 47,
+    "inode": 131014565501,
+    "size_bytes": 9576009,
+    "mtime_ns": 1208881324000000000,
+    "ctime_ns": 1789916077753088955
+  },
+  "/data/a.riyahi/data/z24/10/avt/10setup07.mat": {
+    "device": 47,
+    "inode": 131015201844,
+    "size_bytes": 8540992,
+    "mtime_ns": 1208881458000000000,
+    "ctime_ns": 1789916078744105796
+  },
+  "/data/a.riyahi/data/z24/10/avt/10setup08.mat": {
+    "device": 47,
+    "inode": 131015201846,
+    "size_bytes": 7436702,
+    "mtime_ns": 1208881592000000000,
+    "ctime_ns": 1789916079512118848
+  },
+  "/data/a.riyahi/data/z24/10/avt/10setup09.mat": {
+    "device": 47,
+    "inode": 131015201847,
+    "size_bytes": 6724014,
+    "mtime_ns": 1208881726000000000,
+    "ctime_ns": 1789916081925159856
+  },
+  "/data/a.riyahi/data/z24/10/fvt/10setup01.mat": {
+    "device": 47,
+    "inode": 133145177636,
+    "size_bytes": 15709571,
+    "mtime_ns": 1210270016000000000,
+    "ctime_ns": 1789916083677189632
+  },
+  "/data/a.riyahi/data/z24/10/fvt/10setup02.mat": {
+    "device": 47,
+    "inode": 133145177637,
+    "size_bytes": 15661596,
+    "mtime_ns": 1210270212000000000,
+    "ctime_ns": 1789916084478203245
+  },
+  "/data/a.riyahi/data/z24/10/fvt/10setup03.mat": {
+    "device": 47,
+    "inode": 133146692664,
+    "size_bytes": 15535970,
+    "mtime_ns": 1210270400000000000,
+    "ctime_ns": 1789916085217215804
+  },
+  "/data/a.riyahi/data/z24/10/fvt/10setup04.mat": {
+    "device": 47,
+    "inode": 133148876292,
+    "size_bytes": 15607594,
+    "mtime_ns": 1210270596000000000,
+    "ctime_ns": 1789916087080247465
+  },
+  "/data/a.riyahi/data/z24/10/fvt/10setup05.mat": {
+    "device": 47,
+    "inode": 133148876293,
+    "size_bytes": 13150183,
+    "mtime_ns": 1210270762000000000,
+    "ctime_ns": 1789916087749258835
+  },
+  "/data/a.riyahi/data/z24/10/fvt/10setup06.mat": {
+    "device": 47,
+    "inode": 133155961387,
+    "size_bytes": 15828731,
+    "mtime_ns": 1210270952000000000,
+    "ctime_ns": 1789916088585273042
+  },
+  "/data/a.riyahi/data/z24/10/fvt/10setup07.mat": {
+    "device": 47,
+    "inode": 133155961388,
+    "size_bytes": 15770471,
+    "mtime_ns": 1210271136000000000,
+    "ctime_ns": 1789916089420287233
+  },
+  "/data/a.riyahi/data/z24/10/fvt/10setup08.mat": {
+    "device": 47,
+    "inode": 133155961390,
+    "size_bytes": 15714549,
+    "mtime_ns": 1210271332000000000,
+    "ctime_ns": 1789916093626358713
+  },
+  "/data/a.riyahi/data/z24/10/fvt/10setup09.mat": {
+    "device": 47,
+    "inode": 133155961392,
+    "size_bytes": 15350105,
+    "mtime_ns": 1210271518000000000,
+    "ctime_ns": 1789916094228368944
+  },
+  "/data/a.riyahi/data/z24/11/avt/11setup01.mat": {
+    "device": 47,
+    "inode": 135291726341,
+    "size_bytes": 10136293,
+    "mtime_ns": 1208971878000000000,
+    "ctime_ns": 1789916095926397801
+  },
+  "/data/a.riyahi/data/z24/11/avt/11setup02.mat": {
+    "device": 47,
+    "inode": 135291726343,
+    "size_bytes": 9975403,
+    "mtime_ns": 1208972048000000000,
+    "ctime_ns": 1789916096295404073
+  },
+  "/data/a.riyahi/data/z24/11/avt/11setup03.mat": {
+    "device": 47,
+    "inode": 135291726345,
+    "size_bytes": 9370849,
+    "mtime_ns": 1208972206000000000,
+    "ctime_ns": 1789916096920414694
+  },
+  "/data/a.riyahi/data/z24/11/avt/11setup04.mat": {
+    "device": 47,
+    "inode": 135291726346,
+    "size_bytes": 10271919,
+    "mtime_ns": 1208972386000000000,
+    "ctime_ns": 1789916097704428018
+  },
+  "/data/a.riyahi/data/z24/11/avt/11setup05.mat": {
+    "device": 47,
+    "inode": 135291726347,
+    "size_bytes": 8287648,
+    "mtime_ns": 1208972522000000000,
+    "ctime_ns": 1789916098338438793
+  },
+  "/data/a.riyahi/data/z24/11/avt/11setup06.mat": {
+    "device": 47,
+    "inode": 135291726359,
+    "size_bytes": 9587666,
+    "mtime_ns": 1208972698000000000,
+    "ctime_ns": 1789916098953449245
+  },
+  "/data/a.riyahi/data/z24/11/avt/11setup07.mat": {
+    "device": 47,
+    "inode": 135291726360,
+    "size_bytes": 9232710,
+    "mtime_ns": 1208972872000000000,
+    "ctime_ns": 1789916099310455312
+  },
+  "/data/a.riyahi/data/z24/11/avt/11setup08.mat": {
+    "device": 47,
+    "inode": 135291726361,
+    "size_bytes": 9131720,
+    "mtime_ns": 1208973038000000000,
+    "ctime_ns": 1789916099563459611
+  },
+  "/data/a.riyahi/data/z24/11/avt/11setup09.mat": {
+    "device": 47,
+    "inode": 135292804641,
+    "size_bytes": 8297573,
+    "mtime_ns": 1208973206000000000,
+    "ctime_ns": 1789916100739479598
+  },
+  "/data/a.riyahi/data/z24/11/fvt/11setup01.mat": {
+    "device": 47,
+    "inode": 137454086195,
+    "size_bytes": 15794976,
+    "mtime_ns": 1210271704000000000,
+    "ctime_ns": 1789916101430491341
+  },
+  "/data/a.riyahi/data/z24/11/fvt/11setup02.mat": {
+    "device": 47,
+    "inode": 137454086204,
+    "size_bytes": 15710858,
+    "mtime_ns": 1210271896000000000,
+    "ctime_ns": 1789916102023501418
+  },
+  "/data/a.riyahi/data/z24/11/fvt/11setup03.mat": {
+    "device": 47,
+    "inode": 137454091776,
+    "size_bytes": 15766243,
+    "mtime_ns": 1210272094000000000,
+    "ctime_ns": 1789916102685512669
+  },
+  "/data/a.riyahi/data/z24/11/fvt/11setup04.mat": {
+    "device": 47,
+    "inode": 137454091777,
+    "size_bytes": 15649325,
+    "mtime_ns": 1210272286000000000,
+    "ctime_ns": 1789916103640528900
+  },
+  "/data/a.riyahi/data/z24/11/fvt/11setup05.mat": {
+    "device": 47,
+    "inode": 137454091782,
+    "size_bytes": 13039353,
+    "mtime_ns": 1210272448000000000,
+    "ctime_ns": 1789916104142537432
+  },
+  "/data/a.riyahi/data/z24/11/fvt/11setup06.mat": {
+    "device": 47,
+    "inode": 137454091783,
+    "size_bytes": 15893352,
+    "mtime_ns": 1210272652000000000,
+    "ctime_ns": 1789916104719547238
+  },
+  "/data/a.riyahi/data/z24/11/fvt/11setup07.mat": {
+    "device": 47,
+    "inode": 137454091784,
+    "size_bytes": 15425592,
+    "mtime_ns": 1210272848000000000,
+    "ctime_ns": 1789916105320557451
+  },
+  "/data/a.riyahi/data/z24/11/fvt/11setup08.mat": {
+    "device": 47,
+    "inode": 137454091785,
+    "size_bytes": 15717876,
+    "mtime_ns": 1210273040000000000,
+    "ctime_ns": 1789916105990568837
+  },
+  "/data/a.riyahi/data/z24/11/fvt/11setup09.mat": {
+    "device": 47,
+    "inode": 137454694954,
+    "size_bytes": 15476897,
+    "mtime_ns": 1210273224000000000,
+    "ctime_ns": 1789916107709598051
+  },
+  "/data/a.riyahi/data/z24/12/avt/12setup01.mat": {
+    "device": 47,
+    "inode": 139650178798,
+    "size_bytes": 9358573,
+    "mtime_ns": 1208975820000000000,
+    "ctime_ns": 1789916108387609574
+  },
+  "/data/a.riyahi/data/z24/12/avt/12setup02.mat": {
+    "device": 47,
+    "inode": 139650178799,
+    "size_bytes": 9806238,
+    "mtime_ns": 1208976000000000000,
+    "ctime_ns": 1789916108666614315
+  },
+  "/data/a.riyahi/data/z24/12/avt/12setup03.mat": {
+    "device": 47,
+    "inode": 139650178800,
+    "size_bytes": 9999314,
+    "mtime_ns": 1208976168000000000,
+    "ctime_ns": 1789916109566629612
+  },
+  "/data/a.riyahi/data/z24/12/avt/12setup04.mat": {
+    "device": 47,
+    "inode": 139650178801,
+    "size_bytes": 10162056,
+    "mtime_ns": 1208976330000000000,
+    "ctime_ns": 1789916112093672557
+  },
+  "/data/a.riyahi/data/z24/12/avt/12setup05.mat": {
+    "device": 47,
+    "inode": 139650178802,
+    "size_bytes": 8838201,
+    "mtime_ns": 1208976468000000000,
+    "ctime_ns": 1789916114635715757
+  },
+  "/data/a.riyahi/data/z24/12/avt/12setup06.mat": {
+    "device": 47,
+    "inode": 139650178803,
+    "size_bytes": 9620838,
+    "mtime_ns": 1208976634000000000,
+    "ctime_ns": 1789916115898737222
+  },
+  "/data/a.riyahi/data/z24/12/avt/12setup07.mat": {
+    "device": 47,
+    "inode": 139650178804,
+    "size_bytes": 8674860,
+    "mtime_ns": 1208976814000000000,
+    "ctime_ns": 1789916117285760793
+  },
+  "/data/a.riyahi/data/z24/12/avt/12setup08.mat": {
+    "device": 47,
+    "inode": 139650178805,
+    "size_bytes": 7960045,
+    "mtime_ns": 1208976988000000000,
+    "ctime_ns": 1789916118621783497
+  },
+  "/data/a.riyahi/data/z24/12/avt/12setup09.mat": {
+    "device": 47,
+    "inode": 139650178806,
+    "size_bytes": 8780308,
+    "mtime_ns": 1208977170000000000,
+    "ctime_ns": 1789916121644834871
+  },
+  "/data/a.riyahi/data/z24/12/fvt/12setup01.mat": {
+    "device": 47,
+    "inode": 43104800,
+    "size_bytes": 15962835,
+    "mtime_ns": 1210273422000000000,
+    "ctime_ns": 1789916123805871596
+  },
+  "/data/a.riyahi/data/z24/12/fvt/12setup02.mat": {
+    "device": 47,
+    "inode": 43104804,
+    "size_bytes": 15822526,
+    "mtime_ns": 1210273620000000000,
+    "ctime_ns": 1789916125823905891
+  },
+  "/data/a.riyahi/data/z24/12/fvt/12setup03.mat": {
+    "device": 47,
+    "inode": 43104805,
+    "size_bytes": 15587183,
+    "mtime_ns": 1210273814000000000,
+    "ctime_ns": 1789916130993993756
+  },
+  "/data/a.riyahi/data/z24/12/fvt/12setup04.mat": {
+    "device": 47,
+    "inode": 43104806,
+    "size_bytes": 13945262,
+    "mtime_ns": 1210274000000000000,
+    "ctime_ns": 1789916133302032979
+  },
+  "/data/a.riyahi/data/z24/12/fvt/12setup05.mat": {
+    "device": 47,
+    "inode": 43104807,
+    "size_bytes": 13072578,
+    "mtime_ns": 1210274166000000000,
+    "ctime_ns": 1789916134307050059
+  },
+  "/data/a.riyahi/data/z24/12/fvt/12setup06.mat": {
+    "device": 47,
+    "inode": 43104808,
+    "size_bytes": 15755217,
+    "mtime_ns": 1210274354000000000,
+    "ctime_ns": 1789916136674090286
+  },
+  "/data/a.riyahi/data/z24/12/fvt/12setup07.mat": {
+    "device": 47,
+    "inode": 43104809,
+    "size_bytes": 15562728,
+    "mtime_ns": 1210274554000000000,
+    "ctime_ns": 1789916137370102114
+  },
+  "/data/a.riyahi/data/z24/12/fvt/12setup08.mat": {
+    "device": 47,
+    "inode": 43104810,
+    "size_bytes": 15557760,
+    "mtime_ns": 1210274752000000000,
+    "ctime_ns": 1789916138409119772
+  },
+  "/data/a.riyahi/data/z24/12/fvt/12setup09.mat": {
+    "device": 47,
+    "inode": 43104811,
+    "size_bytes": 15156859,
+    "mtime_ns": 1210274942000000000,
+    "ctime_ns": 1789916139072131040
+  },
+  "/data/a.riyahi/data/z24/13/avt/13setup01.mat": {
+    "device": 47,
+    "inode": 2232735810,
+    "size_bytes": 10209950,
+    "mtime_ns": 1208977338000000000,
+    "ctime_ns": 1789916141372170127
+  },
+  "/data/a.riyahi/data/z24/13/avt/13setup02.mat": {
+    "device": 47,
+    "inode": 2232735811,
+    "size_bytes": 9965082,
+    "mtime_ns": 1208977508000000000,
+    "ctime_ns": 1789916143490206121
+  },
+  "/data/a.riyahi/data/z24/13/avt/13setup03.mat": {
+    "device": 47,
+    "inode": 2232735812,
+    "size_bytes": 8657945,
+    "mtime_ns": 1208977668000000000,
+    "ctime_ns": 1789916144577224594
+  },
+  "/data/a.riyahi/data/z24/13/avt/13setup04.mat": {
+    "device": 47,
+    "inode": 2232735825,
+    "size_bytes": 9980500,
+    "mtime_ns": 1208977834000000000,
+    "ctime_ns": 1789916145279236525
+  },
+  "/data/a.riyahi/data/z24/13/avt/13setup05.mat": {
+    "device": 47,
+    "inode": 2232735827,
+    "size_bytes": 7809276,
+    "mtime_ns": 1208977966000000000,
+    "ctime_ns": 1789916146419255899
+  },
+  "/data/a.riyahi/data/z24/13/avt/13setup06.mat": {
+    "device": 47,
+    "inode": 2232735835,
+    "size_bytes": 9409671,
+    "mtime_ns": 1208978128000000000,
+    "ctime_ns": 1789916148088284263
+  },
+  "/data/a.riyahi/data/z24/13/avt/13setup07.mat": {
+    "device": 47,
+    "inode": 2232735836,
+    "size_bytes": 7350150,
+    "mtime_ns": 1208978290000000000,
+    "ctime_ns": 1789916148666294086
+  },
+  "/data/a.riyahi/data/z24/13/avt/13setup08.mat": {
+    "device": 47,
+    "inode": 2232735837,
+    "size_bytes": 7379828,
+    "mtime_ns": 1208978462000000000,
+    "ctime_ns": 1789916148949298896
+  },
+  "/data/a.riyahi/data/z24/13/avt/13setup09.mat": {
+    "device": 47,
+    "inode": 2232735838,
+    "size_bytes": 6887922,
+    "mtime_ns": 1208978624000000000,
+    "ctime_ns": 1789916149214303399
+  },
+  "/data/a.riyahi/data/z24/13/fvt/13setup01.mat": {
+    "device": 47,
+    "inode": 4410017848,
+    "size_bytes": 15684099,
+    "mtime_ns": 1210275136000000000,
+    "ctime_ns": 1789916149944315806
+  },
+  "/data/a.riyahi/data/z24/13/fvt/13setup02.mat": {
+    "device": 47,
+    "inode": 4410017849,
+    "size_bytes": 15595986,
+    "mtime_ns": 1210275330000000000,
+    "ctime_ns": 1789916150691328501
+  },
+  "/data/a.riyahi/data/z24/13/fvt/13setup03.mat": {
+    "device": 47,
+    "inode": 4410019368,
+    "size_bytes": 15442574,
+    "mtime_ns": 1210275522000000000,
+    "ctime_ns": 1789916151179336794
+  },
+  "/data/a.riyahi/data/z24/13/fvt/13setup04.mat": {
+    "device": 47,
+    "inode": 4410019369,
+    "size_bytes": 15520657,
+    "mtime_ns": 1210275712000000000,
+    "ctime_ns": 1789916151674345206
+  },
+  "/data/a.riyahi/data/z24/13/fvt/13setup05.mat": {
+    "device": 47,
+    "inode": 4410022917,
+    "size_bytes": 12941373,
+    "mtime_ns": 1210275874000000000,
+    "ctime_ns": 1789916152177353754
+  },
+  "/data/a.riyahi/data/z24/13/fvt/13setup06.mat": {
+    "device": 47,
+    "inode": 4410022920,
+    "size_bytes": 15627646,
+    "mtime_ns": 1210276060000000000,
+    "ctime_ns": 1789916152880365702
+  },
+  "/data/a.riyahi/data/z24/13/fvt/13setup07.mat": {
+    "device": 47,
+    "inode": 4410022922,
+    "size_bytes": 15486098,
+    "mtime_ns": 1210276242000000000,
+    "ctime_ns": 1789916154339390497
+  },
+  "/data/a.riyahi/data/z24/13/fvt/13setup08.mat": {
+    "device": 47,
+    "inode": 4410022923,
+    "size_bytes": 15728713,
+    "mtime_ns": 1210276446000000000,
+    "ctime_ns": 1789916155191404977
+  },
+  "/data/a.riyahi/data/z24/13/fvt/13setup09.mat": {
+    "device": 47,
+    "inode": 4410022924,
+    "size_bytes": 14961925,
+    "mtime_ns": 1210276628000000000,
+    "ctime_ns": 1789916155771414833
+  },
+  "/data/a.riyahi/data/z24/14/avt/14setup01.mat": {
+    "device": 47,
+    "inode": 6447417354,
+    "size_bytes": 9446153,
+    "mtime_ns": 1208983072000000000,
+    "ctime_ns": 1789916156453426424
+  },
+  "/data/a.riyahi/data/z24/14/avt/14setup02.mat": {
+    "device": 47,
+    "inode": 6447417356,
+    "size_bytes": 9596608,
+    "mtime_ns": 1208983242000000000,
+    "ctime_ns": 1789916158352458697
+  },
+  "/data/a.riyahi/data/z24/14/avt/14setup03.mat": {
+    "device": 47,
+    "inode": 6447417357,
+    "size_bytes": 9229048,
+    "mtime_ns": 1208983400000000000,
+    "ctime_ns": 1789916159391476355
+  },
+  "/data/a.riyahi/data/z24/14/avt/14setup04.mat": {
+    "device": 47,
+    "inode": 6447417358,
+    "size_bytes": 9977841,
+    "mtime_ns": 1208983560000000000,
+    "ctime_ns": 1789916162209524246
+  },
+  "/data/a.riyahi/data/z24/14/avt/14setup05.mat": {
+    "device": 47,
+    "inode": 6447417359,
+    "size_bytes": 8577298,
+    "mtime_ns": 1208983694000000000,
+    "ctime_ns": 1789916162988537484
+  },
+  "/data/a.riyahi/data/z24/14/avt/14setup06.mat": {
+    "device": 47,
+    "inode": 6447417360,
+    "size_bytes": 10025652,
+    "mtime_ns": 1208983858000000000,
+    "ctime_ns": 1789916163455545421
+  },
+  "/data/a.riyahi/data/z24/14/avt/14setup07.mat": {
+    "device": 47,
+    "inode": 6447417361,
+    "size_bytes": 8274610,
+    "mtime_ns": 1208984024000000000,
+    "ctime_ns": 1789916163824551692
+  },
+  "/data/a.riyahi/data/z24/14/avt/14setup08.mat": {
+    "device": 47,
+    "inode": 6447417362,
+    "size_bytes": 7741248,
+    "mtime_ns": 1208984170000000000,
+    "ctime_ns": 1789916164090556213
+  },
+  "/data/a.riyahi/data/z24/14/avt/14setup09.mat": {
+    "device": 47,
+    "inode": 6447417363,
+    "size_bytes": 7322510,
+    "mtime_ns": 1208984326000000000,
+    "ctime_ns": 1789916165363577847
+  },
+  "/data/a.riyahi/data/z24/14/fvt/14setup01.mat": {
+    "device": 47,
+    "inode": 8633534980,
+    "size_bytes": 15275430,
+    "mtime_ns": 1209229258000000000,
+    "ctime_ns": 1789916168241626757
+  },
+  "/data/a.riyahi/data/z24/14/fvt/14setup02.mat": {
+    "device": 47,
+    "inode": 8633534981,
+    "size_bytes": 15518085,
+    "mtime_ns": 1209224860000000000,
+    "ctime_ns": 1789916169581649530
+  },
+  "/data/a.riyahi/data/z24/14/fvt/14setup03.mat": {
+    "device": 47,
+    "inode": 8633534982,
+    "size_bytes": 15505302,
+    "mtime_ns": 1209225046000000000,
+    "ctime_ns": 1789916178371798913
+  },
+  "/data/a.riyahi/data/z24/14/fvt/14setup04.mat": {
+    "device": 47,
+    "inode": 8633534983,
+    "size_bytes": 15471308,
+    "mtime_ns": 1209225236000000000,
+    "ctime_ns": 1789916182382867079
+  },
+  "/data/a.riyahi/data/z24/14/fvt/14setup05.mat": {
+    "device": 47,
+    "inode": 8633534984,
+    "size_bytes": 13004762,
+    "mtime_ns": 1209225390000000000,
+    "ctime_ns": 1789916183024877990
+  },
+  "/data/a.riyahi/data/z24/14/fvt/14setup06.mat": {
+    "device": 47,
+    "inode": 8633534985,
+    "size_bytes": 15510982,
+    "mtime_ns": 1209225570000000000,
+    "ctime_ns": 1789916186416935638
+  },
+  "/data/a.riyahi/data/z24/14/fvt/14setup07.mat": {
+    "device": 47,
+    "inode": 8633534986,
+    "size_bytes": 15365512,
+    "mtime_ns": 1209225750000000000,
+    "ctime_ns": 1789916189891994696
+  },
+  "/data/a.riyahi/data/z24/14/fvt/14setup08.mat": {
+    "device": 47,
+    "inode": 8633585166,
+    "size_bytes": 15775598,
+    "mtime_ns": 1209225926000000000,
+    "ctime_ns": 1789916191879028464
+  },
+  "/data/a.riyahi/data/z24/14/fvt/14setup09.mat": {
+    "device": 47,
+    "inode": 8633585167,
+    "size_bytes": 14587084,
+    "mtime_ns": 1209226112000000000,
+    "ctime_ns": 1789916193227051373
+  },
+  "/data/a.riyahi/data/z24/15/avt/15setup01.mat": {
+    "device": 47,
+    "inode": 10766029853,
+    "size_bytes": 9650078,
+    "mtime_ns": 1208984484000000000,
+    "ctime_ns": 1789916195206085006
+  },
+  "/data/a.riyahi/data/z24/15/avt/15setup02.mat": {
+    "device": 47,
+    "inode": 10766029856,
+    "size_bytes": 9615533,
+    "mtime_ns": 1208984650000000000,
+    "ctime_ns": 1789916195813095323
+  },
+  "/data/a.riyahi/data/z24/15/avt/15setup03.mat": {
+    "device": 47,
+    "inode": 10766029857,
+    "size_bytes": 9060343,
+    "mtime_ns": 1208984812000000000,
+    "ctime_ns": 1789916196088099995
+  },
+  "/data/a.riyahi/data/z24/15/avt/15setup04.mat": {
+    "device": 47,
+    "inode": 10766029862,
+    "size_bytes": 8549532,
+    "mtime_ns": 1208984970000000000,
+    "ctime_ns": 1789916196633109258
+  },
+  "/data/a.riyahi/data/z24/15/avt/15setup05.mat": {
+    "device": 47,
+    "inode": 10766029863,
+    "size_bytes": 7201675,
+    "mtime_ns": 1208985092000000000,
+    "ctime_ns": 1789916196957114764
+  },
+  "/data/a.riyahi/data/z24/15/avt/15setup06.mat": {
+    "device": 47,
+    "inode": 10766029864,
+    "size_bytes": 8341900,
+    "mtime_ns": 1208985274000000000,
+    "ctime_ns": 1789916197368121748
+  },
+  "/data/a.riyahi/data/z24/15/avt/15setup07.mat": {
+    "device": 47,
+    "inode": 10766029865,
+    "size_bytes": 8731498,
+    "mtime_ns": 1208985436000000000,
+    "ctime_ns": 1789916198004132557
+  },
+  "/data/a.riyahi/data/z24/15/avt/15setup08.mat": {
+    "device": 47,
+    "inode": 10766029866,
+    "size_bytes": 9750690,
+    "mtime_ns": 1208985598000000000,
+    "ctime_ns": 1789916198428139763
+  },
+  "/data/a.riyahi/data/z24/15/avt/15setup09.mat": {
+    "device": 47,
+    "inode": 10766029867,
+    "size_bytes": 8656757,
+    "mtime_ns": 1208985748000000000,
+    "ctime_ns": 1789916198753145286
+  },
+  "/data/a.riyahi/data/z24/15/fvt/15setup01.mat": {
+    "device": 47,
+    "inode": 12903665167,
+    "size_bytes": 15872370,
+    "mtime_ns": 1209229434000000000,
+    "ctime_ns": 1789916199551158848
+  },
+  "/data/a.riyahi/data/z24/15/fvt/15setup02.mat": {
+    "device": 47,
+    "inode": 12903665168,
+    "size_bytes": 15803624,
+    "mtime_ns": 1209226296000000000,
+    "ctime_ns": 1789916200209170031
+  },
+  "/data/a.riyahi/data/z24/15/fvt/15setup03.mat": {
+    "device": 47,
+    "inode": 12903665169,
+    "size_bytes": 15306320,
+    "mtime_ns": 1209226482000000000,
+    "ctime_ns": 1789916204718246660
+  },
+  "/data/a.riyahi/data/z24/15/fvt/15setup04.mat": {
+    "device": 47,
+    "inode": 12903665170,
+    "size_bytes": 15509297,
+    "mtime_ns": 1209226674000000000,
+    "ctime_ns": 1789916206609278797
+  },
+  "/data/a.riyahi/data/z24/15/fvt/15setup05.mat": {
+    "device": 47,
+    "inode": 12903665171,
+    "size_bytes": 12871895,
+    "mtime_ns": 1209226834000000000,
+    "ctime_ns": 1789916208027302896
+  },
+  "/data/a.riyahi/data/z24/15/fvt/15setup06.mat": {
+    "device": 47,
+    "inode": 12903665172,
+    "size_bytes": 15669812,
+    "mtime_ns": 1209227018000000000,
+    "ctime_ns": 1789916209139321793
+  },
+  "/data/a.riyahi/data/z24/15/fvt/15setup07.mat": {
+    "device": 47,
+    "inode": 12903665173,
+    "size_bytes": 15667564,
+    "mtime_ns": 1209227208000000000,
+    "ctime_ns": 1789916210622346996
+  },
+  "/data/a.riyahi/data/z24/15/fvt/15setup08.mat": {
+    "device": 47,
+    "inode": 12903665174,
+    "size_bytes": 15621435,
+    "mtime_ns": 1209227390000000000,
+    "ctime_ns": 1789916211186356581
+  },
+  "/data/a.riyahi/data/z24/15/fvt/15setup09.mat": {
+    "device": 47,
+    "inode": 12903665175,
+    "size_bytes": 15110473,
+    "mtime_ns": 1209227570000000000,
+    "ctime_ns": 1789916211735365911
+  },
+  "/data/a.riyahi/data/z24/16/avt/16setup01.mat": {
+    "device": 47,
+    "inode": 15054321752,
+    "size_bytes": 9733332,
+    "mtime_ns": 1208985914000000000,
+    "ctime_ns": 1789916212377376822
+  },
+  "/data/a.riyahi/data/z24/16/avt/16setup02.mat": {
+    "device": 47,
+    "inode": 15054321754,
+    "size_bytes": 11027053,
+    "mtime_ns": 1208986078000000000,
+    "ctime_ns": 1789916212874385268
+  },
+  "/data/a.riyahi/data/z24/16/avt/16setup03.mat": {
+    "device": 47,
+    "inode": 15054358535,
+    "size_bytes": 10455630,
+    "mtime_ns": 1208986232000000000,
+    "ctime_ns": 1789916213323392899
+  },
+  "/data/a.riyahi/data/z24/16/avt/16setup04.mat": {
+    "device": 47,
+    "inode": 15054358536,
+    "size_bytes": 10878746,
+    "mtime_ns": 1208986394000000000,
+    "ctime_ns": 1789916213744400053
+  },
+  "/data/a.riyahi/data/z24/16/avt/16setup05.mat": {
+    "device": 47,
+    "inode": 15054358537,
+    "size_bytes": 9119992,
+    "mtime_ns": 1208986534000000000,
+    "ctime_ns": 1789916214130406614
+  },
+  "/data/a.riyahi/data/z24/16/avt/16setup06.mat": {
+    "device": 47,
+    "inode": 15054358538,
+    "size_bytes": 10432637,
+    "mtime_ns": 1208986700000000000,
+    "ctime_ns": 1789916214679415944
+  },
+  "/data/a.riyahi/data/z24/16/avt/16setup07.mat": {
+    "device": 47,
+    "inode": 15054393088,
+    "size_bytes": 9933167,
+    "mtime_ns": 1208986874000000000,
+    "ctime_ns": 1789916215008421535
+  },
+  "/data/a.riyahi/data/z24/16/avt/16setup08.mat": {
+    "device": 47,
+    "inode": 15054393090,
+    "size_bytes": 10538135,
+    "mtime_ns": 1208987038000000000,
+    "ctime_ns": 1789916215507430015
+  },
+  "/data/a.riyahi/data/z24/16/avt/16setup09.mat": {
+    "device": 47,
+    "inode": 15054393091,
+    "size_bytes": 9195225,
+    "mtime_ns": 1208987204000000000,
+    "ctime_ns": 1789916216226442235
+  },
+  "/data/a.riyahi/data/z24/16/fvt/16setup01.mat": {
+    "device": 47,
+    "inode": 17203846668,
+    "size_bytes": 15561816,
+    "mtime_ns": 1209229614000000000,
+    "ctime_ns": 1789916217051456255
+  },
+  "/data/a.riyahi/data/z24/16/fvt/16setup02.mat": {
+    "device": 47,
+    "inode": 17203846669,
+    "size_bytes": 15494826,
+    "mtime_ns": 1209227752000000000,
+    "ctime_ns": 1789916217551464753
+  },
+  "/data/a.riyahi/data/z24/16/fvt/16setup03.mat": {
+    "device": 47,
+    "inode": 17203846670,
+    "size_bytes": 15502634,
+    "mtime_ns": 1209227944000000000,
+    "ctime_ns": 1789916218119474406
+  },
+  "/data/a.riyahi/data/z24/16/fvt/16setup04.mat": {
+    "device": 47,
+    "inode": 17203846671,
+    "size_bytes": 15460057,
+    "mtime_ns": 1209228134000000000,
+    "ctime_ns": 1789916218998489344
+  },
+  "/data/a.riyahi/data/z24/16/fvt/16setup05.mat": {
+    "device": 47,
+    "inode": 17203846672,
+    "size_bytes": 12880673,
+    "mtime_ns": 1209228294000000000,
+    "ctime_ns": 1789916222468548316
+  },
+  "/data/a.riyahi/data/z24/16/fvt/16setup06.mat": {
+    "device": 47,
+    "inode": 17203846673,
+    "size_bytes": 15783611,
+    "mtime_ns": 1209228472000000000,
+    "ctime_ns": 1789916224556583801
+  },
+  "/data/a.riyahi/data/z24/16/fvt/16setup07.mat": {
+    "device": 47,
+    "inode": 17203846674,
+    "size_bytes": 15611774,
+    "mtime_ns": 1209228652000000000,
+    "ctime_ns": 1789916225287596224
+  },
+  "/data/a.riyahi/data/z24/16/fvt/16setup08.mat": {
+    "device": 47,
+    "inode": 17203846675,
+    "size_bytes": 15539860,
+    "mtime_ns": 1209228832000000000,
+    "ctime_ns": 1789916227280630094
+  },
+  "/data/a.riyahi/data/z24/16/fvt/16setup09.mat": {
+    "device": 47,
+    "inode": 17203846676,
+    "size_bytes": 15195380,
+    "mtime_ns": 1209229006000000000,
+    "ctime_ns": 1789916228465650233
+  },
+  "/data/a.riyahi/data/z24/17/FVT/17setup01.mat": {
+    "device": 47,
+    "inode": 19356546093,
+    "size_bytes": 15509100,
+    "mtime_ns": 1241010996000000000,
+    "ctime_ns": 1789916232965726709
+  },
+  "/data/a.riyahi/data/z24/17/FVT/17setup02.mat": {
+    "device": 47,
+    "inode": 19356546094,
+    "size_bytes": 15520394,
+    "mtime_ns": 1241011184000000000,
+    "ctime_ns": 1789916235336767004
+  },
+  "/data/a.riyahi/data/z24/17/FVT/17setup03.mat": {
+    "device": 47,
+    "inode": 19356546095,
+    "size_bytes": 15477186,
+    "mtime_ns": 1241011366000000000,
+    "ctime_ns": 1789916239286834133
+  },
+  "/data/a.riyahi/data/z24/17/FVT/17setup04.mat": {
+    "device": 47,
+    "inode": 19356546096,
+    "size_bytes": 15371622,
+    "mtime_ns": 1241011564000000000,
+    "ctime_ns": 1789916247041965930
+  },
+  "/data/a.riyahi/data/z24/17/FVT/17setup05.mat": {
+    "device": 47,
+    "inode": 19356546100,
+    "size_bytes": 8962181,
+    "mtime_ns": 1241011738000000000,
+    "ctime_ns": 1789916248179985270
+  },
+  "/data/a.riyahi/data/z24/17/FVT/17setup06.mat": {
+    "device": 47,
+    "inode": 19356546101,
+    "size_bytes": 15592338,
+    "mtime_ns": 1241011926000000000,
+    "ctime_ns": 1789916248966998645
+  },
+  "/data/a.riyahi/data/z24/17/FVT/17setup07.mat": {
+    "device": 47,
+    "inode": 19356546102,
+    "size_bytes": 15676933,
+    "mtime_ns": 1241012122000000000,
+    "ctime_ns": 1789916250066017322
+  },
+  "/data/a.riyahi/data/z24/17/FVT/17setup08.mat": {
+    "device": 47,
+    "inode": 19356546103,
+    "size_bytes": 15621020,
+    "mtime_ns": 1241012329000000000,
+    "ctime_ns": 1789916251412040197
+  },
+  "/data/a.riyahi/data/z24/17/FVT/17setup09.mat": {
+    "device": 47,
+    "inode": 19356775424,
+    "size_bytes": 15277466,
+    "mtime_ns": 1241012515000000000,
+    "ctime_ns": 1789916252291055135
+  },
+  "/data/a.riyahi/data/z24/17/avt/17setup01.mat": {
+    "device": 47,
+    "inode": 21495064624,
+    "size_bytes": 8808567,
+    "mtime_ns": 1241007586000000000,
+    "ctime_ns": 1789916441273266827
+  },
+  "/data/a.riyahi/data/z24/17/avt/17setup02.mat": {
+    "device": 47,
+    "inode": 21495071745,
+    "size_bytes": 9732251,
+    "mtime_ns": 1241007750000000000,
+    "ctime_ns": 1789916441689273897
+  },
+  "/data/a.riyahi/data/z24/17/avt/17setup03.mat": {
+    "device": 47,
+    "inode": 21495071747,
+    "size_bytes": 9865885,
+    "mtime_ns": 1241007918000000000,
+    "ctime_ns": 1789916442064280270
+  },
+  "/data/a.riyahi/data/z24/17/avt/17setup04.mat": {
+    "device": 47,
+    "inode": 21495071787,
+    "size_bytes": 10330211,
+    "mtime_ns": 1241008070000000000,
+    "ctime_ns": 1789916445002330202
+  },
+  "/data/a.riyahi/data/z24/17/avt/17setup05.mat": {
+    "device": 47,
+    "inode": 21495071789,
+    "size_bytes": 7865717,
+    "mtime_ns": 1241008200000000000,
+    "ctime_ns": 1789916448945397212
+  },
+  "/data/a.riyahi/data/z24/17/avt/17setup06.mat": {
+    "device": 47,
+    "inode": 21495071792,
+    "size_bytes": 10334340,
+    "mtime_ns": 1241008364000000000,
+    "ctime_ns": 1789916453316471498
+  },
+  "/data/a.riyahi/data/z24/17/avt/17setup07.mat": {
+    "device": 47,
+    "inode": 21495071795,
+    "size_bytes": 8836993,
+    "mtime_ns": 1241008524000000000,
+    "ctime_ns": 1789916456971533615
+  },
+  "/data/a.riyahi/data/z24/17/avt/17setup08.mat": {
+    "device": 47,
+    "inode": 21495071797,
+    "size_bytes": 9062611,
+    "mtime_ns": 1241008686000000000,
+    "ctime_ns": 1789916457857548672
+  },
+  "/data/a.riyahi/data/z24/17/avt/17setup09.mat": {
+    "device": 47,
+    "inode": 21495071799,
+    "size_bytes": 8058934,
+    "mtime_ns": 1241008838000000000,
+    "ctime_ns": 1789916458572560824
+  }
+}

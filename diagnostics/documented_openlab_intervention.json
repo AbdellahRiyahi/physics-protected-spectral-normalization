@@ -1,0 +1,17 @@
+{
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12145563/",
+  "section": "4.6 Test Concept",
+  "period": "2024-07-22 to 2024-08-02",
+  "intervention": "Temporary midspan prop; changed boundary conditions without damage",
+  "calibration_acquisitions": 27,
+  "calibration_dates": [
+    "2024-07-24",
+    "2024-07-25",
+    "2024-07-26",
+    "2024-07-29",
+    "2024-08-01"
+  ],
+  "labels_or_partitions_changed": false,
+  "predictor_added": false,
+  "interpretation": "The undamaged reference phase includes a known non-destructive boundary-condition intervention. These observations remain in the fixed chronological protocol."
+}

@@ -1,0 +1,1153 @@
+{
+  "repository": "AbdellahRiyahi/physics-protected-spectral-normalization",
+  "revision": "e85bf1374ade5ee47280b85ac4391def02d1afc6",
+  "records": {
+    "openlab_2024_grouped_calibration.json": {
+      "all_nuisance_coefficients_nonnegative": true,
+      "artifact": "/home/a.riyahi/EvoBridge_SHM/data/derived/openlab_2024_grouped_calibration.npz",
+      "calibrated_false_alert_reduction_at_fixed_raw_threshold": 1,
+      "calibration_date_groups": 24,
+      "calibration_or_heldout_used_for_nuisance_fit": false,
+      "claim_scope": "DATE_LEVEL_REFERENCE_LIKE_FALSE_ALERT_CONTROL_ONLY_NOT_REAL_THETA_POSTERIOR_COVERAGE",
+      "completed_utc": "2026-08-27T02:33:54.005846+00:00",
+      "controlled_modal_shift_retention": {
+        "minimum_retention_fraction": 1,
+        "passes": true,
+        "predeclared_minimum": 0.95,
+        "relative_frequency_shifts": [
+          -0.02,
+          -0.01,
+          -0.005,
+          0.005,
+          0.01,
+          0.02
+        ],
+        "retention_fractions": [
+          1,
+          1,
+          1,
+          1.0000000000000002,
+          1,
+          1
+        ]
+      },
+      "coverage_acceptance_absolute_tolerance": 0.1,
+      "external_labels_used_for_selection": false,
+      "external_signal_arrays_opened": false,
+      "group_nonconformity_score": "MAXIMUM_ACQUISITION_L2_REFERENCE_DISTANCE_WITHIN_UTC_DATE",
+      "group_overlap": 0,
+      "heldout_date_groups": 10,
+      "max_abs_nuisance_physics_inner_product": 1.0061396160665481e-16,
+      "nominal_group_coverage": 0.95,
+      "nuisance_coefficient_constraint": "NONNEGATIVE_NNLS",
+      "nuisance_fit": "TRAINING_DATE_CENTROID_SHIFTS_ONLY",
+      "nuisance_rank": 3,
+      "physics_protected_nuisance_variant": {
+        "calibration": {
+          "group_count": 24,
+          "group_max_scores": {
+            "2024-06-03|HEALTHY_REFERENCE": 1.2638856345146752,
+            "2024-06-05|HEALTHY_REFERENCE": 1.7363344807369336,
+            "2024-06-06|HEALTHY_REFERENCE": 1.237367198921546,
+            "2024-06-10|HEALTHY_REFERENCE": 1.3554488752158027,
+            "2024-06-27|HEALTHY_REFERENCE": 0.9093301789118464,
+            "2024-07-06|HEALTHY_REFERENCE": 1.1178959210752453,
+            "2024-07-10|HEALTHY_REFERENCE": 1.0288488689361732,
+            "2024-07-14|HEALTHY_REFERENCE": 0.9872696824680276,
+            "2024-07-16|HEALTHY_REFERENCE": 0.7174352484887475,
+            "2024-07-17|HEALTHY_REFERENCE": 1.2807396184315836,
+            "2024-07-18|HEALTHY_REFERENCE": 0.9859535355956474,
+            "2024-07-24|HEALTHY_REFERENCE": 1.5280787636947408,
+            "2024-07-25|HEALTHY_REFERENCE": 1.4293544915843654,
+            "2024-07-26|HEALTHY_REFERENCE": 1.5551558200748337,
+            "2024-07-29|HEALTHY_REFERENCE": 1.3635254801125682,
+            "2024-08-01|HEALTHY_REFERENCE": 1.389894411268791,
+            "2024-08-13|HEALTHY_REFERENCE": 1.6856750230715662,
+            "2024-08-14|HEALTHY_REFERENCE": 1.833725420128186,
+            "2024-08-18|HEALTHY_REFERENCE": 1.13169260498258,
+            "2024-08-21|HEALTHY_REFERENCE": 1.0623851907028325,
+            "2024-08-23|HEALTHY_REFERENCE": 1.0460613465725643,
+            "2024-08-28|HEALTHY_REFERENCE": 1.4919984086901839,
+            "2024-09-02|HEALTHY_REFERENCE": 1.172271903935015,
+            "2024-09-05|HEALTHY_REFERENCE": 1.2973890597016955
+          },
+          "maximum_group_max": 1.833725420128186,
+          "median_group_max": 1.2723126264731293,
+          "q90_group_max": 1.6465192621725464
+        },
+        "calibration_passes": true,
+        "conformal_rank": 24,
+        "conformal_threshold": 1.833725420128186,
+        "heldout": {
+          "group_count": 10,
+          "group_max_scores": {
+            "2024-09-13|HEALTHY_REFERENCE": 1.446846791943968,
+            "2024-09-18|HEALTHY_REFERENCE": 1.1123747228534693,
+            "2024-09-27|HEALTHY_REFERENCE": 1.3207610653330828,
+            "2024-10-09|HEALTHY_REFERENCE": 1.331918050014216,
+            "2024-10-10|HEALTHY_REFERENCE": 1.3890652148921478,
+            "2024-10-13|HEALTHY_REFERENCE": 1.4936277286829607,
+            "2024-10-16|HEALTHY_REFERENCE": 1.5187704683213772,
+            "2024-10-17|HEALTHY_REFERENCE": 1.3833763862582382,
+            "2024-10-22|HEALTHY_REFERENCE": 1.4819866972252898,
+            "2024-10-23|HEALTHY_REFERENCE": 1.2314878010285486
+          },
+          "maximum_group_max": 1.5187704683213772,
+          "median_group_max": 1.386220800575193,
+          "q90_group_max": 1.4961420026468024
+        },
+        "heldout_coverage_at_fixed_raw_threshold": 1,
+        "heldout_false_alert_dates": 0,
+        "heldout_false_alert_dates_at_fixed_raw_threshold": 0,
+        "heldout_group_coverage": 1
+      },
+      "protected_physics_dimension": 12,
+      "protected_physics_subspace": "PER_RANK_FINITE_LOG_FREQUENCY_SHIFT_SECANTS_AT_PLUS_MINUS_0.5_1_2_PERCENT",
+      "raw_variant": {
+        "calibration": {
+          "group_count": 24,
+          "group_max_scores": {
+            "2024-06-03|HEALTHY_REFERENCE": 1.3955596286957044,
+            "2024-06-05|HEALTHY_REFERENCE": 2.159726464470706,
+            "2024-06-06|HEALTHY_REFERENCE": 1.4340343066838668,
+            "2024-06-10|HEALTHY_REFERENCE": 2.1468144749114213,
+            "2024-06-27|HEALTHY_REFERENCE": 1.1155619272602555,
+            "2024-07-06|HEALTHY_REFERENCE": 1.683767450795169,
+            "2024-07-10|HEALTHY_REFERENCE": 1.326826144365963,
+            "2024-07-14|HEALTHY_REFERENCE": 1.4449700295983003,
+            "2024-07-16|HEALTHY_REFERENCE": 0.9056278302612454,
+            "2024-07-17|HEALTHY_REFERENCE": 1.4139548354145266,
+            "2024-07-18|HEALTHY_REFERENCE": 1.1775517926246213,
+            "2024-07-24|HEALTHY_REFERENCE": 1.8492746481255078,
+            "2024-07-25|HEALTHY_REFERENCE": 1.7263153533448181,
+            "2024-07-26|HEALTHY_REFERENCE": 1.8908035845830458,
+            "2024-07-29|HEALTHY_REFERENCE": 1.5163817254220118,
+            "2024-08-01|HEALTHY_REFERENCE": 1.9991963389627372,
+            "2024-08-13|HEALTHY_REFERENCE": 1.8488831899068636,
+            "2024-08-14|HEALTHY_REFERENCE": 2.068847727479316,
+            "2024-08-18|HEALTHY_REFERENCE": 1.8414699482725356,
+            "2024-08-21|HEALTHY_REFERENCE": 1.568931084889096,
+            "2024-08-23|HEALTHY_REFERENCE": 1.162443061655896,
+            "2024-08-28|HEALTHY_REFERENCE": 1.743040973397496,
+            "2024-09-02|HEALTHY_REFERENCE": 1.8192011829900412,
+            "2024-09-05|HEALTHY_REFERENCE": 1.4140913096235959
+          },
+          "maximum_group_max": 2.159726464470706,
+          "median_group_max": 1.6263492678421325,
+          "q90_group_max": 2.0479523109243423
+        },
+        "calibration_passes": true,
+        "conformal_rank": 24,
+        "conformal_threshold": 2.159726464470706,
+        "heldout": {
+          "group_count": 10,
+          "group_max_scores": {
+            "2024-09-13|HEALTHY_REFERENCE": 1.813029491310093,
+            "2024-09-18|HEALTHY_REFERENCE": 1.3017825225605104,
+            "2024-09-27|HEALTHY_REFERENCE": 1.9602192763592687,
+            "2024-10-09|HEALTHY_REFERENCE": 1.9335626383122329,
+            "2024-10-10|HEALTHY_REFERENCE": 1.9252251728616914,
+            "2024-10-13|HEALTHY_REFERENCE": 2.164542851763078,
+            "2024-10-16|HEALTHY_REFERENCE": 1.7760359434753776,
+            "2024-10-17|HEALTHY_REFERENCE": 1.965294074958022,
+            "2024-10-22|HEALTHY_REFERENCE": 1.5984319487512637,
+            "2024-10-23|HEALTHY_REFERENCE": 1.3986851313731905
+          },
+          "maximum_group_max": 2.164542851763078,
+          "median_group_max": 1.8691273320858923,
+          "q90_group_max": 1.9852189526385275
+        },
+        "heldout_false_alert_dates": 1,
+        "heldout_group_coverage": 0.9
+      },
+      "real_posterior_parameter_interval_calibration_established": false,
+      "real_reference_decision_calibration_established": true,
+      "reference_fit": "EQUAL_DATE_CENTROIDS_TRAINING_ONLY",
+      "runtime": {
+        "argv": [
+          "scripts/run_openlab_2024_grouped_calibration.py"
+        ],
+        "hostname": "data36",
+        "pid": 4025546,
+        "platform": "Linux-4.18.0-477.27.1.el8_8.x86_64-x86_64-with-glibc2.28",
+        "python": "3.11.7 (main, Dec 15 2023, 18:12:31) [GCC 11.2.0]",
+        "timestamp_utc": "2026-08-27T02:33:54.005875+00:00"
+      },
+      "scope": "OPENLAB_2024_UNDAMAGED_DATE_GROUPED_CONFORMAL_REFERENCE_DECISION",
+      "status": "PASS",
+      "supports_global_pipeline_freeze": false,
+      "training_date_groups": 10
+    },
+    "openlab_2024_nuisance_ablation.json": {
+      "completed_utc": "2026-08-27T03:12:27.147905+00:00",
+      "controlled_relative_frequency_shifts": [
+        -0.02,
+        -0.01,
+        -0.005,
+        0.005,
+        0.01,
+        0.02
+      ],
+      "date_group_counts": {
+        "calibration": 24,
+        "healthy_validation": 10,
+        "train": 10
+      },
+      "external_labels_used_for_selection": false,
+      "external_signal_arrays_opened": false,
+      "figures": [
+        "/home/a.riyahi/EvoBridge_SHM/figures/figure_15_openlab_nuisance_ablation.png",
+        "/home/a.riyahi/EvoBridge_SHM/figures/figure_15_openlab_nuisance_ablation.pdf"
+      ],
+      "nominal_group_coverage": 0.95,
+      "nuisance_rank": 3,
+      "predeclared_minimum_physics_retention": 0.95,
+      "runtime": {
+        "argv": [
+          "scripts/run_openlab_2024_nuisance_ablation.py"
+        ],
+        "hostname": "data36",
+        "pid": 4078849,
+        "platform": "Linux-4.18.0-477.27.1.el8_8.x86_64-x86_64-with-glibc2.28",
+        "python": "3.11.7 (main, Dec 15 2023, 18:12:31) [GCC 11.2.0]",
+        "timestamp_utc": "2026-08-27T03:12:27.147921+00:00"
+      },
+      "scope": "OPENLAB_2024_GROUP_FAIR_NUISANCE_ABLATION_UNDAMAGED_ONLY",
+      "statistical_claim": "DESCRIPTIVE_FIXED_PROTOCOL_ABLATION_NOT_DAMAGE_DISCRIMINATION",
+      "status": "PASS",
+      "supports_global_pipeline_freeze": false,
+      "unique_variant_passing_coverage_physics_and_nonnegativity": "physics_protected_rank3_nonnegative_cone",
+      "variants": {
+        "physics_protected_rank3_nonnegative_cone": {
+          "all_required_properties_pass": true,
+          "coefficient_contract": "NONNEGATIVE_NNLS",
+          "conformal_threshold": 1.833725420128186,
+          "contains_nuisance_model": true,
+          "controlled_shift_retention": [
+            1,
+            1,
+            1,
+            1.0000000000000002,
+            1,
+            1
+          ],
+          "heldout_false_alert_groups": 0,
+          "heldout_group_coverage": 1,
+          "heldout_group_max_scores": {
+            "2024-09-13|HEALTHY_REFERENCE": 1.446846791943968,
+            "2024-09-18|HEALTHY_REFERENCE": 1.1123747228534693,
+            "2024-09-27|HEALTHY_REFERENCE": 1.3207610653330828,
+            "2024-10-09|HEALTHY_REFERENCE": 1.331918050014216,
+            "2024-10-10|HEALTHY_REFERENCE": 1.3890652148921478,
+            "2024-10-13|HEALTHY_REFERENCE": 1.4936277286829607,
+            "2024-10-16|HEALTHY_REFERENCE": 1.5187704683213772,
+            "2024-10-17|HEALTHY_REFERENCE": 1.3833763862582382,
+            "2024-10-22|HEALTHY_REFERENCE": 1.4819866972252898,
+            "2024-10-23|HEALTHY_REFERENCE": 1.2314878010285486
+          },
+          "minimum_controlled_shift_retention": 1,
+          "negative_coefficient_acquisition_fraction": 0,
+          "nonnegative_contract_passes": true,
+          "physics_retention_passes": true
+        },
+        "physics_protected_rank3_signed_projection": {
+          "all_required_properties_pass": false,
+          "coefficient_contract": "SIGNED_UNCONSTRAINED",
+          "conformal_threshold": 1.833725420128186,
+          "contains_nuisance_model": true,
+          "controlled_shift_retention": [
+            1,
+            0.9999999999999999,
+            1,
+            1,
+            1,
+            1.0000000000000002
+          ],
+          "heldout_false_alert_groups": 0,
+          "heldout_group_coverage": 1,
+          "heldout_group_max_scores": {
+            "2024-09-13|HEALTHY_REFERENCE": 1.446846791943968,
+            "2024-09-18|HEALTHY_REFERENCE": 1.1123747228534693,
+            "2024-09-27|HEALTHY_REFERENCE": 1.2969085011456172,
+            "2024-10-09|HEALTHY_REFERENCE": 1.318272199337532,
+            "2024-10-10|HEALTHY_REFERENCE": 1.3850114484951443,
+            "2024-10-13|HEALTHY_REFERENCE": 1.4926130232772732,
+            "2024-10-16|HEALTHY_REFERENCE": 1.5187704683213772,
+            "2024-10-17|HEALTHY_REFERENCE": 1.3690146169174588,
+            "2024-10-22|HEALTHY_REFERENCE": 1.481983284347327,
+            "2024-10-23|HEALTHY_REFERENCE": 1.2314878010285486
+          },
+          "minimum_controlled_shift_retention": 0.9999999999999999,
+          "negative_coefficient_acquisition_fraction": 0.6768060836501901,
+          "nonnegative_contract_passes": false,
+          "physics_retention_passes": true
+        },
+        "raw_distance": {
+          "all_required_properties_pass": false,
+          "coefficient_contract": "NOT_APPLICABLE",
+          "conformal_threshold": 2.159726464470706,
+          "contains_nuisance_model": false,
+          "controlled_shift_retention": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "heldout_false_alert_groups": 1,
+          "heldout_group_coverage": 0.9,
+          "heldout_group_max_scores": {
+            "2024-09-13|HEALTHY_REFERENCE": 1.813029491310093,
+            "2024-09-18|HEALTHY_REFERENCE": 1.3017825225605104,
+            "2024-09-27|HEALTHY_REFERENCE": 1.9602192763592687,
+            "2024-10-09|HEALTHY_REFERENCE": 1.9335626383122329,
+            "2024-10-10|HEALTHY_REFERENCE": 1.9252251728616914,
+            "2024-10-13|HEALTHY_REFERENCE": 2.164542851763078,
+            "2024-10-16|HEALTHY_REFERENCE": 1.7760359434753776,
+            "2024-10-17|HEALTHY_REFERENCE": 1.965294074958022,
+            "2024-10-22|HEALTHY_REFERENCE": 1.5984319487512637,
+            "2024-10-23|HEALTHY_REFERENCE": 1.3986851313731905
+          },
+          "minimum_controlled_shift_retention": 1,
+          "negative_coefficient_acquisition_fraction": null,
+          "nonnegative_contract_passes": true,
+          "physics_retention_passes": true
+        },
+        "unprotected_rank3_signed_pca": {
+          "all_required_properties_pass": false,
+          "coefficient_contract": "SIGNED_UNCONSTRAINED_AND_PHYSICS_UNPROTECTED",
+          "conformal_threshold": 1.5555383918180552,
+          "contains_nuisance_model": true,
+          "controlled_shift_retention": [
+            0.981974142276047,
+            0.9947216196215092,
+            0.9972242152414685,
+            0.9588603706233555,
+            0.9453666053411173,
+            0.9028058272595836
+          ],
+          "heldout_false_alert_groups": 0,
+          "heldout_group_coverage": 1,
+          "heldout_group_max_scores": {
+            "2024-09-13|HEALTHY_REFERENCE": 1.1793121326167804,
+            "2024-09-18|HEALTHY_REFERENCE": 1.0143864505846723,
+            "2024-09-27|HEALTHY_REFERENCE": 0.9588803536097138,
+            "2024-10-09|HEALTHY_REFERENCE": 0.9366586350988092,
+            "2024-10-10|HEALTHY_REFERENCE": 1.1419789995325165,
+            "2024-10-13|HEALTHY_REFERENCE": 1.1720255930154138,
+            "2024-10-16|HEALTHY_REFERENCE": 1.2726663050923608,
+            "2024-10-17|HEALTHY_REFERENCE": 1.0349986786194865,
+            "2024-10-22|HEALTHY_REFERENCE": 1.408501004771564,
+            "2024-10-23|HEALTHY_REFERENCE": 1.0487860134236173
+          },
+          "minimum_controlled_shift_retention": 0.9028058272595836,
+          "negative_coefficient_acquisition_fraction": 1,
+          "nonnegative_contract_passes": false,
+          "physics_retention_passes": false
+        }
+      }
+    },
+    "z24_ems_environmental_twin.json": {
+      "artifact": "/home/a.riyahi/EvoBridge_SHM/data/derived/z24_ems_environmental_twin.npz",
+      "calibration_data": "CALIBRATION_RUNTIME_WEEK_MAXIMA_ONLY",
+      "completed_utc": "2026-08-27T15:37:19.736198+00:00",
+      "conditional_modal_superiority_confirmed": false,
+      "conditional_selected_alpha": 10,
+      "conditional_spectral_score_improvement_confirmed": true,
+      "conditional_training_group_cv_mse": {
+        "0.0001": 0.005579657586879208,
+        "0.001": 0.005567564190052471,
+        "0.01": 0.005453117159900325,
+        "0.1": 0.004731971141090446,
+        "1.0": 0.003743564835309355,
+        "10.0": 0.003382065953223317,
+        "100.0": 0.0038215171636710463
+      },
+      "conditional_vs_raw": {
+        "heldout_false_alert_week_reduction": 0,
+        "heldout_median_threshold_normalized_score_reduction_fraction": 0.16794775648372462
+      },
+      "controlled_modal_shift_retention": {
+        "minimum_retention_fraction": 1,
+        "passes": true,
+        "predeclared_minimum": 0.95,
+        "relative_frequency_shifts": [
+          -0.02,
+          -0.01,
+          -0.005,
+          0.005,
+          0.01,
+          0.02
+        ],
+        "retention_fractions": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "cross_campaign_modal_support": {
+        "ems_sensor_dropout_supported_bands": [
+          1,
+          2
+        ],
+        "interpretation": "SELECTIVE_SUPPORT_ONLY_NOT_GLOBAL_ROBUSTNESS_CONFIRMATION",
+        "intersection_supported_bands": [
+          1
+        ],
+        "source_avt_exploratory_supported_bands": [
+          1,
+          5
+        ]
+      },
+      "device": "CPU",
+      "environmental_twin_adopted": true,
+      "environmental_twin_adoption_scope": "HEALTHY_SPECTRAL_SCORE_CORRECTION_ONLY",
+      "external_damage_labels_used": false,
+      "figures": [
+        "/home/a.riyahi/EvoBridge_SHM/figures/figure_32_z24_ems_environmental_twin.png",
+        "/home/a.riyahi/EvoBridge_SHM/figures/figure_32_z24_ems_environmental_twin.pdf"
+      ],
+      "global_pipeline_frozen": false,
+      "global_target_exchangeability_established": false,
+      "group_overlap": 0,
+      "group_unit": "RUNTIME_WEEK",
+      "groups_per_fold": {
+        "calibration": 19,
+        "healthy_validation": 7,
+        "train": 7
+      },
+      "heldout_modal_environmental_residuals": {
+        "conditional_environmental_twin": {
+          "absolute_log_frequency_rmse_by_mode": [
+            0.035385590272418166,
+            0.022398277594891772,
+            0.020122049192019924,
+            0.021556692778701026,
+            0.01759883474298975
+          ],
+          "group_count": 7,
+          "median_absolute_spearman": 0.7142857142857144,
+          "median_log_frequency_rmse": 0.021556692778701026,
+          "spearman_pvalue_by_mode": [
+            0.023448808345691505,
+            0.07134356146753759,
+            0.2939341076002517,
+            0.5887244480896833,
+            0
+          ],
+          "spearman_temperature_vs_signed_residual_by_mode": [
+            -0.8214285714285715,
+            -0.7142857142857144,
+            -0.4642857142857144,
+            0.25,
+            -1
+          ]
+        },
+        "piecewise_temperature": {
+          "absolute_log_frequency_rmse_by_mode": [
+            0.044241789783042246,
+            0.02316446611842187,
+            0.020157437343857495,
+            0.019295130052713372,
+            0.01797291304034204
+          ],
+          "group_count": 7,
+          "median_absolute_spearman": 0.07142857142857144,
+          "median_log_frequency_rmse": 0.020157437343857495,
+          "spearman_pvalue_by_mode": [
+            0.8790481931481541,
+            0.9394082054712856,
+            0.9394082054712856,
+            0.7599453002180929,
+            0
+          ],
+          "spearman_temperature_vs_signed_residual_by_mode": [
+            -0.07142857142857144,
+            -0.03571428571428572,
+            -0.03571428571428572,
+            -0.14285714285714288,
+            -1
+          ]
+        },
+        "raw_reference": {
+          "absolute_log_frequency_rmse_by_mode": [
+            0.039773422054246936,
+            0.033962411017690916,
+            0.020013361107350733,
+            0.01898829966552662,
+            0.0187229988197615
+          ],
+          "group_count": 7,
+          "median_absolute_spearman": 0.702731220902536,
+          "median_log_frequency_rmse": 0.020013361107350733,
+          "spearman_pvalue_by_mode": [
+            0.016197127467871632,
+            0.07823745383207154,
+            0.2939341076002517,
+            0.8191508555699912,
+            0.005620586715345014
+          ],
+          "spearman_temperature_vs_signed_residual_by_mode": [
+            -0.8468812149338255,
+            -0.702731220902536,
+            -0.4642857142857144,
+            -0.10714285714285716,
+            -0.900937462695559
+          ]
+        }
+      },
+      "heldout_used_for_model_selection": false,
+      "modal_complete_acquisition_support": {
+        "heldout": 22,
+        "heldout_total": 22,
+        "training": 20
+      },
+      "modal_conditional_selected_alpha": 10,
+      "modal_conditional_training_group_cv_mse": {
+        "0.0001": 0.00047865640441105867,
+        "0.001": 0.00047811707568155463,
+        "0.01": 0.0004729229394731883,
+        "0.1": 0.00043503189865255043,
+        "1.0": 0.0003411693986184913,
+        "10.0": 0.0002914807067571651,
+        "100.0": 0.0003716133532680628
+      },
+      "modal_environmental_dependence_reduction_confirmed": false,
+      "modal_piecewise_selected_alpha": 1,
+      "modal_piecewise_training_group_cv_mse": {
+        "0.0001": 0.0002723758339758627,
+        "0.001": 0.0002723711496467344,
+        "0.01": 0.0002723244613145819,
+        "0.1": 0.00027187277601056775,
+        "1.0": 0.00026862589398283035,
+        "10.0": 0.0002778395112718641,
+        "100.0": 0.00039385181051677107
+      },
+      "modal_prediction_error_reduction_confirmed": false,
+      "model_selection_data": "TRAINING_RUNTIME_WEEKS_ONLY",
+      "nominal_group_coverage": 0.95,
+      "piecewise_selected_alpha": 100,
+      "piecewise_training_group_cv_mse": {
+        "0.0001": 0.0048128442865007556,
+        "0.001": 0.004812723652610697,
+        "0.01": 0.004811519626539598,
+        "0.1": 0.00479970630210229,
+        "1.0": 0.004700612311993583,
+        "10.0": 0.004362873335037377,
+        "100.0": 0.004318028010345984
+      },
+      "post_cutoff_signal_arrays_opened": false,
+      "runtime": {
+        "argv": [
+          "scripts/run_z24_ems_environmental_twin.py"
+        ],
+        "hostname": "data36",
+        "pid": 920340,
+        "platform": "Linux-4.18.0-477.27.1.el8_8.x86_64-x86_64-with-glibc2.28",
+        "python": "3.11.7 (main, Dec 15 2023, 18:12:31) [GCC 11.2.0]",
+        "timestamp_utc": "2026-08-27T15:37:19.736221+00:00"
+      },
+      "scope": "Z24_EMS_HEALTHY_ONLY_GROUPED_ENVIRONMENTAL_CONFIRMATION",
+      "sensor_dropout_confirmation": {
+        "conditional_group_coverage": 1,
+        "failed_modal_bands": [
+          3,
+          4,
+          5
+        ],
+        "finite_modal_tracking_support_fraction_by_band": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "fraction": 0.25,
+        "heldout_acquisition_count": 22,
+        "heldout_week_count": 7,
+        "maximum_q95_modal_shift_fft_bins": 22.5,
+        "passes": false,
+        "predeclared_maximum_q95_fft_bins": 3,
+        "predeclared_minimum_modal_tracking_support_fraction": 0.9,
+        "q95_modal_shift_fft_bins_by_band": [
+          0,
+          1,
+          18.75,
+          22.5,
+          16.25
+        ],
+        "seeds": [
+          20260830,
+          20260831,
+          20260832
+        ],
+        "selectively_supported_modal_bands": [
+          1,
+          2
+        ]
+      },
+      "status": "PASS",
+      "variants": {
+        "conditional_environmental_twin": {
+          "calibration": {
+            "coverage": 1,
+            "covered_groups": 19,
+            "false_alert_groups": 0,
+            "group_count": 19,
+            "group_max_scores": {
+              "EMS_WEEK_02": 1.137537522795403,
+              "EMS_WEEK_04": 1.5662014217125686,
+              "EMS_WEEK_06": 1.2471077477672732,
+              "EMS_WEEK_07": 1.402967980200865,
+              "EMS_WEEK_08": 0.916198933729347,
+              "EMS_WEEK_09": 1.264796632335683,
+              "EMS_WEEK_11": 1.0984830219605908,
+              "EMS_WEEK_15": 1.01479654522522,
+              "EMS_WEEK_18": 0.8899541460136849,
+              "EMS_WEEK_20": 1.20797024744298,
+              "EMS_WEEK_21": 1.3757750519911716,
+              "EMS_WEEK_23": 1.0753633639942268,
+              "EMS_WEEK_24": 0.915961310987972,
+              "EMS_WEEK_30": 1.4297272209741454,
+              "EMS_WEEK_32": 0.8706839112319269,
+              "EMS_WEEK_33": 1.2837416591534234,
+              "EMS_WEEK_34": 1.1302061593434898,
+              "EMS_WEEK_35": 0.9518750685785357,
+              "EMS_WEEK_38": 1.359103935557465
+            },
+            "maximum_group_max": 1.5662014217125686,
+            "median_group_max": 1.137537522795403,
+            "median_threshold_normalized_score": 0.7263034671182704,
+            "q90_group_max": 1.4083198283555212,
+            "wilson_95_interval": [
+              0.8318207759473837,
+              1
+            ]
+          },
+          "conformal_rank": 19,
+          "conformal_threshold": 1.5662014217125686,
+          "heldout": {
+            "coverage": 1,
+            "covered_groups": 7,
+            "false_alert_groups": 0,
+            "group_count": 7,
+            "group_max_scores": {
+              "EMS_WEEK_01": 0.8414956611631434,
+              "EMS_WEEK_10": 1.1310655444670021,
+              "EMS_WEEK_13": 1.266394384109525,
+              "EMS_WEEK_14": 0.9833377421847322,
+              "EMS_WEEK_16": 1.2066557506283808,
+              "EMS_WEEK_17": 0.9895619260864956,
+              "EMS_WEEK_22": 0.7510832305788038
+            },
+            "maximum_group_max": 1.266394384109525,
+            "median_group_max": 0.9895619260864956,
+            "median_threshold_normalized_score": 0.6318229011722232,
+            "q90_group_max": 1.2305512040208386,
+            "wilson_95_interval": [
+              0.6456695649333126,
+              1
+            ]
+          },
+          "heldout_temperature_score_correlation": {
+            "group_count": 7,
+            "pvalue": 0.023448808345691505,
+            "spearman_rho": -0.8214285714285715
+          },
+          "training": {
+            "coverage": 1,
+            "covered_groups": 7,
+            "false_alert_groups": 0,
+            "group_count": 7,
+            "group_max_scores": {
+              "EMS_WEEK_03": 1.237215983368565,
+              "EMS_WEEK_05": 0.8700619554762731,
+              "EMS_WEEK_12": 0.7784466281680025,
+              "EMS_WEEK_19": 0.8351735722422629,
+              "EMS_WEEK_29": 0.33027020258441325,
+              "EMS_WEEK_36": 0.7884707788123504,
+              "EMS_WEEK_37": 0.7637683928288916
+            },
+            "maximum_group_max": 1.237215983368565,
+            "median_group_max": 0.7884707788123504,
+            "median_threshold_normalized_score": 0.5034287211603947,
+            "q90_group_max": 1.01692356663319,
+            "wilson_95_interval": [
+              0.6456695649333126,
+              1
+            ]
+          }
+        },
+        "piecewise_temperature": {
+          "calibration": {
+            "coverage": 1,
+            "covered_groups": 19,
+            "false_alert_groups": 0,
+            "group_count": 19,
+            "group_max_scores": {
+              "EMS_WEEK_02": 1.2401423953968311,
+              "EMS_WEEK_04": 1.2804106737209295,
+              "EMS_WEEK_06": 1.1343280012607362,
+              "EMS_WEEK_07": 1.194101919254103,
+              "EMS_WEEK_08": 1.1202267551169895,
+              "EMS_WEEK_09": 0.8814816477121067,
+              "EMS_WEEK_11": 1.0106710476963512,
+              "EMS_WEEK_15": 1.2256922856620793,
+              "EMS_WEEK_18": 1.0391076495938834,
+              "EMS_WEEK_20": 1.2080724652611627,
+              "EMS_WEEK_21": 1.4343757785616729,
+              "EMS_WEEK_23": 0.9806308237622433,
+              "EMS_WEEK_24": 1.0043960019603322,
+              "EMS_WEEK_30": 1.024981147456582,
+              "EMS_WEEK_32": 1.2235946059991019,
+              "EMS_WEEK_33": 1.3215080178853431,
+              "EMS_WEEK_34": 1.0465096950430255,
+              "EMS_WEEK_35": 1.1799577635307004,
+              "EMS_WEEK_38": 1.4259777678072807
+            },
+            "maximum_group_max": 1.4343757785616729,
+            "median_group_max": 1.1799577635307004,
+            "median_threshold_normalized_score": 0.8226280596524773,
+            "q90_group_max": 1.3424019678697305,
+            "wilson_95_interval": [
+              0.8318207759473837,
+              1
+            ]
+          },
+          "conformal_rank": 19,
+          "conformal_threshold": 1.4343757785616729,
+          "heldout": {
+            "coverage": 1,
+            "covered_groups": 7,
+            "false_alert_groups": 0,
+            "group_count": 7,
+            "group_max_scores": {
+              "EMS_WEEK_01": 0.8349324675271955,
+              "EMS_WEEK_10": 1.2294941614688715,
+              "EMS_WEEK_13": 1.0267954496751206,
+              "EMS_WEEK_14": 1.0106782394030236,
+              "EMS_WEEK_16": 1.357238780235269,
+              "EMS_WEEK_17": 1.0498542746228285,
+              "EMS_WEEK_22": 0.8643189214201211
+            },
+            "maximum_group_max": 1.357238780235269,
+            "median_group_max": 1.0267954496751206,
+            "median_threshold_normalized_score": 0.715848290958137,
+            "q90_group_max": 1.2805920089754306,
+            "wilson_95_interval": [
+              0.6456695649333126,
+              1
+            ]
+          },
+          "heldout_temperature_score_correlation": {
+            "group_count": 7,
+            "pvalue": 0.25316999510032273,
+            "spearman_rho": -0.5
+          },
+          "training": {
+            "coverage": 1,
+            "covered_groups": 7,
+            "false_alert_groups": 0,
+            "group_count": 7,
+            "group_max_scores": {
+              "EMS_WEEK_03": 1.371484481494038,
+              "EMS_WEEK_05": 1.1597343136206963,
+              "EMS_WEEK_12": 0.8797349566487622,
+              "EMS_WEEK_19": 1.0441429259799317,
+              "EMS_WEEK_29": 0.70108659180745,
+              "EMS_WEEK_36": 1.2401837870514485,
+              "EMS_WEEK_37": 1.37765864067492
+            },
+            "maximum_group_max": 1.37765864067492,
+            "median_group_max": 1.1597343136206963,
+            "median_threshold_normalized_score": 0.8085289301131573,
+            "q90_group_max": 1.3739541451663908,
+            "wilson_95_interval": [
+              0.6456695649333126,
+              1
+            ]
+          }
+        },
+        "raw_reference": {
+          "calibration": {
+            "coverage": 1,
+            "covered_groups": 19,
+            "false_alert_groups": 0,
+            "group_count": 19,
+            "group_max_scores": {
+              "EMS_WEEK_02": 1.2415396546756314,
+              "EMS_WEEK_04": 1.2596500778655186,
+              "EMS_WEEK_06": 1.161081143539577,
+              "EMS_WEEK_07": 1.2053514235905398,
+              "EMS_WEEK_08": 1.1492923795706942,
+              "EMS_WEEK_09": 0.8893980138049266,
+              "EMS_WEEK_11": 1.0616659965076891,
+              "EMS_WEEK_15": 1.265205409233099,
+              "EMS_WEEK_18": 1.037314601402241,
+              "EMS_WEEK_20": 1.250573838145977,
+              "EMS_WEEK_21": 1.480411524431769,
+              "EMS_WEEK_23": 0.9847228372914745,
+              "EMS_WEEK_24": 1.009984995829225,
+              "EMS_WEEK_30": 1.0403305519766863,
+              "EMS_WEEK_32": 1.2369069136713566,
+              "EMS_WEEK_33": 1.3285644565414836,
+              "EMS_WEEK_34": 1.052924533047858,
+              "EMS_WEEK_35": 1.2166749131006245,
+              "EMS_WEEK_38": 1.4976671950457474
+            },
+            "maximum_group_max": 1.4976671950457474,
+            "median_group_max": 1.2053514235905398,
+            "median_threshold_normalized_score": 0.8048192733190777,
+            "q90_group_max": 1.3589338701195406,
+            "wilson_95_interval": [
+              0.8318207759473837,
+              1
+            ]
+          },
+          "conformal_rank": 19,
+          "conformal_threshold": 1.4976671950457474,
+          "heldout": {
+            "coverage": 1,
+            "covered_groups": 7,
+            "false_alert_groups": 0,
+            "group_count": 7,
+            "group_max_scores": {
+              "EMS_WEEK_01": 0.8620833294807995,
+              "EMS_WEEK_10": 1.255591057302224,
+              "EMS_WEEK_13": 1.2348933138248417,
+              "EMS_WEEK_14": 1.1372608385326235,
+              "EMS_WEEK_16": 1.3905607253226675,
+              "EMS_WEEK_17": 1.06021310869727,
+              "EMS_WEEK_22": 0.8536474934896561
+            },
+            "maximum_group_max": 1.3905607253226675,
+            "median_group_max": 1.1372608385326235,
+            "median_threshold_normalized_score": 0.7593548435157418,
+            "q90_group_max": 1.3095789245104015,
+            "wilson_95_interval": [
+              0.6456695649333126,
+              1
+            ]
+          },
+          "heldout_temperature_score_correlation": {
+            "group_count": 7,
+            "pvalue": 0.05218140045705776,
+            "spearman_rho": -0.7500000000000002
+          },
+          "training": {
+            "coverage": 1,
+            "covered_groups": 7,
+            "false_alert_groups": 0,
+            "group_count": 7,
+            "group_max_scores": {
+              "EMS_WEEK_03": 1.4154149378442034,
+              "EMS_WEEK_05": 1.2365306123094655,
+              "EMS_WEEK_12": 0.9739571355598616,
+              "EMS_WEEK_19": 1.0499684267343365,
+              "EMS_WEEK_29": 0.7485720835986592,
+              "EMS_WEEK_36": 1.2842891831350387,
+              "EMS_WEEK_37": 1.393500271385124
+            },
+            "maximum_group_max": 1.4154149378442034,
+            "median_group_max": 1.2365306123094655,
+            "median_threshold_normalized_score": 0.8256377761360358,
+            "q90_group_max": 1.4022661379687558,
+            "wilson_95_interval": [
+              0.6456695649333126,
+              1
+            ]
+          }
+        }
+      },
+      "z24_real_stress_robustness_confirmed": false,
+      "z24_target_has_multiple_independent_healthy_groups": true
+    },
+    "z24_physics_protected_nuisance.json": {
+      "all_nuisance_coefficients_nonnegative": true,
+      "artifact": "/home/a.riyahi/EvoBridge_SHM/data/derived/z24_physics_protected_nuisance.npz",
+      "basis_orientation_fitted_from": "SCENARIO_01_PAIRED_AVT_FVT_ONLY",
+      "calibration_claim": "NOT_PERMITTED_THREE_NONDAMAGE_SCENARIO_GROUPS_ONLY",
+      "coefficient_constraint": "NONNEGATIVE_NNLS",
+      "completed_utc": "2026-08-27T01:15:49.354913+00:00",
+      "external_damage_labels_used_for_selection": false,
+      "external_damage_signal_arrays_opened": false,
+      "max_abs_nuisance_physics_inner_product": 4.85722573273506e-17,
+      "nuisance_basis_fitted_from_validation": false,
+      "nuisance_generalizes_to_both_nondamage_validation_groups": true,
+      "nuisance_rank": 3,
+      "nuisance_representation": "PSD_DERIVED_NORMALIZED_LOG_SPECTRAL_SHIFT_TANGENTS",
+      "paired_avt_scenario_shift": {
+        "02": {
+          "all_finite": true,
+          "coefficient_minimum": 0,
+          "coefficients_nonnegative": true,
+          "count": 9,
+          "median_active_component_count": 2,
+          "median_raw_norm": 1.3903922660695895,
+          "median_reduction_fraction": 0.1180579331339151,
+          "median_residual_norm": 0.9935794591094503,
+          "raw_norms": [
+            1.549067370164147,
+            0.8076918083820311,
+            0.6150691085693116,
+            0.6318317591393016,
+            0.7806099508219949,
+            1.7125669573876998,
+            1.4796210730254726,
+            1.3903922660695895,
+            1.7983497973193838
+          ],
+          "reduction_fractions": [
+            0.10261927607682364,
+            0.07585940424937376,
+            0.03306023369961253,
+            0.15934463460355053,
+            0.10780334870008657,
+            0.2778712158737181,
+            0.32849059990892326,
+            0.1180579331339151,
+            0.23364107507888743
+          ],
+          "residual_norms": [
+            1.3901031980436733,
+            0.7464207889810709,
+            0.5947347800985978,
+            0.531152758348331,
+            0.696457584094774,
+            1.2366938946732258,
+            0.9935794591094503,
+            1.2262454288920333,
+            1.3781814173057836
+          ]
+        },
+        "08": {
+          "all_finite": true,
+          "coefficient_minimum": 0,
+          "coefficients_nonnegative": true,
+          "count": 9,
+          "median_active_component_count": 2,
+          "median_raw_norm": 1.1181584093213168,
+          "median_reduction_fraction": 0.10615490776040748,
+          "median_residual_norm": 0.9596892562295845,
+          "raw_norms": [
+            1.1181584093213168,
+            1.6300839378056355,
+            1.3966148369608131,
+            0.8179461931653158,
+            0.9328958160743994,
+            0.8342612790962133,
+            0.9580331528361643,
+            1.6141894986921173,
+            1.354359972996699
+          ],
+          "reduction_fractions": [
+            0.14172334775706563,
+            0.11712266028629459,
+            0.2872884581807206,
+            0.02128416679904943,
+            0.07422566747155024,
+            0.007756841052084296,
+            0.10615490776040748,
+            0.05507992712928578,
+            0.16909262794609892
+          ],
+          "residual_norms": [
+            0.9596892562295845,
+            1.4391641705198808,
+            0.9953835137780227,
+            0.8005368899573377,
+            0.8636510014448605,
+            0.8277900469583555,
+            0.8563332318654289,
+            1.5252800587312971,
+            1.1253476859776796
+          ]
+        }
+      },
+      "paired_excitation_shift": {
+        "01": {
+          "all_finite": true,
+          "coefficient_minimum": 0,
+          "coefficients_nonnegative": true,
+          "count": 9,
+          "median_active_component_count": 3,
+          "median_raw_norm": 1.9927197751730197,
+          "median_reduction_fraction": 0.5450310092092945,
+          "median_residual_norm": 0.709100886852762,
+          "raw_norms": [
+            2.042961016323576,
+            2.627964878271996,
+            2.3854591425028184,
+            1.542125898463884,
+            1.324870279061348,
+            2.2810416832123837,
+            1.9927197751730197,
+            1.4221025484000225,
+            1.502734716291347
+          ],
+          "reduction_fractions": [
+            0.4868742060466096,
+            0.6569952145709765,
+            0.7318872607309563,
+            0.6101556200231126,
+            0.4647771196474043,
+            0.5450310092092945,
+            0.6750628474887879,
+            0.44204838135678803,
+            0.5323734491904331
+          ],
+          "residual_norms": [
+            1.0482959935168603,
+            0.9014045291866958,
+            0.6395719851108146,
+            0.6011891147329532,
+            0.709100886852762,
+            1.0378032325626703,
+            0.6475086894975038,
+            0.7934644187564293,
+            0.7027186521611157
+          ]
+        },
+        "02": {
+          "all_finite": true,
+          "coefficient_minimum": 0,
+          "coefficients_nonnegative": true,
+          "count": 9,
+          "median_active_component_count": 2,
+          "median_raw_norm": 1.7469085867544731,
+          "median_reduction_fraction": 0.4994062399559196,
+          "median_residual_norm": 0.8720489968967331,
+          "raw_norms": [
+            2.2922406618204083,
+            2.396666789743124,
+            2.354199614714117,
+            1.2059437573011718,
+            1.3143435720447623,
+            1.1147781533097152,
+            1.1866395773272669,
+            1.7469085867544731,
+            2.0815190458534705
+          ],
+          "reduction_fractions": [
+            0.4994062399559196,
+            0.6011218356397838,
+            0.6463737009076305,
+            0.502917704929881,
+            0.42063226741326576,
+            0.39714679141971276,
+            0.20489382917386334,
+            0.5008044476346152,
+            0.4653604492887843
+          ],
+          "residual_norms": [
+            1.1474813718266095,
+            0.9559780496758293,
+            0.8325068970760355,
+            0.5994532906047491,
+            0.7614882551755229,
+            0.6720475865779691,
+            0.9435044504794284,
+            0.8720489968967331,
+            1.1128624074719378
+          ]
+        },
+        "08": {
+          "all_finite": true,
+          "coefficient_minimum": 0,
+          "coefficients_nonnegative": true,
+          "count": 9,
+          "median_active_component_count": 2,
+          "median_raw_norm": 1.6848627196122563,
+          "median_reduction_fraction": 0.3896039428557684,
+          "median_residual_norm": 0.7636231175629801,
+          "raw_norms": [
+            1.6848627196122563,
+            2.1139777914225104,
+            1.6483116741596904,
+            1.4278330667037566,
+            1.5865270599784167,
+            2.1833259079148273,
+            2.0106829373764303,
+            1.9618060237258967,
+            0.8730773445945372
+          ],
+          "reduction_fractions": [
+            0.12888237147744352,
+            0.23697339265677064,
+            0.3896039428557684,
+            0.5722789762439082,
+            0.5287376894376938,
+            0.6502477642963189,
+            0.6326776798461331,
+            0.15710672523597002,
+            0.17374649771231288
+          ],
+          "residual_norms": [
+            1.4677136166946938,
+            1.613021302188051,
+            1.0061229468518824,
+            0.610714221043331,
+            0.747670408055051,
+            0.7636231175629801,
+            0.7385687216509027,
+            1.6535931037901215,
+            0.7213832137392703
+          ]
+        }
+      },
+      "physics_shift_preserved": true,
+      "physics_tangent_count": 2,
+      "predeclared_minimum_validation_median_reduction_fraction": 0.1,
+      "protected_physics": "PER_SINGULAR_RANK_LOG_FREQUENCY_SHIFT_TANGENTS",
+      "real_nondamage_nuisance_benefit": true,
+      "runtime": {
+        "argv": [
+          "scripts/run_z24_physics_protected_nuisance.py",
+          "--rank",
+          "3"
+        ],
+        "hostname": "data36",
+        "pid": 3917495,
+        "platform": "Linux-4.18.0-477.27.1.el8_8.x86_64-x86_64-with-glibc2.28",
+        "python": "3.11.7 (main, Dec 15 2023, 18:12:31) [GCC 11.2.0]",
+        "timestamp_utc": "2026-08-27T01:15:49.354928+00:00"
+      },
+      "scope": "Z24_NONDAMAGE_SOURCE_ONLY_PHYSICS_PROTECTED_NUISANCE_DIAGNOSTIC",
+      "status": "PASS",
+      "supports_pipeline_freeze": false,
+      "synthetic_modal_shift_retention": {
+        "minimum_retention_fraction": 0.9687057271866044,
+        "passes": true,
+        "predeclared_minimum": 0.95,
+        "relative_frequency_shifts": [
+          -0.02,
+          -0.01,
+          -0.005,
+          0.005,
+          0.01,
+          0.02
+        ],
+        "retention_fractions": [
+          0.9761725748535596,
+          0.9687057271866044,
+          0.9773885383473128,
+          0.9739174057553974,
+          0.9817413472211124,
+          0.9851077482874869
+        ]
+      },
+      "training_group": "SCENARIO_01_PAIRED_AVT_FVT",
+      "training_setup_count": 9,
+      "validation_groups": [
+        "SCENARIO_02_EQUIPMENT_INSTALLATION",
+        "SCENARIO_08_REFERENCE_RESET"
+      ],
+      "validation_labels_used_for_rank_or_threshold_selection": false,
+      "validation_setup_count": 18
+    }
+  }
+}

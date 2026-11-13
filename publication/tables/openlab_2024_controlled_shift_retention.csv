@@ -1,0 +1,15 @@
+Method,Magnitude set,Perturbation cases,Minimum retention (%),Median retention (%),Maximum retention (%)
+Uncorrected reference,Design magnitudes,60,99.99999999999997,100.0,100.00000000000003
+Uncorrected reference,Additional magnitudes,60,99.99999999999997,100.0,100.00000000000003
+Unprotected signed projection,Design magnitudes,60,89.47518592907684,95.9690182814285,99.73358327594504
+Unprotected signed projection,Additional magnitudes,60,91.88617954890739,96.36666488858351,99.70040933939298
+Protected signed projection,Design magnitudes,60,97.98012542183125,99.5833914364064,99.95179312412547
+Protected signed projection,Additional magnitudes,60,97.8737428177572,99.57141809361833,99.96673416369234
+Protected NNLS,Design magnitudes,60,99.09240552306991,99.85615648127855,99.99994694511236
+Protected NNLS,Additional magnitudes,60,99.12216642750133,99.8428112271864,99.99936493515638
+Conventional PCA,Design magnitudes,60,89.94487805546576,96.32428761841663,99.45659944270616
+Conventional PCA,Additional magnitudes,60,93.57272956138576,96.39986917275212,99.67351521883572
+Temperature regression,Design magnitudes,60,99.99999999999997,100.0,100.00000000000003
+Temperature regression,Additional magnitudes,60,99.99999999999997,100.0,100.00000000000003
+Piecewise temperature regression,Design magnitudes,60,99.99999999999996,100.0,100.00000000000003
+Piecewise temperature regression,Additional magnitudes,60,99.99999999999997,100.0,100.00000000000003

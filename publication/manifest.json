@@ -1,0 +1,308 @@
+{
+  "language": "British English",
+  "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS_ONLY",
+  "raw_signals_reprocessed": false,
+  "models_refitted": false,
+  "thresholds_changed": false,
+  "figure_width_mm": 122.0,
+  "raster_dpi": 300,
+  "font_size_pt": 9.0,
+  "font_family": "DejaVu Serif",
+  "requested_font_family": "Times New Roman",
+  "style_status": "AUTHOR_PRESENTATION_SETTINGS; verify final placement against the official conference template",
+  "table_title_position": "above",
+  "figure_caption_position": "below",
+  "items": [
+    {
+      "kind": "Table",
+      "number": 1,
+      "stem": "physical_group_partitions",
+      "caption": "Table 1. Physical-group partitions used in the new analysis.",
+      "notes": "Counts are physical groups and acquisitions, not independent windows. Dates, ISO weeks and structural scenarios define OpenLab, environmental Z24 and progressive-test groups, respectively.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "tables/physical_group_partitions.csv",
+        "tables/physical_group_partitions.md",
+        "tables/physical_group_partitions.html"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Table",
+      "number": 2,
+      "stem": "analysis_availability",
+      "caption": "Table 2. Availability of the analyses and compensation methods.",
+      "notes": "An unavailable comparator is not treated as a negative experimental result. A single PDT fitting scenario cannot support group-based cross-validation of a temperature regression.",
+      "suggested_use": "Supplementary/reviewer response",
+      "files": [
+        "tables/analysis_availability.csv",
+        "tables/analysis_availability.md",
+        "tables/analysis_availability.html"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Table",
+      "number": 3,
+      "stem": "openlab_2024_reference_coverage",
+      "caption": "Table 3. Reference-state evaluation for OpenLab-2024.",
+      "notes": "Each method uses its own frozen calibration threshold. Calibration-group counts and exact thresholds remain in the source CSV. Wilson bounds are descriptive 95% intervals; independence and exchangeability are not established. Abstain denotes an unsupported finite nominal threshold, not perfect coverage. The frozen calibration includes 27 acquisitions on 5 dates during the documented non-destructive temporary-prop intervention (22 July–2 August 2024; data article section 4.6). Undamaged reference phase does not mean unchanged boundary conditions. These records and thresholds are retained.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "tables/openlab_2024_reference_coverage.csv",
+        "tables/openlab_2024_reference_coverage.md",
+        "tables/openlab_2024_reference_coverage.html"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Figure",
+      "number": 1,
+      "stem": "openlab_2024_reference_coverage",
+      "caption": "Fig. 1. Reference-group coverage for OpenLab-2024; points show observed proportions and bars show Wilson 95% intervals.",
+      "notes": "Counts are shown to the right. The intervals are descriptive and do not establish prospective validity.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "figures/openlab_2024_reference_coverage.pdf",
+        "figures/openlab_2024_reference_coverage.png"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Figure",
+      "number": 2,
+      "stem": "openlab_2024_paired_evaluation_scores",
+      "caption": "Fig. 2. Paired uncorrected and protected-NNLS group scores for OpenLab-2024.",
+      "notes": "Only evaluation groups are shown. Dashed lines, when present, are method-specific frozen calibration thresholds. Score contraction is a model property and does not by itself establish better monitoring or retained damage sensitivity.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "figures/openlab_2024_paired_evaluation_scores.pdf",
+        "figures/openlab_2024_paired_evaluation_scores.png"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Figure",
+      "number": 3,
+      "stem": "openlab_2024_partition_timeline",
+      "caption": "Fig. 3. Chronological fitting, calibration and evaluation groups for OpenLab-2024.",
+      "notes": "Background shading identifies the frozen partitions. Group sizes and identifiers are exported separately. This is a protocol diagnostic, not a prospective deployment result. The frozen calibration includes 27 acquisitions on 5 dates during the documented non-destructive temporary-prop intervention (22 July–2 August 2024; data article section 4.6). Undamaged reference phase does not mean unchanged boundary conditions. These records and thresholds are retained.",
+      "suggested_use": "Supplementary/reviewer response",
+      "files": [
+        "figures/openlab_2024_partition_timeline.pdf",
+        "figures/openlab_2024_partition_timeline.png"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Table",
+      "number": 4,
+      "stem": "openlab_2024_paired_score_reductions",
+      "caption": "Table 4. Paired evaluation relative to the uncorrected reference for OpenLab-2024.",
+      "notes": "The score-reduction bounds are exploratory paired percentile-bootstrap bounds conditional on the frozen models and thresholds; they exclude fitting and calibration uncertainty. Only the common spectral feature space is included. Score contraction alone does not establish improved monitoring.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "tables/openlab_2024_paired_score_reductions.csv",
+        "tables/openlab_2024_paired_score_reductions.md",
+        "tables/openlab_2024_paired_score_reductions.html"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Table",
+      "number": 5,
+      "stem": "openlab_2024_paired_alert_decisions",
+      "caption": "Table 5. Paired reference-state alert decisions for OpenLab-2024.",
+      "notes": "Each method is compared with the uncorrected reference using its own frozen threshold. Binary decisions may be paired across feature spaces. McNemar inference requires independent paired groups, which are not established here; adjusted values use Holm correction within the cohort.",
+      "suggested_use": "Supplementary/reviewer response",
+      "files": [
+        "tables/openlab_2024_paired_alert_decisions.csv",
+        "tables/openlab_2024_paired_alert_decisions.md",
+        "tables/openlab_2024_paired_alert_decisions.html"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Table",
+      "number": 6,
+      "stem": "openlab_2024_controlled_shift_retention",
+      "caption": "Table 6. Controlled spectral-shift retention for OpenLab-2024.",
+      "notes": "A case is a group–shift combination, not an independent damage experiment. Design and additional magnitudes are separated; ratios are relative to the uncorrected spectral response. The peak-ratio comparator has a different feature space and is excluded from these norm ratios.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "tables/openlab_2024_controlled_shift_retention.csv",
+        "tables/openlab_2024_controlled_shift_retention.md",
+        "tables/openlab_2024_controlled_shift_retention.html"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Figure",
+      "number": 4,
+      "stem": "openlab_2024_controlled_shift_retention",
+      "caption": "Fig. 4. Controlled spectral-shift retention for OpenLab-2024; markers show medians and bars show full ranges.",
+      "notes": "Ranges span held-out group shapes and shift magnitudes; they are not confidence intervals. Synthetic translations do not establish sensitivity to real structural damage.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "figures/openlab_2024_controlled_shift_retention.pdf",
+        "figures/openlab_2024_controlled_shift_retention.png"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Table",
+      "number": 7,
+      "stem": "z24_pdt_reference_coverage",
+      "caption": "Table 7. Reference-state evaluation for Z24 progressive-damage tests.",
+      "notes": "Each method uses its own frozen calibration threshold. Calibration-group counts and exact thresholds remain in the source CSV. Wilson bounds are descriptive 95% intervals; independence and exchangeability are not established. Abstain denotes an unsupported finite nominal threshold, not perfect coverage.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "tables/z24_pdt_reference_coverage.csv",
+        "tables/z24_pdt_reference_coverage.md",
+        "tables/z24_pdt_reference_coverage.html"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Figure",
+      "number": 5,
+      "stem": "z24_pdt_paired_evaluation_scores",
+      "caption": "Fig. 5. Paired uncorrected and protected-NNLS group scores for Z24 progressive-damage tests.",
+      "notes": "Dashed lines are descriptive maximum-score thresholds from reference scenario 02, without a nominal 95% guarantee. The nominal rule abstains. Blue shading identifies the held-out reference 08; an alert on this state is a reference false alert. Scores are scenario maxima, not independent damage replications.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "figures/z24_pdt_paired_evaluation_scores.pdf",
+        "figures/z24_pdt_paired_evaluation_scores.png"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Table",
+      "number": 8,
+      "stem": "z24_pdt_paired_score_reductions",
+      "caption": "Table 8. Score contraction on the sole held-out Z24 reference scenario 08.",
+      "notes": "This comparison uses one paired reference group (scenario 08), not all 15 evaluation states. No bootstrap interval is estimated for this single group. Score contraction alone does not establish damage sensitivity or improved monitoring.",
+      "suggested_use": "Supplementary/reviewer response",
+      "files": [
+        "tables/z24_pdt_paired_score_reductions.csv",
+        "tables/z24_pdt_paired_score_reductions.md",
+        "tables/z24_pdt_paired_score_reductions.html"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Table",
+      "number": 9,
+      "stem": "z24_pdt_paired_alert_decisions",
+      "caption": "Table 9. Paired reference-state alert decisions for Z24 progressive-damage tests.",
+      "notes": "Each method is compared with the uncorrected reference using its own frozen threshold. Binary decisions may be paired across feature spaces. McNemar inference requires independent paired groups, which are not established here; adjusted values use Holm correction within the cohort.",
+      "suggested_use": "Supplementary/reviewer response",
+      "files": [
+        "tables/z24_pdt_paired_alert_decisions.csv",
+        "tables/z24_pdt_paired_alert_decisions.md",
+        "tables/z24_pdt_paired_alert_decisions.html"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Table",
+      "number": 10,
+      "stem": "z24_pdt_controlled_shift_retention",
+      "caption": "Table 10. Controlled spectral-shift retention for Z24 progressive-damage tests.",
+      "notes": "A case is a group–shift combination, not an independent damage experiment. Design and additional magnitudes are separated; ratios are relative to the uncorrected spectral response. The peak-ratio comparator has a different feature space and is excluded from these norm ratios.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "tables/z24_pdt_controlled_shift_retention.csv",
+        "tables/z24_pdt_controlled_shift_retention.md",
+        "tables/z24_pdt_controlled_shift_retention.html"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Figure",
+      "number": 6,
+      "stem": "z24_pdt_controlled_shift_retention",
+      "caption": "Fig. 6. Controlled spectral-shift retention for Z24 progressive-damage tests; markers show medians and bars show full ranges.",
+      "notes": "Ranges span held-out group shapes and shift magnitudes; they are not confidence intervals. Synthetic translations do not establish sensitivity to real structural damage.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "figures/z24_pdt_controlled_shift_retention.pdf",
+        "figures/z24_pdt_controlled_shift_retention.png"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Table",
+      "number": 11,
+      "stem": "z24_pdt_scenario_decisions",
+      "caption": "Table 11. Scenario-level decisions before and after protected normalisation.",
+      "notes": "Thresholds are the maximum of the reference calibration scenario. These are descriptive decisions without a nominal 95% guarantee. Lost alert means an uncorrected alert becomes a protected non-alert; new alert means the converse. An alert lost on an altered state may indicate lost sensitivity; an alert on a reference state may be false.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "tables/z24_pdt_scenario_decisions.csv",
+        "tables/z24_pdt_scenario_decisions.md",
+        "tables/z24_pdt_scenario_decisions.html"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Table",
+      "number": 12,
+      "stem": "z24_pdt_progressive_damage_phase",
+      "caption": "Table 12. Reference scenario 08 versus progressive-damage scenarios 09–17.",
+      "notes": "Decisions use the descriptive maximum score of calibration reference scenario 02, without a nominal 95% guarantee; the nominal 95% rule abstains. Models are frozen. Altered counts are detected/assessed damage-phase scenarios; reference counts are alerts/assessed reference scenarios. Mechanisms and severities differ and may be cumulative; scenarios are not independent replications. Rates and AUC are descriptive. A missing class leaves its count-based rate and AUC not estimable. The full source CSV retains all confusion counts, specificity and decision statuses.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "tables/z24_pdt_progressive_damage_phase.csv",
+        "tables/z24_pdt_progressive_damage_phase.md",
+        "tables/z24_pdt_progressive_damage_phase.html"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Table",
+      "number": 13,
+      "stem": "z24_pdt_reference_excitation_mismatch",
+      "caption": "Table 13. Setup-balanced ambient–forced excitation mismatch in the Z24 reference states.",
+      "notes": "Distances compare AVT and FVT centroids within the same setup. Aggregation gives each matched setup equal weight. This is a descriptive normalisation metric, not a damage-detection rate.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "tables/z24_pdt_reference_excitation_mismatch.csv",
+        "tables/z24_pdt_reference_excitation_mismatch.md",
+        "tables/z24_pdt_reference_excitation_mismatch.html"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Figure",
+      "number": 7,
+      "stem": "z24_pdt_reference_excitation_mismatch",
+      "caption": "Fig. 7. Ambient–forced excitation mismatch before and after protected normalisation in the Z24 reference states.",
+      "notes": "Each bar is an equal-weight mean over matched setups. Missing pairs are reported in the accompanying table. Bars are descriptive and have no independence-based uncertainty estimate.",
+      "suggested_use": "Main paper candidate",
+      "files": [
+        "figures/z24_pdt_reference_excitation_mismatch.pdf",
+        "figures/z24_pdt_reference_excitation_mismatch.png"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    },
+    {
+      "kind": "Table",
+      "number": 14,
+      "stem": "z24_pdt_sampling_balance",
+      "caption": "Table 14. Acquisition and setup balance across Z24 structural scenarios.",
+      "notes": "Unequal group sizes can affect group maxima. No balancing or deletion is performed using evaluation scores.",
+      "suggested_use": "Supplementary/reviewer response",
+      "files": [
+        "tables/z24_pdt_sampling_balance.csv",
+        "tables/z24_pdt_sampling_balance.md",
+        "tables/z24_pdt_sampling_balance.html"
+      ],
+      "evidence_origin": "NEW_RAW_SIGNAL_REANALYSIS"
+    }
+  ],
+  "figures": 7,
+  "tables": 14,
+  "errors": [],
+  "preview": "publication/index.html"
+}

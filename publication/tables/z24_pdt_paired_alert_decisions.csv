@@ -1,0 +1,5 @@
+Method,Uncorrected-only alerts,Corrected-only alerts,Exact McNemar p,Holm-adjusted p
+Unprotected signed projection,,,,
+Protected signed projection,,,,
+Protected NNLS,,,,
+Conventional PCA,,,,

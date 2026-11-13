@@ -1,0 +1,7 @@
+Method,Covered/reference groups,Coverage (%),Wilson 95% bounds (%),Alert groups
+Uncorrected reference,Abstain,,Not estimable,
+Unprotected signed projection,Abstain,,Not estimable,
+Protected signed projection,Abstain,,Not estimable,
+Protected NNLS,Abstain,,Not estimable,
+Conventional PCA,Abstain,,Not estimable,
+Spectral peak ratios,Abstain,,Not estimable,

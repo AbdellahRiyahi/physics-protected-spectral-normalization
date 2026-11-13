@@ -1,0 +1,8 @@
+Method,Uncorrected-only alerts,Corrected-only alerts,Exact McNemar p,Holm-adjusted p
+Unprotected signed projection,0,0,1.0,1.0
+Protected signed projection,0,0,1.0,1.0
+Protected NNLS,0,0,1.0,1.0
+Conventional PCA,0,0,1.0,1.0
+Spectral peak ratios,0,3,0.25,1.0
+Temperature regression,0,1,1.0,1.0
+Piecewise temperature regression,0,0,1.0,1.0

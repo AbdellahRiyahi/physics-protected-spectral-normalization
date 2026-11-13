@@ -1,0 +1,16 @@
+Scenario,Phase,Uncorrected,Protected NNLS,Lost alert,New alert
+03,Pier intervention,ALERT,ALERT,False,False
+04,Pier intervention,ALERT,ALERT,False,False
+05,Pier intervention,ALERT,ALERT,False,False
+06,Pier intervention,ALERT,ALERT,False,False
+07,Pier intervention,ALERT,ALERT,False,False
+08,Reference,ALERT,ALERT,False,False
+09,Damage phase,NO_ALERT,ALERT,False,True
+10,Damage phase,ALERT,ALERT,False,False
+11,Damage phase,ALERT,ALERT,False,False
+12,Damage phase,ALERT,ALERT,False,False
+13,Damage phase,ALERT,ALERT,False,False
+14,Damage phase,ALERT,ALERT,False,False
+15,Damage phase,ALERT,ALERT,False,False
+16,Damage phase,NO_ALERT,NO_ALERT,False,False
+17,Damage phase,NO_ALERT,ALERT,False,True

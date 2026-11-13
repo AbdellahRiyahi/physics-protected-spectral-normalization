@@ -1,0 +1,18 @@
+Cohort,Method,Availability,Reason
+OpenLab-2024,Uncorrected reference,Calculated,
+OpenLab-2024,Unprotected signed projection,Calculated,
+OpenLab-2024,Protected signed projection,Calculated,
+OpenLab-2024,Protected NNLS,Calculated,
+OpenLab-2024,Conventional PCA,Calculated,
+OpenLab-2024,Spectral peak ratios,Calculated,
+OpenLab-2024,Temperature regression,Calculated,
+OpenLab-2024,Piecewise temperature regression,Calculated,
+Z24 environmental monitoring,All new analyses,Not calculated,Confirmed inputs or metadata were not available in this run.
+Z24 progressive-damage tests,Uncorrected reference,Calculated,
+Z24 progressive-damage tests,Unprotected signed projection,Calculated,
+Z24 progressive-damage tests,Protected signed projection,Calculated,
+Z24 progressive-damage tests,Protected NNLS,Calculated,
+Z24 progressive-damage tests,Conventional PCA,Calculated,
+Z24 progressive-damage tests,Spectral peak ratios,Calculated,
+Z24 progressive-damage tests,Temperature regression,Not calculated,Not estimable under the frozen protocol: grouped temperature regression requires at least three fitting groups; PDT source01 provides only one
+Z24 progressive-damage tests,Piecewise temperature regression,Not calculated,Not estimable under the frozen protocol: grouped temperature regression requires at least three fitting groups; PDT source01 provides only one

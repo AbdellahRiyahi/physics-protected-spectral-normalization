@@ -1,0 +1,10 @@
+[
+  {
+    "method": "temperature_ridge",
+    "error": "ValueError('NOT_ESTIMABLE_BY_PROTOCOL: grouped temperature regression requires at least three fitting groups; PDT source01 provides only one')"
+  },
+  {
+    "method": "piecewise_temperature",
+    "error": "ValueError('NOT_ESTIMABLE_BY_PROTOCOL: grouped temperature regression requires at least three fitting groups; PDT source01 provides only one')"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "protected_orthonormality_max_abs_error": 5.551115123125783e-16,
+  "dictionary_protection_max_abs_inner_product": 4.163336342344337e-17,
+  "protected_coordinate_max_abs_change": 2.0891131280498007e-16,
+  "minimum_nnls_coefficient": 0.0,
+  "largest_residual_norm_increase": 0.0,
+  "synthetic_response_retention_is_not_real_damage_validation": true
+}

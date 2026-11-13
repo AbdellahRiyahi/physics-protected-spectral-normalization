@@ -1,0 +1,5 @@
+Method,Paired groups,Median score reduction (%),Exploratory 95% bounds (%)
+Unprotected signed projection,1,54.70480202628109,Not estimated
+Protected signed projection,1,56.32239318842605,Not estimated
+Protected NNLS,1,7.106606060040541,Not estimated
+Conventional PCA,1,53.78802869551704,Not estimated

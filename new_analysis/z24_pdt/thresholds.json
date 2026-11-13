@@ -1,0 +1,80 @@
+{
+  "raw": {
+    "m": 1,
+    "k": 2,
+    "alpha": 0.05,
+    "nominal_reference_coverage": 0.95,
+    "threshold": null,
+    "finite_supported": false,
+    "reason": "REQUESTED_ORDER_STATISTIC_EXCEEDS_CALIBRATION_COUNT",
+    "decision_rule": "alert iff score > threshold",
+    "guarantee_condition": "Exchangeable calibration and future group scores",
+    "rank_computation": "EXACT_DECIMAL_ALPHA_ORDER_STATISTIC",
+    "assumption_established": false
+  },
+  "signed_pca": {
+    "m": 1,
+    "k": 2,
+    "alpha": 0.05,
+    "nominal_reference_coverage": 0.95,
+    "threshold": null,
+    "finite_supported": false,
+    "reason": "REQUESTED_ORDER_STATISTIC_EXCEEDS_CALIBRATION_COUNT",
+    "decision_rule": "alert iff score > threshold",
+    "guarantee_condition": "Exchangeable calibration and future group scores",
+    "rank_computation": "EXACT_DECIMAL_ALPHA_ORDER_STATISTIC",
+    "assumption_established": false
+  },
+  "protected_signed": {
+    "m": 1,
+    "k": 2,
+    "alpha": 0.05,
+    "nominal_reference_coverage": 0.95,
+    "threshold": null,
+    "finite_supported": false,
+    "reason": "REQUESTED_ORDER_STATISTIC_EXCEEDS_CALIBRATION_COUNT",
+    "decision_rule": "alert iff score > threshold",
+    "guarantee_condition": "Exchangeable calibration and future group scores",
+    "rank_computation": "EXACT_DECIMAL_ALPHA_ORDER_STATISTIC",
+    "assumption_established": false
+  },
+  "protected_nnls": {
+    "m": 1,
+    "k": 2,
+    "alpha": 0.05,
+    "nominal_reference_coverage": 0.95,
+    "threshold": null,
+    "finite_supported": false,
+    "reason": "REQUESTED_ORDER_STATISTIC_EXCEEDS_CALIBRATION_COUNT",
+    "decision_rule": "alert iff score > threshold",
+    "guarantee_condition": "Exchangeable calibration and future group scores",
+    "rank_computation": "EXACT_DECIMAL_ALPHA_ORDER_STATISTIC",
+    "assumption_established": false
+  },
+  "baseline_pca": {
+    "m": 1,
+    "k": 2,
+    "alpha": 0.05,
+    "nominal_reference_coverage": 0.95,
+    "threshold": null,
+    "finite_supported": false,
+    "reason": "REQUESTED_ORDER_STATISTIC_EXCEEDS_CALIBRATION_COUNT",
+    "decision_rule": "alert iff score > threshold",
+    "guarantee_condition": "Exchangeable calibration and future group scores",
+    "rank_computation": "EXACT_DECIMAL_ALPHA_ORDER_STATISTIC",
+    "assumption_established": false
+  },
+  "frequency_ratio": {
+    "m": 1,
+    "k": 2,
+    "alpha": 0.05,
+    "nominal_reference_coverage": 0.95,
+    "threshold": null,
+    "finite_supported": false,
+    "reason": "REQUESTED_ORDER_STATISTIC_EXCEEDS_CALIBRATION_COUNT",
+    "decision_rule": "alert iff score > threshold",
+    "guarantee_condition": "Exchangeable calibration and future group scores",
+    "rank_computation": "EXACT_DECIMAL_ALPHA_ORDER_STATISTIC",
+    "assumption_established": false
+  }
+}

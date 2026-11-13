@@ -1,0 +1,9 @@
+{
+  "raw_io.py": "df58d16b1cfcab3e6d5d8209e70c7baa1db092dd45a81e294a2f1cdfbbf61ec7",
+  "environment.py": "80f19c86ea35681217e93dcf6adb9e8e0ea58eb1294d018085a9c3d7ba6b210d",
+  "models.py": "c65b95b4ec05d0c6d89ab6e83d3a2939da773807c4a7df6faeffdcb939f3ba7a",
+  "statistics.py": "428c7c8124a5d4f3061f84055539f2b2a1702504f30672886243b0cd2eaa313d",
+  "support.py": "29715c30d50c5ebc85340b2b539e965a8a2f42ecda1c3855a9f62a7a3a8a4a4c",
+  "pipeline.py": "a23a3fa747cca80cb3e66907449d659e2c3faaeb1a385de2ede44c96b5e96c2f",
+  "publication.py": "ba0b48fa2280b10ee03419297da0ff202815468c28922eb4a7fea6c4c1e82ab8"
+}

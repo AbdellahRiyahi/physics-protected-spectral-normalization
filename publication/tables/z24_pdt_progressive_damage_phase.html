@@ -1,0 +1,55 @@
+<section id="z24_pdt_progressive_damage_phase"><p class="caption">Table 12. Reference scenario 08 versus progressive-damage scenarios 09–17.</p><table class="dataframe publication-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Method</th>
+      <th>Altered, detected/total</th>
+      <th>Reference, alerts/total</th>
+      <th>Observed sensitivity (%)</th>
+      <th>Descriptive AUC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Uncorrected reference</td>
+      <td>6/9</td>
+      <td>1/1</td>
+      <td>66.7</td>
+      <td>0.222</td>
+    </tr>
+    <tr>
+      <td>Unprotected signed projection</td>
+      <td>9/9</td>
+      <td>1/1</td>
+      <td>100</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Protected signed projection</td>
+      <td>9/9</td>
+      <td>0/1</td>
+      <td>100</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Protected NNLS</td>
+      <td>8/9</td>
+      <td>1/1</td>
+      <td>88.9</td>
+      <td>0.444</td>
+    </tr>
+    <tr>
+      <td>Conventional PCA</td>
+      <td>9/9</td>
+      <td>1/1</td>
+      <td>100</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Spectral peak ratios</td>
+      <td>9/9</td>
+      <td>1/1</td>
+      <td>100</td>
+      <td>0.778</td>
+    </tr>
+  </tbody>
+</table><p class="note">Decisions use the descriptive maximum score of calibration reference scenario 02, without a nominal 95% guarantee; the nominal 95% rule abstains. Models are frozen. Altered counts are detected/assessed damage-phase scenarios; reference counts are alerts/assessed reference scenarios. Mechanisms and severities differ and may be cumulative; scenarios are not independent replications. Rates and AUC are descriptive. A missing class leaves its count-based rate and AUC not estimable. The full source CSV retains all confusion counts, specificity and decision statuses.</p></section>

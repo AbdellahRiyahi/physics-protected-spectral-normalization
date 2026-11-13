@@ -1,0 +1,2500 @@
+[
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_02.csv",
+    "suffix": ".csv",
+    "size_bytes": 311426,
+    "first_nonempty_lines": [
+      "Timestamp,G_HTST_ENVR_EN0000_0,G_HTSH_ENVR_EN0000_0,G_PYRS_ENVR_EN0000_0",
+      "2024-02-01 00:00:00,0.7952480316162109,88.18101501464844,-0.0045064613223075",
+      "2024-02-01 00:10:00,0.779205322265625,88.63479614257812,-0.0081116333603858",
+      "2024-02-01 00:20:00,0.7924728393554688,88.0988540649414,-0.0023433566093444",
+      "2024-02-01 00:30:00,0.5845775604248047,89.19099426269531,0.0075708553194999",
+      "2024-02-01 00:40:00,0.420480728149414,89.631103515625,-0.0045064613223075"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_HTST_ENVR_EN0000_0",
+      "G_HTSH_ENVR_EN0000_0",
+      "G_PYRS_ENVR_EN0000_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_damage/2025_05_05_Übersicht_Messungen.txt",
+    "suffix": ".txt",
+    "size_bytes": 20666,
+    "first_nonempty_lines": [
+      "Bundesanstalt für Materialforschung und -prüfung (BAM), Berlin",
+      "Fachbereich 7.2 Ingenieurbau",
+      "eMail: mess72@bam.de",
+      "-----------------------------------------------------------------------------",
+      "Belastungsversuche openLab Bautzen 05.05.2025 - 07.05.2025",
+      "Messdaten dynamische Strukturanregung"
+    ],
+    "delimiter_error": "Cannot infer a reliable delimiter for 2025_05_05_Übersicht_Messungen.txt; state it in the manifest",
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/01/100V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 923583,
+    "first_nonempty_lines": [
+      "100V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "8.106425e-06",
+      "2.123111e-05",
+      "8.106425e-06",
+      "-5.597293e-05",
+      "-2.760045e-05",
+      "4.535738e-05",
+      "5.886808e-05",
+      "4.284824e-05",
+      "6.176324e-06"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/01/avt/01setup01.mat",
+    "suffix": ".mat",
+    "size_bytes": 8332714,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65530,
+          33
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          33
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65530,
+        33
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "99V",
+        "100V",
+        "101V",
+        "102V",
+        "103V",
+        "199L",
+        "199T",
+        "199V",
+        "200T",
+        "200V",
+        "201T",
+        "201V",
+        "202T",
+        "202V",
+        "203L",
+        "203T",
+        "203V",
+        "299V",
+        "300V",
+        "301V",
+        "302V",
+        "303V",
+        "511L",
+        "511T",
+        "511V",
+        "512L",
+        "512T",
+        "512V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/08/avt.zip",
+    "suffix": ".zip",
+    "size_bytes": 85672513,
+    "archive_members": [
+      {
+        "path": "avt/08setup01.mat",
+        "size_bytes": 9116872,
+        "compressed_bytes": 9102600,
+        "directory": false
+      },
+      {
+        "path": "avt/08setup02.mat",
+        "size_bytes": 9963697,
+        "compressed_bytes": 9955158,
+        "directory": false
+      },
+      {
+        "path": "avt/08setup03.mat",
+        "size_bytes": 10117080,
+        "compressed_bytes": 10113675,
+        "directory": false
+      },
+      {
+        "path": "avt/08setup04.mat",
+        "size_bytes": 11105612,
+        "compressed_bytes": 11100910,
+        "directory": false
+      },
+      {
+        "path": "avt/08setup05.mat",
+        "size_bytes": 9670313,
+        "compressed_bytes": 9671205,
+        "directory": false
+      },
+      {
+        "path": "avt/08setup06.mat",
+        "size_bytes": 9850579,
+        "compressed_bytes": 9845832,
+        "directory": false
+      },
+      {
+        "path": "avt/08setup07.mat",
+        "size_bytes": 8463307,
+        "compressed_bytes": 8450882,
+        "directory": false
+      },
+      {
+        "path": "avt/08setup08.mat",
+        "size_bytes": 8346516,
+        "compressed_bytes": 8330381,
+        "directory": false
+      },
+      {
+        "path": "avt/08setup09.mat",
+        "size_bytes": 8754937,
+        "compressed_bytes": 8738107,
+        "directory": false
+      },
+      {
+        "path": "avt/168'349_708A.DOC",
+        "size_bytes": 2601984,
+        "compressed_bytes": 362635,
+        "directory": false
+      }
+    ],
+    "archive_extracted": false,
+    "scientific_role_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_03.csv",
+    "suffix": ".csv",
+    "size_bytes": 338213,
+    "first_nonempty_lines": [
+      "Timestamp,G_HTST_ENVR_EN0000_0,G_HTSH_ENVR_EN0000_0,G_PYRS_ENVR_EN0000_0",
+      "2024-03-01 00:00:00,4.868474960327148,93.99128723144533,0.06784296905001",
+      "2024-03-01 00:10:00,4.486459732055664,96.55705261230467,-0.0059152322743708",
+      "2024-03-01 00:20:00,4.509244918823242,96.99320220947266,-0.2845573665884634",
+      "2024-03-01 00:30:00,4.69569206237793,96.53275299072266,0.13067401596345",
+      "2024-03-01 00:40:00,4.776224136352539,96.13965606689452,0.141601170374391"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_HTST_ENVR_EN0000_0",
+      "G_HTSH_ENVR_EN0000_0",
+      "G_PYRS_ENVR_EN0000_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/01/101V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 962097,
+    "first_nonempty_lines": [
+      "101V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "-3.474182e-06",
+      "3.589988e-05",
+      "2.547733e-05",
+      "-3.860202e-05",
+      "-3.976008e-05",
+      "5.211273e-06",
+      "3.146065e-05",
+      "2.431927e-05",
+      "-2.431927e-05"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/01/avt/01setup02.mat",
+    "suffix": ".mat",
+    "size_bytes": 6815606,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65530,
+          33
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          33
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65530,
+        33
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "104V",
+        "105V",
+        "106V",
+        "107V",
+        "108V",
+        "204L",
+        "204T",
+        "204V",
+        "205T",
+        "205V",
+        "206T",
+        "206V",
+        "207T",
+        "207V",
+        "208L",
+        "208T",
+        "208V",
+        "304V",
+        "305V",
+        "306V",
+        "307V",
+        "308V",
+        "521L",
+        "521T",
+        "521V",
+        "522L",
+        "522T",
+        "522V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/08/fvt.zip",
+    "suffix": ".zip",
+    "size_bytes": 138027003,
+    "archive_members": [
+      {
+        "path": "fvt/",
+        "size_bytes": 0,
+        "compressed_bytes": 0,
+        "directory": true
+      },
+      {
+        "path": "fvt/08setup01.mat",
+        "size_bytes": 15527717,
+        "compressed_bytes": 15527717,
+        "directory": false
+      },
+      {
+        "path": "fvt/08setup02.mat",
+        "size_bytes": 15600820,
+        "compressed_bytes": 15600820,
+        "directory": false
+      },
+      {
+        "path": "fvt/08setup03.mat",
+        "size_bytes": 15832793,
+        "compressed_bytes": 15832793,
+        "directory": false
+      },
+      {
+        "path": "fvt/08setup04.mat",
+        "size_bytes": 15739829,
+        "compressed_bytes": 15739829,
+        "directory": false
+      },
+      {
+        "path": "fvt/08setup05.mat",
+        "size_bytes": 12947336,
+        "compressed_bytes": 12947336,
+        "directory": false
+      },
+      {
+        "path": "fvt/08setup06.mat",
+        "size_bytes": 15618454,
+        "compressed_bytes": 15618454,
+        "directory": false
+      },
+      {
+        "path": "fvt/08setup07.mat",
+        "size_bytes": 15859191,
+        "compressed_bytes": 15859191,
+        "directory": false
+      },
+      {
+        "path": "fvt/08setup08.mat",
+        "size_bytes": 15588265,
+        "compressed_bytes": 15588265,
+        "directory": false
+      },
+      {
+        "path": "fvt/08setup09.mat",
+        "size_bytes": 14864075,
+        "compressed_bytes": 14864075,
+        "directory": false
+      },
+      {
+        "path": "fvt/168'349_708F.DOC",
+        "size_bytes": 2745344,
+        "compressed_bytes": 446915,
+        "directory": false
+      }
+    ],
+    "archive_extracted": false,
+    "scientific_role_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_04.csv",
+    "suffix": ".csv",
+    "size_bytes": 327150,
+    "first_nonempty_lines": [
+      "Timestamp,G_HTST_ENVR_EN0000_0,G_HTSH_ENVR_EN0000_0,G_PYRS_ENVR_EN0000_0",
+      "2024-04-01 00:00:00,13.612005233764648,61.91948699951172,0.1525283247853319",
+      "2024-04-01 00:10:00,13.504148483276367,62.331298828125,0.00501192213657",
+      "2024-04-01 00:20:00,13.266584396362305,63.28993606567383,0.0350615058171873",
+      "2024-04-01 00:30:00,13.384679794311523,62.75926208496094,0.2590679893425355",
+      "2024-04-01 00:40:00,13.491350173950195,62.35358047485352,0.00501192213657"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_HTST_ENVR_EN0000_0",
+      "G_HTSH_ENVR_EN0000_0",
+      "G_PYRS_ENVR_EN0000_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/01/102V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 917542,
+    "first_nonempty_lines": [
+      "102V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "3.390503e-04",
+      "4.162598e-04",
+      "4.129028e-04",
+      "3.393555e-04",
+      "2.890015e-04",
+      "3.054810e-04",
+      "3.475952e-04",
+      "3.570557e-04",
+      "3.121948e-04"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/01/avt/01setup03.mat",
+    "suffix": ".mat",
+    "size_bytes": 7293358,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65530,
+          33
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          33
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65530,
+        33
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "109V",
+        "110V",
+        "111V",
+        "112V",
+        "113V",
+        "209L",
+        "209T",
+        "209V",
+        "210T",
+        "210V",
+        "211T",
+        "211V",
+        "212T",
+        "212V",
+        "213L",
+        "213T",
+        "213V",
+        "309V",
+        "310V",
+        "311V",
+        "312V",
+        "313V",
+        "531L",
+        "531T",
+        "531V",
+        "532L",
+        "532T",
+        "532V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_damage/BAM-IDA-KI-BelVers_Mai2025__02_Anregung_Ambient_Wagen_Fahrt_Laststufe_Ungeschädigt_2025-05-05 14-47-59 (5).csv",
+    "suffix": ".csv",
+    "size_bytes": 27341160,
+    "first_nonempty_lines": [
+      "Time;21_1k21_WZ_V47 [m/s];33_1k33_WZ_V86 [m/s];49_2k17_Accel_UR_SH1 [m/s²];50_2k18__Accel_BAM_SH2 [m/s²];52_2k19_Laser_Distanz [m]",
+      "2025-05-05 14:47:59.794000+0200;2.8912531186513412e-05;3.5012803907788275e-05;-0.0029765188;0.017288134;40.52007",
+      "2025-05-05 14:47:59.795000+0200;2.8550976173636614e-05;3.450829472727273e-05;-0.002261263;0.015619203;40.52102",
+      "2025-05-05 14:47:59.796000+0200;2.8118196557975656e-05;3.461142066230499e-05;-0.002261263;0.013235017;40.522797",
+      "2025-05-05 14:47:59.797000+0200;2.778447508773966e-05;3.402863342087057e-05;-0.00035391428;0.015619203;40.521637",
+      "2025-05-05 14:47:59.798000+0200;2.8083676941762752e-05;3.3714144378656406e-05;-0.00011549564;0.020029947;40.52273"
+    ],
+    "candidate_delimiter": ";",
+    "first_row_cells": [
+      "Time",
+      "21_1k21_WZ_V47 [m/s]",
+      "33_1k33_WZ_V86 [m/s]",
+      "49_2k17_Accel_UR_SH1 [m/s²]",
+      "50_2k18__Accel_BAM_SH2 [m/s²]",
+      "52_2k19_Laser_Distanz [m]"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/02/104V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 970927,
+    "first_nonempty_lines": [
+      "104V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "-2.846899e-05",
+      "-6.456188e-05",
+      "3.831251e-05",
+      "4.033911e-05",
+      "-1.669537e-05",
+      "-1.930101e-05",
+      "-1.495828e-05",
+      "2.856550e-05",
+      "3.589988e-05"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/01/fvt/01setup01.mat",
+    "suffix": ".mat",
+    "size_bytes": 14787750,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65530,
+          34
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          34
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65530,
+        34
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "139V",
+        "140V",
+        "141V",
+        "142V",
+        "143V",
+        "239L",
+        "239T",
+        "239V",
+        "240T",
+        "240V",
+        "241T",
+        "241V",
+        "242T",
+        "242V",
+        "243L",
+        "243T",
+        "243V",
+        "339V",
+        "340V",
+        "341V",
+        "342V",
+        "343V",
+        "441L",
+        "441T",
+        "441V",
+        "442L",
+        "442T",
+        "442V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V",
+        "DP2V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_damage/BAM-IDA-KI-BelVers_Mai2025__03_Anregung_Ambient_Wagen_Achse_A40_Laststufe_Ungeschädigt_2025-05-05 16-06-53 (1).csv",
+    "suffix": ".csv",
+    "size_bytes": 23569862,
+    "first_nonempty_lines": [
+      "Time;21_1k21_WZ_V47 [m/s];33_1k33_WZ_V86 [m/s];49_2k17_Accel_UR_SH1 [m/s²];50_2k18_Accel_BAM_SH2 [m/s²];52_2k19_Laser_Distanz [m]",
+      "2025-05-05 16:06:55.000000+0200;-1.5903427572508117e-05;7.666729295128756e-06;0.0041760392;0.10764878;40.52115",
+      "2025-05-05 16:06:55.001000+0200;-1.6527171849863163e-05;7.65337497733424e-06;0.0022686904;0.107291155;40.523094",
+      "2025-05-05 16:06:55.002000+0200;-1.739170646487744e-05;7.529369888960974e-06;0.002507109;0.1078872;40.52204",
+      "2025-05-05 16:06:55.003000+0200;-1.8091527605038916e-05;7.2920545807351365e-06;0.0027455275;0.10943692;40.52641",
+      "2025-05-05 16:06:55.004000+0200;-1.866631515184842e-05;6.625297244238736e-06;0.0033415738;0.10967534;40.524734"
+    ],
+    "candidate_delimiter": ";",
+    "first_row_cells": [
+      "Time",
+      "21_1k21_WZ_V47 [m/s]",
+      "33_1k33_WZ_V86 [m/s]",
+      "49_2k17_Accel_UR_SH1 [m/s²]",
+      "50_2k18_Accel_BAM_SH2 [m/s²]",
+      "52_2k19_Laser_Distanz [m]"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/02/105V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 932199,
+    "first_nonempty_lines": [
+      "105V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "-2.795410e-05",
+      "-5.798340e-05",
+      "2.966309e-05",
+      "4.882813e-05",
+      "-4.699707e-06",
+      "-2.667236e-05",
+      "-1.080322e-05",
+      "3.991699e-05",
+      "3.796387e-05"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/01/fvt/01setup02.mat",
+    "suffix": ".mat",
+    "size_bytes": 15303159,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65530,
+          35
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          35
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65530,
+        35
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "134V",
+        "135V",
+        "136V",
+        "137V",
+        "138V",
+        "234L",
+        "234T",
+        "234V",
+        "235T",
+        "235V",
+        "236T",
+        "236V",
+        "237T",
+        "237V",
+        "238L",
+        "238T",
+        "238V",
+        "334V",
+        "335V",
+        "336V",
+        "337V",
+        "338V",
+        "431L",
+        "431T",
+        "431V",
+        "432L",
+        "432T",
+        "432V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V",
+        "DP1V",
+        "DP2V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_damage/BAM-IDA-KI-BelVers_Mai2025__04_Anregung_Shaker_Random_Feld_2_Wagen_Achse_A40_Laststufe_Ungeschädigt_2025-05-05 16-13-00 (1).csv",
+    "suffix": ".csv",
+    "size_bytes": 50969536,
+    "first_nonempty_lines": [
+      "Time;21_1k21_WZ_V47 [m/s];33_1k33_WZ_V86 [m/s];49_2k17_Accel_UR_SH1 [m/s²];50_2k18_Accel_BAM_SH2 [m/s²];52_2k19_Laser_Distanz [m]",
+      "2025-05-05 16:13:00.000000+0200;-0.0006547911053752012;0.001774575947640401;0.0026263183;-1.8064948;40.522648",
+      "2025-05-05 16:13:00.001000+0200;-0.0006216652369214457;0.001697504599217943;0.001315016;-1.7405721;40.52181",
+      "2025-05-05 16:13:00.002000+0200;-0.0006369094640153711;0.0016658989084560153;-0.0016652166;-1.8013688;40.519485",
+      "2025-05-05 16:13:00.003000+0200;-0.0006205052871835712;0.001608034793578448;0.0020302718;-2.0128462;40.52153",
+      "2025-05-05 16:13:00.004000+0200;-0.0006251154995057959;0.0015739172690318749;0.0023878997;-2.3405526;40.52024"
+    ],
+    "candidate_delimiter": ";",
+    "first_row_cells": [
+      "Time",
+      "21_1k21_WZ_V47 [m/s]",
+      "33_1k33_WZ_V86 [m/s]",
+      "49_2k17_Accel_UR_SH1 [m/s²]",
+      "50_2k18_Accel_BAM_SH2 [m/s²]",
+      "52_2k19_Laser_Distanz [m]"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/02/106V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 945723,
+    "first_nonempty_lines": [
+      "106V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "-2.123111e-05",
+      "-4.333077e-05",
+      "3.860202e-06",
+      "4.497136e-05",
+      "9.264485e-06",
+      "-3.570687e-05",
+      "-8.299435e-06",
+      "3.512784e-05",
+      "3.039909e-05"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/01/fvt/01setup03.mat",
+    "suffix": ".mat",
+    "size_bytes": 15601593,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65530,
+          35
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          35
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65530,
+        35
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "129V",
+        "130V",
+        "131V",
+        "132V",
+        "133V",
+        "229L",
+        "229T",
+        "229V",
+        "230T",
+        "230V",
+        "231T",
+        "231V",
+        "232T",
+        "232V",
+        "233L",
+        "233T",
+        "233V",
+        "329V",
+        "330V",
+        "331V",
+        "332V",
+        "333V",
+        "421L",
+        "421T",
+        "421V",
+        "422L",
+        "422T",
+        "422V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V",
+        "DP1V",
+        "DP2V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/01_acceleration_trigger/acc_2024_05_02_T06_16_01.csv",
+    "suffix": ".csv",
+    "size_bytes": 4893784,
+    "first_nonempty_lines": [
+      "Timestamp,G_ACCZ_PE11_CB0750_0,G_ACCZ_PE12_CB0750_0,G_ACCZ_PE13_CB0750_0,G_ACCZ_PE21_CB0750_0,G_ACCZ_PE22_CB0750_0,G_ACCZ_PE23_CB0750_0",
+      "2024-05-02 06:16:01.162,1.8071497433789915e-06,1.4243904029738952e-06,2.138417457100577e-06,,-5.607911607746453e-07,-2.5582173767511737e-07",
+      "2024-05-02 06:16:01.164,2.7962336468152293e-06,2.8914750480852165e-06,1.7384194249547663e-06,,8.380090108753627e-07,-6.182656092626208e-07",
+      "2024-05-02 06:16:01.166,2.83587515686506e-06,3.5502049356893075e-06,1.8475174559457972e-06,,1.3045837006002632e-06,-2.451173126004672e-07",
+      "2024-05-02 06:16:01.168,2.239917530786855e-06,3.1058730568097125e-06,2.6551663702352166e-06,,1.1258632254340904e-06,7.56295025005068e-07",
+      "2024-05-02 06:16:01.170,1.843311289370561e-06,1.7860879780992214e-06,3.647255532798537e-06,,1.1355583554999002e-06,1.5146189623532528e-06"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_ACCZ_PE11_CB0750_0",
+      "G_ACCZ_PE12_CB0750_0",
+      "G_ACCZ_PE13_CB0750_0",
+      "G_ACCZ_PE21_CB0750_0",
+      "G_ACCZ_PE22_CB0750_0",
+      "G_ACCZ_PE23_CB0750_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/03/109V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 967661,
+    "first_nonempty_lines": [
+      "109V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "-7.080078e-06",
+      "3.863525e-05",
+      "2.185059e-05",
+      "-2.886963e-05",
+      "1.245117e-05",
+      "2.160645e-05",
+      "-1.391602e-05",
+      "1.824951e-05",
+      "3.845215e-06"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/02/avt/02setup01.mat",
+    "suffix": ".mat",
+    "size_bytes": 6489275,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65530,
+          33
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          33
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65530,
+        33
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "99V",
+        "100V",
+        "101V",
+        "102V",
+        "103V",
+        "199L",
+        "199T",
+        "199V",
+        "200T",
+        "200V",
+        "201T",
+        "201V",
+        "202T",
+        "202V",
+        "203L",
+        "203T",
+        "203V",
+        "299V",
+        "300V",
+        "301V",
+        "302V",
+        "303V",
+        "511L",
+        "511T",
+        "511V",
+        "512L",
+        "512T",
+        "512V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/01_acceleration_trigger/acc_2024_05_02_T06_17_17.csv",
+    "suffix": ".csv",
+    "size_bytes": 4899568,
+    "first_nonempty_lines": [
+      "Timestamp,G_ACCZ_PE11_CB0750_0,G_ACCZ_PE12_CB0750_0,G_ACCZ_PE13_CB0750_0,G_ACCZ_PE21_CB0750_0,G_ACCZ_PE22_CB0750_0,G_ACCZ_PE23_CB0750_0",
+      "2024-05-02 06:17:17.942,-2.420930764297704e-07,-1.3031353177221955e-06,5.911996057430167e-07,,-4.248485156591782e-07,-1.3842436335116238e-06",
+      "2024-05-02 06:17:17.944,-2.936052291896739e-07,-5.410894078307216e-07,2.10165828532342e-06,,1.5306600053748865e-07,1.6737965291391525e-06",
+      "2024-05-02 06:17:17.946,-1.016323388095584e-06,-9.957365717958398e-07,2.549119351897773e-06,,4.838634835853694e-07,3.7282181459345215e-06",
+      "2024-05-02 06:17:17.948,-2.018602504177416e-06,-2.276438966295886e-06,2.1119474212554376e-06,,1.2085098752645618e-07,4.156941762083384e-06",
+      "2024-05-02 06:17:17.950,-2.2580481829038632e-06,-2.872209717969692e-06,1.8202003718220865e-06,,-9.995862362829848e-07,3.04243163542216e-06"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_ACCZ_PE11_CB0750_0",
+      "G_ACCZ_PE12_CB0750_0",
+      "G_ACCZ_PE13_CB0750_0",
+      "G_ACCZ_PE21_CB0750_0",
+      "G_ACCZ_PE22_CB0750_0",
+      "G_ACCZ_PE23_CB0750_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/03/110V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 931285,
+    "first_nonempty_lines": [
+      "110V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "-5.211273e-06",
+      "4.651544e-05",
+      "1.939752e-05",
+      "-2.181014e-05",
+      "1.804645e-05",
+      "2.615287e-05",
+      "-2.509131e-06",
+      "1.582683e-05",
+      "1.119459e-05"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/02/avt/02setup02.mat",
+    "suffix": ".mat",
+    "size_bytes": 8461073,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65530,
+          33
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          33
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65530,
+        33
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "104V",
+        "105V",
+        "106V",
+        "107V",
+        "108V",
+        "204L",
+        "204T",
+        "204V",
+        "205T",
+        "205V",
+        "206T",
+        "206V",
+        "207T",
+        "207V",
+        "208L",
+        "208T",
+        "208V",
+        "304V",
+        "305V",
+        "306V",
+        "307V",
+        "308V",
+        "521L",
+        "521T",
+        "521V",
+        "522L",
+        "522T",
+        "522V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/01_acceleration_trigger/acc_2024_05_02_T07_41_28.csv",
+    "suffix": ".csv",
+    "size_bytes": 4897793,
+    "first_nonempty_lines": [
+      "Timestamp,G_ACCZ_PE11_CB0750_0,G_ACCZ_PE12_CB0750_0,G_ACCZ_PE13_CB0750_0,G_ACCZ_PE21_CB0750_0,G_ACCZ_PE22_CB0750_0,G_ACCZ_PE23_CB0750_0",
+      "2024-05-02 07:41:28.942,-2.648223491828321e-06,3.268330573132284e-07,2.777216338619951e-06,,5.207044343586619e-06,1.356085886956811e-06",
+      "2024-05-02 07:41:28.944,-7.520049154363725e-06,2.3812532495791258e-07,4.832016275688131e-06,,-2.597066041775727e-07,-4.076545674426353e-06",
+      "2024-05-02 07:41:28.946,-1.1810446732693442e-05,-4.227689415703922e-07,5.593791684252565e-06,,-2.635938193638788e-06,-6.724414236042639e-06",
+      "2024-05-02 07:41:28.948,-1.473357379599209e-05,-9.407466205929328e-07,5.624813323048038e-06,,-7.050637631818256e-07,-6.240296689787167e-06",
+      "2024-05-02 07:41:28.950,-1.5768972509777e-05,-2.2055408344979717e-07,6.433540583247022e-06,,4.101512565065452e-06,-4.391865365331872e-06"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_ACCZ_PE11_CB0750_0",
+      "G_ACCZ_PE12_CB0750_0",
+      "G_ACCZ_PE13_CB0750_0",
+      "G_ACCZ_PE21_CB0750_0",
+      "G_ACCZ_PE22_CB0750_0",
+      "G_ACCZ_PE23_CB0750_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/03/111V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 940307,
+    "first_nonempty_lines": [
+      "111V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "-2.075195e-06",
+      "3.967285e-05",
+      "4.638672e-06",
+      "-1.550293e-05",
+      "1.409912e-05",
+      "2.087402e-05",
+      "6.958008e-06",
+      "2.319336e-06",
+      "1.165771e-05"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/02/avt/02setup03.mat",
+    "suffix": ".mat",
+    "size_bytes": 7870215,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65530,
+          33
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          33
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65530,
+        33
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "109V",
+        "110V",
+        "111V",
+        "112V",
+        "113V",
+        "209L",
+        "209T",
+        "209V",
+        "210T",
+        "210V",
+        "211T",
+        "211V",
+        "212T",
+        "212V",
+        "213L",
+        "213T",
+        "213V",
+        "309V",
+        "310V",
+        "311V",
+        "312V",
+        "313V",
+        "531L",
+        "531T",
+        "531V",
+        "532L",
+        "532T",
+        "532V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/03_tiltmeter/tiltmeter_2024_02.csv",
+    "suffix": ".csv",
+    "size_bytes": 1945466,
+    "first_nonempty_lines": [
+      "Timestamp,G_TILY_PE11_CB1100_0,G_TILX_PE11_CB1100_0,G_TILT_PE11_CB1100_0,G_TILH_PE11_CB1100_0,G_TILY_PE12_CB1100_0,G_TILX_PE12_CB1100_0,G_TILT_PE12_CB1100_0,G_TILH_PE12_CB1100_0,G_TILY_PE13_CB1100_0,G_TILX_PE13_CB1100_0,G_TILT_PE13_CB1100_0,G_TILH_PE13_CB1100_0,G_TILY_PE21_CB0400_0,G_TILX_PE21_CB0400_0,G_TILT_PE21_CB0400_0,G_TILH_PE21_CB0400_0,G_TILY_PE22_CB0400_0,G_TILX_PE22_CB0400_0,G_TILT_PE22_CB0400_0,G_TILH_PE22_CB0400_0,G_TILY_PE23_CB0400_0,G_TILX_PE23_CB0400_0,G_TILT_PE23_CB0400_0,G_TILH_PE23_CB0400_0",
+      "2024-02-01 00:00:00,-5.278728008270264,-0.615502655506134,2.667775869369507,37.354034423828125,-12.37175750732422,0.6104468107223511,2.6785008907318115,35.362762451171875,-10.90087890625,0.2527965009212494,2.6785008907318115,34.515899658203125,-4.821173667907715,0.6975172162055969,2.742851495742798,37.34640502929688,-6.696445941925049,0.6492252349853516,2.7106761932373047,39.009613037109375,-4.86005449295044,0.2662214040756225,2.9895288944244385,37.598175048828125",
+      "2024-02-01 00:10:00,-5.293917655944824,-0.6116541028022766,2.571249961853028,37.36929321289063,-12.379509925842283,0.6026996970176697,2.6034252643585205,35.332244873046875,-10.931628227233888,0.2644884288311004,2.6034252643585205,34.508270263671875,-4.809744834899902,0.6859489679336548,2.6463255882263184,37.331146240234375,-6.711842060089111,0.6414728164672852,2.6356005668640137,39.001983642578125,-4.867857456207275,0.2544931769371032,2.935903310775757,37.598175048828125",
+      "2024-02-01 00:20:00,-5.282501697540283,-0.6002118587493896,2.549799919128418,37.361663818359375,-12.37563419342041,0.6104443669319153,2.549799919128418,35.362762451171875,-10.92396354675293,0.25285804271698,2.5605249404907227,34.500640869140625,-4.821173667907715,0.6975172162055969,2.6034252643585205,37.338775634765625,-6.719539642333984,0.637596607208252,2.571249961853028,38.986724853515625,-4.864037036895752,0.2466219514608383,2.8715527057647705,37.605804443359375",
+      "2024-02-01 00:30:00,-5.282526969909668,-0.6154957413673401,2.474724054336548,37.331146240234375,-12.367880821228027,0.6065763831138611,2.4961743354797363,35.309356689453125,-10.916217803955078,0.2721873223781585,2.506899356842041,34.500640869140625,-4.805934906005859,0.6820928454399109,2.4961743354797363,37.300628662109375,-6.715689659118652,0.6337221264839172,2.517624616622925,38.971466064453125,-4.867787837982178,0.2662663161754608,2.7964770793914795,37.582916259765625",
+      "2024-02-01 00:40:00,-5.27871561050415,-0.6078606843948364,2.399648427963257,37.338775634765625,-12.37563419342041,0.6065738797187805,2.4210987091064453,35.324615478515625,-10.916258811950684,0.256707489490509,2.410373449325561,34.485382080078125,-4.8173370361328125,0.7052018642425537,2.4210987091064453,37.292999267578125,-6.715691089630127,0.6298465132713318,2.399648427963257,38.95620727539063,-4.852298259735107,0.270100861787796,2.732126474380493,37.575286865234375"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_TILY_PE11_CB1100_0",
+      "G_TILX_PE11_CB1100_0",
+      "G_TILT_PE11_CB1100_0",
+      "G_TILH_PE11_CB1100_0",
+      "G_TILY_PE12_CB1100_0",
+      "G_TILX_PE12_CB1100_0",
+      "G_TILT_PE12_CB1100_0",
+      "G_TILH_PE12_CB1100_0",
+      "G_TILY_PE13_CB1100_0",
+      "G_TILX_PE13_CB1100_0",
+      "G_TILT_PE13_CB1100_0",
+      "G_TILH_PE13_CB1100_0",
+      "G_TILY_PE21_CB0400_0",
+      "G_TILX_PE21_CB0400_0",
+      "G_TILT_PE21_CB0400_0",
+      "G_TILH_PE21_CB0400_0",
+      "G_TILY_PE22_CB0400_0",
+      "G_TILX_PE22_CB0400_0",
+      "G_TILT_PE22_CB0400_0",
+      "G_TILH_PE22_CB0400_0",
+      "G_TILY_PE23_CB0400_0",
+      "G_TILX_PE23_CB0400_0",
+      "G_TILT_PE23_CB0400_0",
+      "G_TILH_PE23_CB0400_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/04/114V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 965007,
+    "first_nonempty_lines": [
+      "114V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "-7.177734e-05",
+      "2.380371e-06",
+      "-1.641846e-05",
+      "4.998779e-05",
+      "8.514404e-05",
+      "-3.515625e-05",
+      "2.380371e-06",
+      "7.165527e-05",
+      "1.684570e-05"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/02/fvt/02setup01.mat",
+    "suffix": ".mat",
+    "size_bytes": 15510564,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65530,
+          34
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          34
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65530,
+        34
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "139V",
+        "140V",
+        "141V",
+        "142V",
+        "143V",
+        "239L",
+        "239T",
+        "239V",
+        "240T",
+        "240V",
+        "241T",
+        "241V",
+        "242T",
+        "242V",
+        "243L",
+        "243T",
+        "243V",
+        "339V",
+        "340V",
+        "341V",
+        "342V",
+        "343V",
+        "441L",
+        "441T",
+        "441V",
+        "442L",
+        "442T",
+        "442V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V",
+        "DP1V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/03_tiltmeter/tiltmeter_2024_03.csv",
+    "suffix": ".csv",
+    "size_bytes": 2113141,
+    "first_nonempty_lines": [
+      "Timestamp,G_TILY_PE11_CB1100_0,G_TILX_PE11_CB1100_0,G_TILT_PE11_CB1100_0,G_TILH_PE11_CB1100_0,G_TILY_PE12_CB1100_0,G_TILX_PE12_CB1100_0,G_TILT_PE12_CB1100_0,G_TILH_PE12_CB1100_0,G_TILY_PE13_CB1100_0,G_TILX_PE13_CB1100_0,G_TILT_PE13_CB1100_0,G_TILH_PE13_CB1100_0,G_TILY_PE21_CB0400_0,G_TILX_PE21_CB0400_0,G_TILT_PE21_CB0400_0,G_TILH_PE21_CB0400_0,G_TILY_PE22_CB0400_0,G_TILX_PE22_CB0400_0,G_TILT_PE22_CB0400_0,G_TILH_PE22_CB0400_0,G_TILY_PE23_CB0400_0,G_TILX_PE23_CB0400_0,G_TILT_PE23_CB0400_0,G_TILH_PE23_CB0400_0",
+      "2024-03-01 00:00:00,-5.177881717681885,-1.6358730792999268,6.582436561584473,43.427032470703125,-12.270957946777344,-0.3190236985683441,6.5502610206604,41.67990112304688,-10.79157543182373,-0.6104997396469116,6.5502610206604,40.161651611328125,-4.872187614440918,1.7517064809799194,6.335759162902832,43.739837646484375,-6.842983245849609,1.7187211513519287,6.389384746551514,44.899505615234375,-4.977267265319824,1.369695067405701,6.464460372924805,43.41177368164063",
+      "2024-03-01 00:10:00,-5.189284801483154,-1.6473290920257568,6.421560287475586,43.404144287109375,-12.29421615600586,-0.3345228731632232,6.464460372924805,41.672271728515625,-10.768510818481444,-0.6183011531829834,6.389384746551514,40.146392822265625,-4.856930732727051,1.7439757585525513,6.228508472442627,43.732208251953125,-6.839132785797119,1.7148466110229492,6.249958515167236,44.899505615234375,-4.992825984954834,1.354087233543396,6.314309120178223,43.396514892578125",
+      "2024-03-01 00:20:00,-5.18545389175415,-1.628231167793274,6.346484184265137,43.427032470703125,-12.274834632873535,-0.3228978812694549,6.3572096824646,41.67990112304688,-10.79157543182373,-0.6104997396469116,6.303584098815918,40.15402221679688,-4.860713481903076,1.7593728303909302,6.153432846069336,43.71694946289063,-6.839134693145752,1.7225967645645142,6.164157867431641,44.899505615234375,-4.992779731750488,1.361936092376709,6.217782974243164,43.38888549804688",
+      "2024-03-01 00:30:00,-5.181699752807617,-1.6549848318099976,6.335759162902832,43.442291259765625,-12.290339469909668,-0.3190299272537231,6.346484184265137,41.718048095703125,-10.791595458984377,-0.6182396411895752,6.271408557891846,40.17691040039063,-4.864531993865967,1.7593820095062256,6.131982326507568,43.732208251953125,-6.846835613250732,1.7303458452224731,6.164157867431641,44.922393798828125,-4.992733478546143,1.3697848320007324,6.18560791015625,43.41940307617188",
+      "2024-03-01 00:40:00,-5.177887916564941,-1.647349834442139,6.335759162902832,43.457550048828125,-12.286462783813477,-0.3383933305740356,6.314309120178223,41.687530517578125,-10.791584968566896,-0.6143696904182434,6.314309120178223,40.169281005859375,-4.853129863739014,1.7362726926803589,6.164157867431641,43.747467041015625,-6.839133739471436,1.7187217473983765,6.196332931518555,44.93765258789063,-4.992710113525391,1.3737093210220337,6.239233493804932,43.442291259765625"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_TILY_PE11_CB1100_0",
+      "G_TILX_PE11_CB1100_0",
+      "G_TILT_PE11_CB1100_0",
+      "G_TILH_PE11_CB1100_0",
+      "G_TILY_PE12_CB1100_0",
+      "G_TILX_PE12_CB1100_0",
+      "G_TILT_PE12_CB1100_0",
+      "G_TILH_PE12_CB1100_0",
+      "G_TILY_PE13_CB1100_0",
+      "G_TILX_PE13_CB1100_0",
+      "G_TILT_PE13_CB1100_0",
+      "G_TILH_PE13_CB1100_0",
+      "G_TILY_PE21_CB0400_0",
+      "G_TILX_PE21_CB0400_0",
+      "G_TILT_PE21_CB0400_0",
+      "G_TILH_PE21_CB0400_0",
+      "G_TILY_PE22_CB0400_0",
+      "G_TILX_PE22_CB0400_0",
+      "G_TILT_PE22_CB0400_0",
+      "G_TILH_PE22_CB0400_0",
+      "G_TILY_PE23_CB0400_0",
+      "G_TILX_PE23_CB0400_0",
+      "G_TILT_PE23_CB0400_0",
+      "G_TILH_PE23_CB0400_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/04/115V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 931893,
+    "first_nonempty_lines": [
+      "115V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "-8.588950e-05",
+      "1.737091e-05",
+      "2.895152e-05",
+      "3.840901e-05",
+      "8.839863e-05",
+      "-5.790303e-06",
+      "-3.609289e-05",
+      "9.303087e-05",
+      "1.048045e-04"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/02/fvt/02setup02.mat",
+    "suffix": ".mat",
+    "size_bytes": 15491493,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65530,
+          35
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          35
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65530,
+        35
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "134V",
+        "135V",
+        "136V",
+        "137V",
+        "138V",
+        "234L",
+        "234T",
+        "234V",
+        "235T",
+        "235V",
+        "236T",
+        "236V",
+        "237T",
+        "237V",
+        "238L",
+        "238T",
+        "238V",
+        "334V",
+        "335V",
+        "336V",
+        "337V",
+        "338V",
+        "431L",
+        "431T",
+        "431V",
+        "432L",
+        "432T",
+        "432V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V",
+        "DP1V",
+        "DP2V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/03_tiltmeter/tiltmeter_2024_04.csv",
+    "suffix": ".csv",
+    "size_bytes": 2048486,
+    "first_nonempty_lines": [
+      "Timestamp,G_TILY_PE11_CB1100_0,G_TILX_PE11_CB1100_0,G_TILT_PE11_CB1100_0,G_TILH_PE11_CB1100_0,G_TILY_PE12_CB1100_0,G_TILX_PE12_CB1100_0,G_TILT_PE12_CB1100_0,G_TILH_PE12_CB1100_0,G_TILY_PE13_CB1100_0,G_TILX_PE13_CB1100_0,G_TILT_PE13_CB1100_0,G_TILH_PE13_CB1100_0,G_TILY_PE21_CB0400_0,G_TILX_PE21_CB0400_0,G_TILT_PE21_CB0400_0,G_TILH_PE21_CB0400_0,G_TILY_PE22_CB0400_0,G_TILX_PE22_CB0400_0,G_TILT_PE22_CB0400_0,G_TILH_PE22_CB0400_0,G_TILY_PE23_CB0400_0,G_TILX_PE23_CB0400_0,G_TILT_PE23_CB0400_0,G_TILH_PE23_CB0400_0",
+      "2024-04-01 00:00:00,-4.331118106842041,-1.885787010192871,15.999072074890137,48.035186767578125,-12.150787353515623,-0.5707252621650696,15.9132719039917,45.662445068359375,-11.607802391052246,-0.8134320378303528,15.688044548034668,44.45700073242188,-4.515730381011963,2.320204973220825,15.870370864868164,48.126739501953125,-6.939362525939941,2.3115975856781006,15.988347053527832,49.660247802734375,-5.240625858306885,1.9520586729049685,15.752394676208496,47.78341674804688",
+      "2024-04-01 00:10:00,-4.3197340965271,-1.8934496641159055,15.902545928955078,48.035186767578125,-12.158539772033691,-0.5746006369590759,15.81674575805664,45.67770385742188,-11.607791900634766,-0.809562087059021,15.54861831665039,44.479888916015625,-4.523376941680908,2.3163764476776123,15.752394676208496,48.14962768554688,-6.939364433288574,2.319347858428955,15.870370864868164,49.690765380859375,-5.260074615478516,1.9325488805770876,15.634418487548828,47.791046142578125",
+      "2024-04-01 00:20:00,-4.342527866363525,-1.893408298492432,15.795295715332031,48.012298583984375,-12.17404556274414,-0.5823515057563782,15.709494590759276,45.67770385742188,-11.604005813598633,-0.8327919840812683,15.452092170715332,44.464630126953125,-4.538651466369629,2.316413164138794,15.64514446258545,48.141998291015625,-6.939364433288574,2.319347858428955,15.7631196975708,49.660247802734375,-5.240695476531982,1.940285444259644,15.54861831665039,47.78341674804688",
+      "2024-04-01 00:30:00,-4.342540740966797,-1.9010502099990845,15.752394676208496,48.05044555664063,-12.146910667419434,-0.5784698724746704,15.655869483947754,45.67770385742188,-11.603995323181152,-0.8289220333099365,15.387742042541504,44.479888916015625,-4.530969142913818,2.33562970161438,15.61296844482422,48.157257080078125,-6.9355149269104,2.3193483352661133,15.741669654846191,49.67550659179688,-5.2639875411987305,1.92472243309021,15.452092170715332,47.78341674804688",
+      "2024-04-01 00:40:00,-4.353918075561523,-1.8895665407180784,15.752394676208496,48.035186767578125,-12.189550399780272,-0.5707377195358276,15.64514446258545,45.67007446289063,-11.60015869140625,-0.8328022360801697,15.344841003417969,44.479888916015625,-4.51953125,2.3279082775115967,15.570068359375,48.141998291015625,-6.9355149269104,2.3193483352661133,15.709494590759276,49.667877197265625,-5.232962608337402,1.940240502357483,15.441367149353027,47.775787353515625"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_TILY_PE11_CB1100_0",
+      "G_TILX_PE11_CB1100_0",
+      "G_TILT_PE11_CB1100_0",
+      "G_TILH_PE11_CB1100_0",
+      "G_TILY_PE12_CB1100_0",
+      "G_TILX_PE12_CB1100_0",
+      "G_TILT_PE12_CB1100_0",
+      "G_TILH_PE12_CB1100_0",
+      "G_TILY_PE13_CB1100_0",
+      "G_TILX_PE13_CB1100_0",
+      "G_TILT_PE13_CB1100_0",
+      "G_TILH_PE13_CB1100_0",
+      "G_TILY_PE21_CB0400_0",
+      "G_TILX_PE21_CB0400_0",
+      "G_TILT_PE21_CB0400_0",
+      "G_TILH_PE21_CB0400_0",
+      "G_TILY_PE22_CB0400_0",
+      "G_TILX_PE22_CB0400_0",
+      "G_TILT_PE22_CB0400_0",
+      "G_TILH_PE22_CB0400_0",
+      "G_TILY_PE23_CB0400_0",
+      "G_TILX_PE23_CB0400_0",
+      "G_TILT_PE23_CB0400_0",
+      "G_TILH_PE23_CB0400_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/04/116V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 937381,
+    "first_nonempty_lines": [
+      "116V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "-6.927490e-05",
+      "2.703857e-05",
+      "7.757568e-05",
+      "3.723145e-05",
+      "7.318115e-05",
+      "2.679443e-05",
+      "-4.052734e-05",
+      "1.082764e-04",
+      "1.682129e-04"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/02/fvt/02setup03.mat",
+    "suffix": ".mat",
+    "size_bytes": 15886707,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65530,
+          35
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          35
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65530,
+        35
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "129V",
+        "130V",
+        "131V",
+        "132V",
+        "133V",
+        "229L",
+        "229T",
+        "229V",
+        "230T",
+        "230V",
+        "231T",
+        "231V",
+        "232T",
+        "232V",
+        "233L",
+        "233T",
+        "233V",
+        "329V",
+        "330V",
+        "331V",
+        "332V",
+        "333V",
+        "421L",
+        "421T",
+        "421V",
+        "422L",
+        "422T",
+        "422V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V",
+        "DP1V",
+        "DP2V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/04_tiltmeter_trigger/tiltmeter_2024_06_05_T11_26_13.csv",
+    "suffix": ".csv",
+    "size_bytes": 63760,
+    "first_nonempty_lines": [
+      "Timestamp,G_TILX_PE11_CB1100_0,G_TILX_PE12_CB1100_0,G_TILX_PE13_CB1100_0,G_TILX_PE21_CB0400_0,G_TILX_PE22_CB0400_0,G_TILX_PE23_CB0400_0",
+      "2024-06-05 11:26:13.600,-0.0190047004172437,0.0038665999092669,-0.0077083714058115,-0.0163399096893427,0.0065497733125394,-0.0047887239290987",
+      "2024-06-05 11:26:13.800,-0.0187819566642485,0.0038333022162411,-0.0077033233779332,-0.0169410017578413,0.0048250700171644,-0.0040531041412701",
+      "2024-06-05 11:26:14.000,-0.0180616987424259,0.0036975066137525,-0.0076776873770559,-0.0177826988890887,0.0021522803547718,-0.0027439628864",
+      "2024-06-05 11:26:14.200,-0.0163295963559207,0.0032792267109581,-0.0075762950267171,-0.0184368184010046,-0.0004369379383834,-0.0012003862545407",
+      "2024-06-05 11:26:14.400,-0.0130936030744738,0.0022758253861815,-0.0072639846008521,-0.0185974795171103,-0.0022606491832429,0.0001722502480723"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_TILX_PE11_CB1100_0",
+      "G_TILX_PE12_CB1100_0",
+      "G_TILX_PE13_CB1100_0",
+      "G_TILX_PE21_CB0400_0",
+      "G_TILX_PE22_CB0400_0",
+      "G_TILX_PE23_CB0400_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/05/119V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 968930,
+    "first_nonempty_lines": [
+      "119V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "1.833596e-05",
+      "-2.605636e-05",
+      "1.351071e-06",
+      "-5.597293e-06",
+      "-5.771002e-05",
+      "-5.153370e-05",
+      "-4.960360e-05",
+      "-1.017163e-04",
+      "-8.318736e-05"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/03/avt/03setup01.mat",
+    "suffix": ".mat",
+    "size_bytes": 9533836,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65026,
+          33
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          33
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65026,
+        33
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "99V",
+        "100V",
+        "101V",
+        "102V",
+        "103V",
+        "199L",
+        "199T",
+        "199V",
+        "200T",
+        "200V",
+        "201T",
+        "201V",
+        "202T",
+        "202V",
+        "203L",
+        "203T",
+        "203V",
+        "299V",
+        "300V",
+        "301V",
+        "302V",
+        "303V",
+        "511L",
+        "511T",
+        "511V",
+        "512L",
+        "512T",
+        "512V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/04_tiltmeter_trigger/tiltmeter_2024_06_05_T11_38_40.csv",
+    "suffix": ".csv",
+    "size_bytes": 63920,
+    "first_nonempty_lines": [
+      "Timestamp,G_TILX_PE11_CB1100_0,G_TILX_PE12_CB1100_0,G_TILX_PE13_CB1100_0,G_TILX_PE21_CB0400_0,G_TILX_PE22_CB0400_0,G_TILX_PE23_CB0400_0",
+      "2024-06-05 11:38:40.200,-0.0037666288726223,-2.4944857887336267e-05,-0.0116045870961564,-0.0014739417132356,0.0,0.0033297418981927",
+      "2024-06-05 11:38:40.400,-0.0036719470859468,-8.941035444539358e-05,-0.0115463264768853,-0.0011700716855929,-7.780329450580399e-07,0.0029650973217819",
+      "2024-06-05 11:38:40.600,-0.0034261733378769,-0.0002978641672046,-0.011308726355785,-0.0007269531171394,-5.851445049439254e-06,0.0023161598322766",
+      "2024-06-05 11:38:40.800,-0.0029641483843869,-0.0007991614603226,-0.0105768664594669,-0.0002995697136469,-3.1616357663788665e-05,0.0015508854703537",
+      "2024-06-05 11:38:41.000,-0.0022915340312338,-0.0017357081016621,-0.0088212258355441,0.0001227759876038,-0.0001335185638128,0.000869639285692"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_TILX_PE11_CB1100_0",
+      "G_TILX_PE12_CB1100_0",
+      "G_TILX_PE13_CB1100_0",
+      "G_TILX_PE21_CB0400_0",
+      "G_TILX_PE22_CB0400_0",
+      "G_TILX_PE23_CB0400_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/05/120V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 935559,
+    "first_nonempty_lines": [
+      "120V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "4.902457e-05",
+      "-9.650506e-07",
+      "1.370372e-05",
+      "1.601984e-05",
+      "-2.856550e-05",
+      "-2.721443e-05",
+      "-2.624938e-05",
+      "-7.952017e-05",
+      "-6.581645e-05"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/03/avt/03setup02.mat",
+    "suffix": ".mat",
+    "size_bytes": 9198144,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65536,
+          33
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          33
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65536,
+        33
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "104V",
+        "105V",
+        "106V",
+        "107V",
+        "108V",
+        "204L",
+        "204T",
+        "204V",
+        "205T",
+        "205V",
+        "206T",
+        "206V",
+        "207T",
+        "207V",
+        "208L",
+        "208T",
+        "208V",
+        "304V",
+        "305V",
+        "306V",
+        "307V",
+        "308V",
+        "521L",
+        "521T",
+        "521V",
+        "522L",
+        "522T",
+        "522V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/04_tiltmeter_trigger/tiltmeter_2024_06_05_T11_40_14.csv",
+    "suffix": ".csv",
+    "size_bytes": 64130,
+    "first_nonempty_lines": [
+      "Timestamp,G_TILX_PE11_CB1100_0,G_TILX_PE12_CB1100_0,G_TILX_PE13_CB1100_0,G_TILX_PE21_CB0400_0,G_TILX_PE22_CB0400_0,G_TILX_PE23_CB0400_0",
+      "2024-06-05 11:40:14.600,0.007596706464553,2.854779623196899e-09,0.0154991506587801,-0.0029063688121581,0.002605758770442,0.0074868828623235",
+      "2024-06-05 11:40:14.800,0.0075331791353045,1.3614606412934198e-08,0.0154923871669837,-0.0022988946702943,0.0021746161093775,0.006019878649556",
+      "2024-06-05 11:40:15.000,0.007327758953916,5.7495639265703874e-08,0.0154580393214869,-0.0014376399695646,0.0015063403897099,0.0034091335774705",
+      "2024-06-05 11:40:15.200,0.0068337570476001,1.926587360067307e-07,0.0153221909572802,-0.0007101453675224,0.0008582398731088,0.0003311376123306",
+      "2024-06-05 11:40:15.400,0.0059108399831617,5.168981494348647e-07,0.0149037485369528,-0.0002766698690034,0.0003980521617567,-0.0024044711767172"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_TILX_PE11_CB1100_0",
+      "G_TILX_PE12_CB1100_0",
+      "G_TILX_PE13_CB1100_0",
+      "G_TILX_PE21_CB0400_0",
+      "G_TILX_PE22_CB0400_0",
+      "G_TILX_PE23_CB0400_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/05/121V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 949989,
+    "first_nonempty_lines": [
+      "121V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "4.053212e-05",
+      "-8.492445e-06",
+      "-1.698489e-05",
+      "-1.003653e-05",
+      "-3.358376e-05",
+      "-4.863855e-05",
+      "-5.327079e-05",
+      "-9.245184e-05",
+      "-9.225883e-05"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/03/avt/03setup03.mat",
+    "suffix": ".mat",
+    "size_bytes": 10033148,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65536,
+          33
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          33
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65536,
+        33
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "109V",
+        "110V",
+        "111V",
+        "112V",
+        "113V",
+        "209L",
+        "209T",
+        "209V",
+        "210T",
+        "210V",
+        "211T",
+        "211V",
+        "212T",
+        "212V",
+        "213L",
+        "213T",
+        "213V",
+        "309V",
+        "310V",
+        "311V",
+        "312V",
+        "313V",
+        "531L",
+        "531T",
+        "531V",
+        "532L",
+        "532T",
+        "532V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/06/124V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 968577,
+    "first_nonempty_lines": [
+      "124V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "-2.244708e-04",
+      "-3.105533e-04",
+      "-6.741843e-04",
+      "-2.470529e-04",
+      "8.762659e-05",
+      "-1.173501e-04",
+      "3.165366e-05",
+      "2.997447e-04",
+      "3.205898e-04"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/03/fvt/03setup01.mat",
+    "suffix": ".mat",
+    "size_bytes": 15847630,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65536,
+          35
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          35
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65536,
+        35
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "139V",
+        "140V",
+        "141V",
+        "142V",
+        "143V",
+        "239L",
+        "239T",
+        "239V",
+        "240T",
+        "240V",
+        "241T",
+        "241V",
+        "242T",
+        "242V",
+        "243L",
+        "243T",
+        "243V",
+        "339V",
+        "340V",
+        "341V",
+        "342V",
+        "343V",
+        "441L",
+        "441T",
+        "441V",
+        "442L",
+        "442T",
+        "442V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V",
+        "DP1V",
+        "DP2V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/06/125V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 939229,
+    "first_nonempty_lines": [
+      "125V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "-2.246638e-04",
+      "-1.995725e-04",
+      "-5.419724e-04",
+      "-3.283102e-04",
+      "5.867507e-05",
+      "2.779346e-05",
+      "1.065416e-04",
+      "2.493691e-04",
+      "2.835319e-04"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/03/fvt/03setup02.mat",
+    "suffix": ".mat",
+    "size_bytes": 15799804,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65536,
+          35
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          35
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65536,
+        35
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "134V",
+        "135V",
+        "136V",
+        "137V",
+        "138V",
+        "234L",
+        "234T",
+        "234V",
+        "235T",
+        "235V",
+        "236T",
+        "236V",
+        "237T",
+        "237V",
+        "238L",
+        "238T",
+        "238V",
+        "334V",
+        "335V",
+        "336V",
+        "337V",
+        "338V",
+        "431L",
+        "431T",
+        "431V",
+        "432L",
+        "432T",
+        "432V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V",
+        "DP1V",
+        "DP2V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/06/126V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 952782,
+    "first_nonempty_lines": [
+      "126V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "-3.138344e-04",
+      "-1.526710e-04",
+      "-3.595778e-04",
+      "-4.362029e-04",
+      "-6.292130e-05",
+      "1.646376e-04",
+      "1.463017e-04",
+      "1.291238e-04",
+      "2.084509e-04"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/03/fvt/03setup03.mat",
+    "suffix": ".mat",
+    "size_bytes": 15945797,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65536,
+          35
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          35
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65536,
+        35
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "129V",
+        "130V",
+        "131V",
+        "132V",
+        "133V",
+        "229L",
+        "229T",
+        "229V",
+        "230T",
+        "230V",
+        "231T",
+        "231V",
+        "232T",
+        "232V",
+        "233L",
+        "233T",
+        "233V",
+        "329V",
+        "330V",
+        "331V",
+        "332V",
+        "333V",
+        "421L",
+        "421T",
+        "421V",
+        "422L",
+        "422T",
+        "422V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V",
+        "DP1V",
+        "DP2V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/07/129V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 974664,
+    "first_nonempty_lines": [
+      "129V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "6.408691e-06",
+      "1.080322e-05",
+      "-5.151367e-05",
+      "-4.455566e-05",
+      "-6.433105e-05",
+      "-1.174927e-04",
+      "-5.328369e-05",
+      "5.072021e-05",
+      "-9.887695e-06"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/04/avt/04setup01.mat",
+    "suffix": ".mat",
+    "size_bytes": 7348430,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65536,
+          33
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          33
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65536,
+        33
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "99V",
+        "100V",
+        "101V",
+        "102V",
+        "103V",
+        "199L",
+        "199T",
+        "199V",
+        "200T",
+        "200V",
+        "201T",
+        "201V",
+        "202T",
+        "202V",
+        "203L",
+        "203T",
+        "203V",
+        "299V",
+        "300V",
+        "301V",
+        "302V",
+        "303V",
+        "511L",
+        "511T",
+        "511V",
+        "512L",
+        "512T",
+        "512V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/07/130V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 925408,
+    "first_nonempty_lines": [
+      "130V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "6.451416e-05",
+      "5.761719e-05",
+      "-2.917480e-05",
+      "-4.211426e-05",
+      "-3.320313e-05",
+      "-3.326416e-05",
+      "1.397705e-05",
+      "4.949951e-05",
+      "-2.587891e-05"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/04/avt/04setup02.mat",
+    "suffix": ".mat",
+    "size_bytes": 9012563,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65536,
+          33
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          33
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65536,
+        33
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "104V",
+        "105V",
+        "106V",
+        "107V",
+        "108V",
+        "204L",
+        "204T",
+        "204V",
+        "205T",
+        "205V",
+        "206T",
+        "206V",
+        "207T",
+        "207V",
+        "208L",
+        "208T",
+        "208V",
+        "304V",
+        "305V",
+        "306V",
+        "307V",
+        "308V",
+        "521L",
+        "521T",
+        "521V",
+        "522L",
+        "522T",
+        "522V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/06/avt/07/131V.aaa",
+    "suffix": ".aaa",
+    "size_bytes": 927385,
+    "first_nonempty_lines": [
+      "131V.aaa|8Averages",
+      "65536",
+      "0.010000",
+      "7.742310e-05",
+      "7.800293e-05",
+      "-7.812500e-06",
+      "-4.064941e-05",
+      "-9.338379e-06",
+      "2.453613e-05",
+      "4.504395e-05",
+      "2.941895e-05",
+      "-3.616333e-05"
+    ],
+    "supported_signal_container": false,
+    "note": "Individual-channel source: diagnostic text only; not automatically merged or substituted for multichannel MAT acquisitions."
+  },
+  {
+    "path": "/data/a.riyahi/data/z24/04/avt/04setup03.mat",
+    "suffix": ".mat",
+    "size_bytes": 8227109,
+    "variables": [
+      {
+        "key": "data",
+        "shape": [
+          65536,
+          33
+        ],
+        "matlab_class": "double"
+      },
+      {
+        "key": "labelshulp",
+        "shape": [
+          33
+        ],
+        "matlab_class": "char"
+      }
+    ],
+    "z24_pdt_label_schema": {
+      "data_key": "data",
+      "data_shape": [
+        65536,
+        33
+      ],
+      "data_class": "double",
+      "label_key": "labelshulp",
+      "channel_labels": [
+        "109V",
+        "110V",
+        "111V",
+        "112V",
+        "113V",
+        "209L",
+        "209T",
+        "209V",
+        "210T",
+        "210V",
+        "211T",
+        "211V",
+        "212T",
+        "212V",
+        "213L",
+        "213T",
+        "213V",
+        "309V",
+        "310V",
+        "311V",
+        "312V",
+        "313V",
+        "531L",
+        "531T",
+        "531V",
+        "532L",
+        "532T",
+        "532V",
+        "R1V",
+        "R2L",
+        "R2T",
+        "R2V",
+        "R3V"
+      ],
+      "sample_axis": 0,
+      "embedded_rates_hz": {},
+      "signal_matrix_loaded": false
+    }
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "implementation": "NEW_AICSET240_REVISION_V5_FULL",
+  "data_roots": {
+    "z24": "/data/a.riyahi/data/z24",
+    "openlab": "/data/a.riyahi/data/openlab"
+  },
+  "work_root": "/home/a.riyahi/AICSET_240_revision",
+  "manifest_file": "/home/a.riyahi/AICSET_240_revision/acquisitions.csv",
+  "covariates_file": "/home/a.riyahi/AICSET_240_revision/measured_covariates.csv",
+  "covariate_join_tolerance_seconds": 300,
+  "run_new_analysis": true,
+  "alpha": 0.05,
+  "rank": 3,
+  "bins_per_curve": 128,
+  "nperseg": 4096,
+  "overlap": 0.5,
+  "frequency_upper": {
+    "openlab_2024": 2.5,
+    "z24_pdt": 2.5,
+    "z24_ems": 3.5
+  },
+  "f1_overrides_hz": {
+    "openlab_2024": null,
+    "z24_pdt": null,
+    "z24_ems": null
+  },
+  "f1_review_confirmed": {
+    "openlab_2024": false,
+    "z24_pdt": false,
+    "z24_ems": false
+  },
+  "f1_review_notes": {
+    "openlab_2024": "",
+    "z24_pdt": "",
+    "z24_ems": ""
+  },
+  "f1_peak_band_hz": [
+    0.5,
+    20.0
+  ],
+  "design_shifts": [
+    -0.02,
+    -0.01,
+    -0.005,
+    0.005,
+    0.01,
+    0.02
+  ],
+  "additional_test_shifts": [
+    -0.025,
+    -0.015,
+    -0.0075,
+    0.0075,
+    0.015,
+    0.025
+  ],
+  "ridge_alphas": [
+    0.001,
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0
+  ],
+  "splits": {
+    "openlab_2024": {
+      "fit": 10,
+      "calibration": 24,
+      "minimum_test": 3
+    },
+    "z24_ems": {
+      "fit": 7,
+      "calibration": 19,
+      "minimum_test": 3
+    }
+  },
+  "bootstrap_replicates": 10000,
+  "seed": 20261113,
+  "auto_openlab_temperature": true,
+  "temperature_join_tolerance_seconds": 300,
+  "require_complete_temperature_matches": false,
+  "show_publication_preview": true,
+  "publication_style": {
+    "figure_width_mm": 122,
+    "raster_dpi": 300,
+    "font_size_pt": 9,
+    "font_family": "Times New Roman"
+  }
+}

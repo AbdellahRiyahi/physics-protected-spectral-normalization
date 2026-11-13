@@ -1,0 +1,22 @@
+{
+  "evidence_origin": "SUPPLIED_MARWAN_V4_EXECUTION",
+  "run_id": "20261113T194855_217229Z",
+  "OpenLab_acquisitions": 526,
+  "PDT_acquisitions": 306,
+  "PDT_scenarios": 17,
+  "OpenLab_reference_coverage": {
+    "raw": "10/10",
+    "protected_NNLS": "10/10"
+  },
+  "PDT_descriptive_damage_phase_alerts": {
+    "raw": "6/9",
+    "protected_NNLS": "8/9"
+  },
+  "PDT_descriptive_reference08_false_alerts": {
+    "raw": "1/1",
+    "protected_NNLS": "1/1"
+  },
+  "PDT_nominal_95_percent_decision_status": "ABSTAIN",
+  "temperature_comparator_available_in_supplied_execution": false,
+  "note": "This embedded snapshot is contextual reporting only. Full V5 re-extracts raw signals and fits all applicable models; it never loads results from this previous run."
+}

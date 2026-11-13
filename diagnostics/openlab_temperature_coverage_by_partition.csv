@@ -1,0 +1,4 @@
+partition,acquisitions,matched,maximum_absolute_time_offset_seconds,matched_fraction
+calibration,172,172,298.0,1.0
+fit,180,180,297.0,1.0
+test,174,174,299.0,1.0

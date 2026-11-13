@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-13",
+  "official_submission_page": "https://aicset.org/submission",
+  "official_word_template_url": "https://aicset.org/storage/submission-templates/kUnrWh4nkuKSFo0ZJ3LrWl7MFbpNPeYEXuncfVnb.rar",
+  "template_archive_sha256": "ccac23892f3ba7ab1706c770886579bfccc783b5d0a00441946af7857d798dd9",
+  "official_website_requirements": {
+    "language": "English; no British/American variant specified",
+    "submission_format": "PDF",
+    "maximum_pages_including_figures_tables_references": 9,
+    "use_official_template": true
+  },
+  "verified_template_properties": {
+    "family": "Springer Proceedings SPLNPROC / LNCS sample",
+    "file": "splnproc1703.docm",
+    "page": "A4 portrait",
+    "printing_width_cm": 12.202583333333333,
+    "printing_height_cm": 19.300472222222222,
+    "default_typeface": "Times New Roman",
+    "table_caption_position": "above table",
+    "figure_caption_position": "below illustration",
+    "table_caption_prefix": "Table n.",
+    "figure_caption_prefix": "Fig. n.",
+    "caption_font_pt": 9,
+    "short_caption_alignment": "centred",
+    "multiline_caption_alignment": "justified",
+    "vector_line_art_preferred": true,
+    "numeric_reference_citations": "Square brackets with consecutive numbers preferred; author-year also permitted by sample",
+    "sample_table_general_text_pt": 9
+  },
+  "explicit_editorial_choices_not_conference_obligations": {
+    "language_variant": "British English, requested by author",
+    "figure_export_width_cm": 12.2,
+    "figure_formats": [
+      "PDF vector",
+      "SVG vector",
+      "PNG preview"
+    ],
+    "png_resolution_dpi": 300,
+    "labels": "Short sentence-case British English labels with explicit units",
+    "charts": "Use line styles/markers as well as colour; do not rely on colour alone",
+    "numbering": "Separate figure/table sequences, linked by a caption manifest",
+    "avoid": "Embedding long captions inside plot area; very small legends; decorative headings"
+  },
+  "caveats": [
+    "A notebook is a reproducibility supplement; the manuscript still needs final page count and template checks.",
+    "Neither a specific plot font size nor 300dpi nor a British-English variant is stated on the submission page.",
+    "Sample template text is guidance; plot styling choices must not be represented as extra AICSET requirements."
+  ]
+}

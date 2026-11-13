@@ -1,0 +1,2 @@
+One row = one synchronous acquisition. Confirm dataset, record_id, acquisition_id, group_id, timestamp_utc, state_label, scenario/excitation/setup_id for PDT, path, format, fs_hz, and explicit channel/data selectors. candidate_* fields are hints, never confirmed metadata. Use common physical reference channels across all PDT layouts. Never invent timestamps or climate values.
+Copy only completed confirmed acquisitions into the configured acquisitions.csv. Do not import every candidate: inventory also contains metadata/non-signal files.

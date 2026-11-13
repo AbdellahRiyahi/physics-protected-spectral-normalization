@@ -1,0 +1,9 @@
+Method,Covered/reference groups,Coverage (%),Wilson 95% bounds (%),Alert groups
+Uncorrected reference,10/10,100.0,72.2–100.0,0
+Unprotected signed projection,10/10,100.0,72.2–100.0,0
+Protected signed projection,10/10,100.0,72.2–100.0,0
+Protected NNLS,10/10,100.0,72.2–100.0,0
+Conventional PCA,10/10,100.0,72.2–100.0,0
+Spectral peak ratios,7/10,70.0,39.7–89.2,3
+Temperature regression,9/10,90.0,59.6–98.2,1
+Piecewise temperature regression,10/10,100.0,72.2–100.0,0

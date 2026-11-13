@@ -1,0 +1,27 @@
+{
+  "analytic_math_and_statistical_edge_cases": "PASS",
+  "new_pipeline_end_to_end_control_cohort": "PASS",
+  "test_signal_changes_do_not_change_fitted_models": "PASS",
+  "ambiguous_manifest_rejected": "PASS",
+  "PDT_scenario_protocol_end_to_end": "PASS",
+  "unsupported_nominal_damage_threshold_abstains": "PASS",
+  "test_features_changed_but_models_and_thresholds_unchanged": "PASS",
+  "PDT_scenario_decisions_mismatch_and_sampling_outputs": "PASS",
+  "methods_exercised": [
+    "raw",
+    "signed_pca",
+    "protected_signed",
+    "protected_nnls",
+    "baseline_pca",
+    "frequency_ratio",
+    "temperature_ridge",
+    "piecewise_temperature"
+  ],
+  "archived_report_reanalysis": "PASS",
+  "explicit_result_path_and_readonly_input_policy": "PASS",
+  "covariate_ID_leading_zeros_preserved": "PASS",
+  "covariate_timezone_alignment_checked": "PASS",
+  "source_change_invalidates_hash_and_cache": "PASS",
+  "synthetic_fixtures_are_scientific_evidence": false,
+  "HPC_datasets_executed": false
+}

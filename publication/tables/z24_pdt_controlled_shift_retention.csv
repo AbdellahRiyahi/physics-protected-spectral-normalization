@@ -1,0 +1,11 @@
+Method,Magnitude set,Perturbation cases,Minimum retention (%),Median retention (%),Maximum retention (%)
+Uncorrected reference,Design magnitudes,90,99.99999999999997,100.0,100.00000000000003
+Uncorrected reference,Additional magnitudes,90,99.99999999999997,100.0,100.00000000000003
+Unprotected signed projection,Design magnitudes,90,92.06980292843548,98.12827460592146,99.7330367155362
+Unprotected signed projection,Additional magnitudes,90,91.84437276624368,98.14986956264579,99.64689470417596
+Protected signed projection,Design magnitudes,90,97.55178374414716,99.49998656343134,99.92514505978419
+Protected signed projection,Additional magnitudes,90,97.31665027976327,99.51596709047044,99.92895067311782
+Protected NNLS,Design magnitudes,90,97.63643652072064,99.82469499913044,99.99982484245992
+Protected NNLS,Additional magnitudes,90,97.31665027976327,99.8484392351072,99.99998454002001
+Conventional PCA,Design magnitudes,90,91.60968751515334,98.3364877078517,99.6266708434828
+Conventional PCA,Additional magnitudes,90,90.31992608026512,98.28509788687788,99.5511770822786

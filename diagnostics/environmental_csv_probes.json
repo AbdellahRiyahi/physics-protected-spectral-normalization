@@ -1,0 +1,209 @@
+[
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_02.csv",
+    "suffix": ".csv",
+    "size_bytes": 311426,
+    "first_nonempty_lines": [
+      "Timestamp,G_HTST_ENVR_EN0000_0,G_HTSH_ENVR_EN0000_0,G_PYRS_ENVR_EN0000_0",
+      "2024-02-01 00:00:00,0.7952480316162109,88.18101501464844,-0.0045064613223075",
+      "2024-02-01 00:10:00,0.779205322265625,88.63479614257812,-0.0081116333603858",
+      "2024-02-01 00:20:00,0.7924728393554688,88.0988540649414,-0.0023433566093444",
+      "2024-02-01 00:30:00,0.5845775604248047,89.19099426269531,0.0075708553194999",
+      "2024-02-01 00:40:00,0.420480728149414,89.631103515625,-0.0045064613223075"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_HTST_ENVR_EN0000_0",
+      "G_HTSH_ENVR_EN0000_0",
+      "G_PYRS_ENVR_EN0000_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_03.csv",
+    "suffix": ".csv",
+    "size_bytes": 338213,
+    "first_nonempty_lines": [
+      "Timestamp,G_HTST_ENVR_EN0000_0,G_HTSH_ENVR_EN0000_0,G_PYRS_ENVR_EN0000_0",
+      "2024-03-01 00:00:00,4.868474960327148,93.99128723144533,0.06784296905001",
+      "2024-03-01 00:10:00,4.486459732055664,96.55705261230467,-0.0059152322743708",
+      "2024-03-01 00:20:00,4.509244918823242,96.99320220947266,-0.2845573665884634",
+      "2024-03-01 00:30:00,4.69569206237793,96.53275299072266,0.13067401596345",
+      "2024-03-01 00:40:00,4.776224136352539,96.13965606689452,0.141601170374391"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_HTST_ENVR_EN0000_0",
+      "G_HTSH_ENVR_EN0000_0",
+      "G_PYRS_ENVR_EN0000_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_04.csv",
+    "suffix": ".csv",
+    "size_bytes": 327150,
+    "first_nonempty_lines": [
+      "Timestamp,G_HTST_ENVR_EN0000_0,G_HTSH_ENVR_EN0000_0,G_PYRS_ENVR_EN0000_0",
+      "2024-04-01 00:00:00,13.612005233764648,61.91948699951172,0.1525283247853319",
+      "2024-04-01 00:10:00,13.504148483276367,62.331298828125,0.00501192213657",
+      "2024-04-01 00:20:00,13.266584396362305,63.28993606567383,0.0350615058171873",
+      "2024-04-01 00:30:00,13.384679794311523,62.75926208496094,0.2590679893425355",
+      "2024-04-01 00:40:00,13.491350173950195,62.35358047485352,0.00501192213657"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_HTST_ENVR_EN0000_0",
+      "G_HTSH_ENVR_EN0000_0",
+      "G_PYRS_ENVR_EN0000_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_05.csv",
+    "suffix": ".csv",
+    "size_bytes": 339203,
+    "first_nonempty_lines": [
+      "Timestamp,G_HTST_ENVR_EN0000_0,G_HTSH_ENVR_EN0000_0,G_PYRS_ENVR_EN0000_0",
+      "2024-05-01 00:00:00,18.708341598510746,43.80244064331055,0.00501192213657",
+      "2024-05-01 00:10:00,18.608304977416992,44.35640335083008,-0.05781912477687",
+      "2024-05-01 00:20:00,18.53372001647949,44.290645599365234,-0.2490441450693955",
+      "2024-05-01 00:30:00,18.495832443237305,44.25729751586914,0.2481408349315946",
+      "2024-05-01 00:40:00,18.3282413482666,44.66932678222656,0.1088197071415682"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_HTST_ENVR_EN0000_0",
+      "G_HTSH_ENVR_EN0000_0",
+      "G_PYRS_ENVR_EN0000_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_06.csv",
+    "suffix": ".csv",
+    "size_bytes": 327667,
+    "first_nonempty_lines": [
+      "Timestamp,G_HTST_ENVR_EN0000_0,G_HTSH_ENVR_EN0000_0,G_PYRS_ENVR_EN0000_0",
+      "2024-06-01 00:00:00,14.598886489868164,98.9351043701172,-0.0305012993824978",
+      "2024-06-01 00:10:00,14.426752090454102,98.88412475585938,0.1661872374825179",
+      "2024-06-01 00:20:00,14.252565383911133,99.13777923583984,0.0787701234609509",
+      "2024-06-01 00:30:00,14.188070297241213,99.2330322265625,0.0951607944443821",
+      "2024-06-01 00:40:00,14.100221633911133,99.5177993774414,-0.1288455678150057"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_HTST_ENVR_EN0000_0",
+      "G_HTSH_ENVR_EN0000_0",
+      "G_PYRS_ENVR_EN0000_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_07.csv",
+    "suffix": ".csv",
+    "size_bytes": 335669,
+    "first_nonempty_lines": [
+      "Timestamp,G_HTST_ENVR_EN0000_0,G_HTSH_ENVR_EN0000_0,G_PYRS_ENVR_EN0000_0",
+      "2024-07-01 00:00:00,16.70415687561035,94.66800689697266,0.2426771970931441",
+      "2024-07-01 00:10:00,16.643808364868164,94.91539001464844,0.327362613461446",
+      "2024-07-01 00:20:00,16.56154441833496,94.64630126953124,0.2809222981644174",
+      "2024-07-01 00:30:00,16.46879005432129,94.59262084960938,0.3000447274340937",
+      "2024-07-01 00:40:00,16.3603572845459,95.28181457519533,-0.0523556082043796"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_HTST_ENVR_EN0000_0",
+      "G_HTSH_ENVR_EN0000_0",
+      "G_PYRS_ENVR_EN0000_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_08.csv",
+    "suffix": ".csv",
+    "size_bytes": 338570,
+    "first_nonempty_lines": [
+      "Timestamp,G_HTST_ENVR_EN0000_0,G_HTSH_ENVR_EN0000_0,G_PYRS_ENVR_EN0000_0",
+      "2024-08-01 00:00:00,21.06761360168457,65.60478973388672,-0.0906005880096927",
+      "2024-08-01 00:10:00,20.768911361694336,68.02008056640625,0.0077436804228151",
+      "2024-08-01 00:20:00,20.7179012298584,68.41718292236328,-0.0496237286521742",
+      "2024-08-01 00:30:00,20.673704147338867,71.96199798583984,0.2973129691478486",
+      "2024-08-01 00:40:00,20.45978736877441,71.10163116455078,-0.0059152322743708"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_HTST_ENVR_EN0000_0",
+      "G_HTSH_ENVR_EN0000_0",
+      "G_PYRS_ENVR_EN0000_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_09.csv",
+    "suffix": ".csv",
+    "size_bytes": 327977,
+    "first_nonempty_lines": [
+      "Timestamp,G_HTST_ENVR_EN0000_0,G_HTSH_ENVR_EN0000_0,G_PYRS_ENVR_EN0000_0",
+      "2024-09-01 00:00:00,16.41533088684082,91.2078094482422,0.3410215261586321",
+      "2024-09-01 00:10:00,16.19835090637207,91.86390686035156,0.092429036158137",
+      "2024-09-01 00:20:00,16.09615135192871,92.24853515625,0.1115515866937736",
+      "2024-09-01 00:30:00,16.068899154663086,92.9423370361328,0.0268662309584518",
+      "2024-09-01 00:40:00,16.098241806030273,92.45082092285156,0.1634554791962728"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_HTST_ENVR_EN0000_0",
+      "G_HTSH_ENVR_EN0000_0",
+      "G_PYRS_ENVR_EN0000_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  },
+  {
+    "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_10.csv",
+    "suffix": ".csv",
+    "size_bytes": 339068,
+    "first_nonempty_lines": [
+      "Timestamp,G_HTST_ENVR_EN0000_0,G_HTSH_ENVR_EN0000_0,G_PYRS_ENVR_EN0000_0",
+      "2024-10-01 00:00:00,7.745336532592773,79.02609252929688,0.526782908612707",
+      "2024-10-01 00:10:00,8.612428665161133,73.12774658203125,-0.0906005880096927",
+      "2024-10-01 00:20:00,9.343935012817385,68.91887664794922,0.2180911299850171",
+      "2024-10-01 00:30:00,9.51963996887207,68.58409881591797,0.253604351504085",
+      "2024-10-01 00:40:00,9.641557693481444,67.35226440429688,0.1197468615525091"
+    ],
+    "candidate_delimiter": ",",
+    "first_row_cells": [
+      "Timestamp",
+      "G_HTST_ENVR_EN0000_0",
+      "G_HTSH_ENVR_EN0000_0",
+      "G_PYRS_ENVR_EN0000_0"
+    ],
+    "first_row_has_nonnumeric_tokens": true,
+    "sampling_rate_inferred": false,
+    "decimal_mark_inferred": false
+  }
+]

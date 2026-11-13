@@ -1,0 +1,125 @@
+{
+  "status": "COMPLETE_MEASURED_TEMPERATURE_ATTACHMENT",
+  "evidence": {
+    "dataset_doi": "10.25532/OPARA-660",
+    "dataset_url": "https://opara.zih.tu-dresden.de/handle/123456789/1048",
+    "data_article_doi": "10.1016/j.dib.2025.111624",
+    "data_article_url": "https://doi.org/10.1016/j.dib.2025.111624",
+    "schema_table": "Table 3, directory 02_environment",
+    "temperature_channel": "G_HTST_ENVR_EN0000_0",
+    "temperature_quantity": "MEASURED_AMBIENT_AIR_TEMPERATURE",
+    "temperature_unit": "degree_Celsius",
+    "naive_timestamp_timezone": "UTC",
+    "timezone_evidence": "Provider documentation explicitly states that CSV timestamps omit timezone information but represent UTC.",
+    "documented_interval_seconds": 600
+  },
+  "input_root": "/data/a.riyahi/data/openlab",
+  "source_files": [
+    {
+      "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_02.csv",
+      "sha256": "1f620a616ee0ffb5f36dfcd06f8493fffb945da813f27481d1c2f11d4b0f8a18",
+      "rows": 4111,
+      "missing_temperature_rows": 0,
+      "first_timestamp_utc": "2024-02-01T00:00:00+00:00",
+      "last_timestamp_utc": "2024-02-29T23:50:00+00:00",
+      "source_order_monotonic": true
+    },
+    {
+      "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_03.csv",
+      "sha256": "1d8d4af970c047aa7edbb4eb95eb2f3a93afe3f90cc9de573d8602bf4eaa5721",
+      "rows": 4460,
+      "missing_temperature_rows": 0,
+      "first_timestamp_utc": "2024-03-01T00:00:00+00:00",
+      "last_timestamp_utc": "2024-03-31T23:50:00+00:00",
+      "source_order_monotonic": true
+    },
+    {
+      "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_04.csv",
+      "sha256": "acaaa911237e821a34da841d4aa00929b44efcd0432d4518bb134d9f718b0a6b",
+      "rows": 4310,
+      "missing_temperature_rows": 0,
+      "first_timestamp_utc": "2024-04-01T00:00:00+00:00",
+      "last_timestamp_utc": "2024-04-30T23:50:00+00:00",
+      "source_order_monotonic": true
+    },
+    {
+      "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_05.csv",
+      "sha256": "4d9df114cc6313e4a660a2395b8e6c40757088182b64d1efeb4aac9ba83cf4f8",
+      "rows": 4462,
+      "missing_temperature_rows": 0,
+      "first_timestamp_utc": "2024-05-01T00:00:00+00:00",
+      "last_timestamp_utc": "2024-05-31T23:50:00+00:00",
+      "source_order_monotonic": true
+    },
+    {
+      "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_06.csv",
+      "sha256": "cefb122df6d036741402f34149b5d8e5404d4dc4ecd30d31ddf392bdb2fd381a",
+      "rows": 4316,
+      "missing_temperature_rows": 0,
+      "first_timestamp_utc": "2024-06-01T00:00:00+00:00",
+      "last_timestamp_utc": "2024-06-30T23:50:00+00:00",
+      "source_order_monotonic": true
+    },
+    {
+      "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_07.csv",
+      "sha256": "334681d9b1334d832cdd80477f09e7ebe1966bcf5b8f35a0e51088c134c07668",
+      "rows": 4425,
+      "missing_temperature_rows": 0,
+      "first_timestamp_utc": "2024-07-01T00:00:00+00:00",
+      "last_timestamp_utc": "2024-07-31T23:50:00+00:00",
+      "source_order_monotonic": true
+    },
+    {
+      "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_08.csv",
+      "sha256": "9df863ee4e77b0457d7ba281cfff99025a85e3962f3ad70dc3300dbcfc7c3d2e",
+      "rows": 4464,
+      "missing_temperature_rows": 0,
+      "first_timestamp_utc": "2024-08-01T00:00:00+00:00",
+      "last_timestamp_utc": "2024-08-31T23:50:00+00:00",
+      "source_order_monotonic": true
+    },
+    {
+      "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_09.csv",
+      "sha256": "16d1b71a21f652173b85b205c07fd2821a1a9a46c7bc3d62d9529c814b216402",
+      "rows": 4320,
+      "missing_temperature_rows": 0,
+      "first_timestamp_utc": "2024-09-01T00:00:00+00:00",
+      "last_timestamp_utc": "2024-09-30T23:50:00+00:00",
+      "source_order_monotonic": true
+    },
+    {
+      "path": "/data/a.riyahi/data/openlab/openlab_reference/2024-02-01_2024-10-31_ida_ki_export/02_environment/environment_2024_10.csv",
+      "sha256": "d1a047bd67ee5fdc084f3b8bf9313d2bb5e77cfc63bf39c04c5d646f924e20d1",
+      "rows": 4464,
+      "missing_temperature_rows": 0,
+      "first_timestamp_utc": "2024-10-01T00:00:00+00:00",
+      "last_timestamp_utc": "2024-10-31T23:50:00+00:00",
+      "source_order_monotonic": true
+    }
+  ],
+  "raw_inputs_written": false,
+  "temperature_interpolated": false,
+  "temperature_imputed": false,
+  "measured_rows": 39332,
+  "missing_temperature_rows": 0,
+  "first_timestamp_utc": "2024-02-01T00:00:00+00:00",
+  "last_timestamp_utc": "2024-10-31T23:50:00+00:00",
+  "observed_minimum_interval_seconds": 600.0,
+  "observed_maximum_interval_seconds": 21600.0,
+  "intervals_differing_from_documented_600_seconds": 23,
+  "measured_temperature_minimum_C": -4.434144973754883,
+  "measured_temperature_maximum_C": 36.515419006347656,
+  "matching_rule": "NEAREST_MEASURED_TIMESTAMP_TIE_TO_EARLIER",
+  "tolerance_seconds": 300.0,
+  "matching_is_retrospective": true,
+  "nominal_prospective_availability_established": false,
+  "acquisitions": 526,
+  "matched_acquisitions": 526,
+  "unmatched_acquisitions": 0,
+  "matched_fraction": 1.0,
+  "future_measurements_used": 262,
+  "maximum_absolute_time_offset_seconds": 299.0,
+  "all_acquisition_rows_retained": true,
+  "predictor_added": "cov_temperature",
+  "predictor_unit": "degree_Celsius"
+}

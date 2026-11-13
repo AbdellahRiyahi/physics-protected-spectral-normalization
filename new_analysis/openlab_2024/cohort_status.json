@@ -1,0 +1,26 @@
+{
+  "dataset": "openlab_2024",
+  "status": "COMPLETED_NEW_ANALYSIS",
+  "records": 526,
+  "methods": [
+    "raw",
+    "signed_pca",
+    "protected_signed",
+    "protected_nnls",
+    "baseline_pca",
+    "frequency_ratio",
+    "temperature_ridge",
+    "piecewise_temperature"
+  ],
+  "required_methods_missing": [],
+  "fit_groups": 10,
+  "calibration_groups": 24,
+  "test_groups": 10,
+  "reference_test_groups": 10,
+  "altered_test_groups": 0,
+  "unavailable_methods": [],
+  "f1_hz": 4.638671875,
+  "f1_physical_identity_review_required": true,
+  "independent_group_assumptions_established": false,
+  "historical_pipeline_reproduced": false
+}

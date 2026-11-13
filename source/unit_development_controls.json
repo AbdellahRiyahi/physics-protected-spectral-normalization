@@ -1,0 +1,17 @@
+{
+  "tests_run": 90,
+  "failures": 0,
+  "errors": 0,
+  "skipped": [
+    {
+      "test": "test_hdf5_external_links_and_virtual_datasets_are_rejected (test_io_v4.RawIOContract.test_hdf5_external_links_and_virtual_datasets_are_rejected)",
+      "reason": "optional h5py not installed"
+    },
+    {
+      "test": "test_hdf5_local_numeric_dataset_and_mat_v73 (test_io_v4.RawIOContract.test_hdf5_local_numeric_dataset_and_mat_v73)",
+      "reason": "optional h5py not installed"
+    }
+  ],
+  "successful": true,
+  "actual_HPC_raw_datasets_executed_during_preparation": false
+}
